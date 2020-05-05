@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="he">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Learning Hebrew</title>
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Arimo&display=swap"
+      rel="stylesheet"
+    />
+
+    <style>
+      body {
+        font-family: "Arimo", sans-serif;
+      }
+      .flex {
+        display: flex;
+        width: 100%;
+        justify-content: space-between;
+      }
+      .play {
+        cursor: pointer;
+      }
+      .bbd {
+        border-bottom-width: 2px;
+        border-bottom-style: dashed;
+      }
+      p {
+        font-size: 2rem;
+      }
+    </style>
+  </head>
+  <body>
+    <article class="flex bbd">
+      <section>
+        <h3>In English</h3>
+      </section>
+      <section>
+        <h3>Pronunciation</h3>
+      </section>
+      <section>
+        <h3>In Hebrew</h3>
+      </section>
+    </article>
+    <article class="flex">
+      <p>father</p>
+      <p>av</p>
+      <p class="he">
+        <span>באָ</span>
+        <svg
+          width="24"
+          height="24"
+          xmlns="http://www.w3.org/2000/svg"
+          fill-rule="evenodd"
+          clip-rule="evenodd"
+          class="play"
+        >
+          <path
+            d="M15 23l-9.309-6H0V7h5.691L15 1v22zM6 7.991v8.018l8 5.157V2.834L6 7.991zm14.228-4.219A10.779 10.779 0 0124 12.001a10.78 10.78 0 01-3.77 8.229l-.708-.708C21.658 17.731 23 15.021 23 12s-1.342-5.731-3.478-7.522l.706-.706zm-2.929 2.929A6.848 6.848 0 0119.775 12a6.848 6.848 0 01-2.476 5.299l-.706-.706a5.861 5.861 0 002.182-4.591 5.861 5.861 0 00-2.184-4.593l.708-.708zM5 8H1v8h4V8z"
+          />
+        </svg>
+        <audio
+          class="pronunciation"
+          src="https://static.memrise.com/uploads/things/audio/186500511_1526397301830.mp3"
+        >
+          Your browser does not support the <code>audio</code> element.
+        </audio>
+      </p>
+    </article>
+  </body>
+  <script>
+    window.addEventListener("load", () => {
+      document
+        .querySelector(".play")
+        .addEventListener("mouseenter", function () {
+          this.nextElementSibling.play()
+        })
+    })
+  </script>
+</html>
