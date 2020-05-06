@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="he">
+<html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -47,7 +47,7 @@
       <p>father</p>
       <p>av</p>
       <p class="he">
-        <span>באָ</span>
+        <span>אָב</span>
         <svg
           width="24"
           height="24"
@@ -71,11 +71,27 @@
   </body>
   <script>
     window.addEventListener("load", () => {
+      let data
+      let isFetchingData = true
+
       document
         .querySelector(".play")
         .addEventListener("mouseenter", function () {
           this.nextElementSibling.play()
         })
+      ;(async () => {
+        try {
+          const promise = await fetch("db.json")
+          const result = await promise.json()
+          console.log("res", result)
+          if (result) {
+            isFetchingData = false
+          }
+          return result
+        } catch (e) {
+          console.error(e.message)
+        }
+      })()
     })
   </script>
 </html>
