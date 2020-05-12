@@ -26,6 +26,9 @@
         border-bottom-width: 2px;
         border-bottom-style: dashed;
       }
+      .raise {
+        transform: rotate(-45deg) scale(1.4);
+      }
       p {
         font-size: 2rem;
       }
@@ -69,7 +72,7 @@
           wma: "audio/x-ms-wma",
           xspf: "application/xspf+xml",
         }
-        console.log("audioExtension ", audioExtension)
+
         if (audioExtension) {
           audio.type = mimeTypeMapping[audioExtension]
 
@@ -86,12 +89,11 @@
           const container = document.querySelector(".container")
           const promise = await fetch("db.json")
           const result = await promise.json()
-          // console.log("res", result.all)
 
           if (result.all && result.all.length > 0) {
-            let trumpet = null
-            let audioTag = null
-            // console.log("yes")
+            let trumpets
+            let audioTag
+
             isFetchingData = false
 
             result.all.map(({ en, tone, he, audio }) => {
@@ -132,16 +134,19 @@
               container.insertAdjacentHTML("afterend", generatedMarkup)
             }
 
-            trumpet = document.querySelector(".trumpet")
+            trumpets = document.querySelectorAll(".trumpet")
 
-            console.log(trumpet.nextElementSibling)
-            // if (trumpet) {
-            //   trumpet.addEventListener("click", function () {
-            //     this.nextElementSibling.play()
-            //   })
-            // }
+            if (trumpets) {
+              ;[...trumpets].map((trumpet) => {
+                if (trumpet.nextElementSibling) {
+                  trumpet.addEventListener("click", () => {
+                    playAudio(trumpet.nextElementSibling.src)
+                    trumpet.classList.toggle("raise")
+                  })
+                }
+              })
+            }
           }
-          // return result.all
         } catch (e) {
           console.error(e.message)
         }
