@@ -27,6 +27,16 @@
       .text-right {
         text-align: right;
       }
+      .leading-8 {
+        line-height: 2rem;
+      }
+      summary::marker {
+        content: "";
+      }
+      .panel {
+        margin-top: 1rem;
+        background-color: hsl(7, 11%, 83%);
+      }
       .bbd {
         border-bottom-width: 2px;
         border-bottom-style: dashed;
@@ -39,7 +49,7 @@
         font-size: 2.25rem;
       }
       .emoji {
-        font-size: 3rem;
+        font-size: 2rem;
       }
     </style>
   </head>
@@ -48,14 +58,15 @@
       <summary class="pointer text-right">
         <span class="emoji" role="img" aria-label="Trumpet">&#x1f3ba;</span>
       </summary>
-      <p class="text-right">
-        You can grow this vocabulary. If you are a technical person, open a
+      <p class="text-right leading-8">
+        The list below is in a growing process. With your help it can reach
+        maturity. A technical person can open a
         <a href="https://github.com/ccampean/hebrew/pulls">pull request</a>. Non
         technical people can fill a
         <a href="https://forms.gle/mbp9mXxWEwafrAvW9">form</a>.
       </p>
     </details>
-    <article class="flex">
+    <article class="flex panel">
       <section>
         <h3>In English</h3>
       </section>
@@ -136,7 +147,7 @@
                         xmlns="http://www.w3.org/2000/svg"
                         fill-rule="evenodd"
                         clip-rule="evenodd"
-                        class="trumpet"
+                        class="trumpet pointer"
                       >
                         <path
                           d="M15 23l-9.309-6H0V7h5.691L15 1v22zM6 7.991v8.018l8 5.157V2.834L6 7.991zm14.228-4.219A10.779 10.779 0 0124 12.001a10.78 10.78 0 01-3.77 8.229l-.708-.708C21.658 17.731 23 15.021 23 12s-1.342-5.731-3.478-7.522l.706-.706zm-2.929 2.929A6.848 6.848 0 0119.775 12a6.848 6.848 0 01-2.476 5.299l-.706-.706a5.861 5.861 0 002.182-4.591 5.861 5.861 0 00-2.184-4.593l.708-.708zM5 8H1v8h4V8z"
@@ -161,7 +172,10 @@
                 if (trumpet.nextElementSibling) {
                   trumpet.addEventListener("click", () => {
                     playAudio(trumpet.nextElementSibling.src)
-                    trumpet.classList.toggle("raise")
+
+                    trumpet.classList.add("raise")
+
+                    setTimeout(() => trumpet.classList.remove("raise"), 1200)
                   })
                 }
               })
