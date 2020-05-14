@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Learning Hebrew</title>
+    <title>Fluent in Hebrew</title>
 
     <link
       href="https://fonts.googleapis.com/css2?family=Arimo&display=swap"
@@ -12,6 +12,8 @@
 
     <style>
       body {
+        margin: 0;
+        padding: 0;
         font-family: "Arimo", sans-serif;
       }
       .flex {
@@ -19,23 +21,41 @@
         width: 100%;
         justify-content: space-between;
       }
-      .play {
+      .pointer {
         cursor: pointer;
+      }
+      .text-right {
+        text-align: right;
       }
       .bbd {
         border-bottom-width: 2px;
         border-bottom-style: dashed;
+        border-bottom-color: hsl(7, 11%, 83%);
       }
       .raise {
         transform: rotate(-45deg) scale(1.4);
       }
-      p {
-        font-size: 2rem;
+      .text-4xl {
+        font-size: 2.25rem;
+      }
+      .emoji {
+        font-size: 3rem;
       }
     </style>
   </head>
   <body>
-    <article class="flex bbd">
+    <details>
+      <summary class="pointer text-right">
+        <span class="emoji" role="img" aria-label="Trumpet">&#x1f3ba;</span>
+      </summary>
+      <p class="text-right">
+        You can grow this vocabulary. If you are a technical person, open a
+        <a href="https://github.com/ccampean/hebrew/pulls">pull request</a>. Non
+        technical people can fill a
+        <a href="https://forms.gle/mbp9mXxWEwafrAvW9">form</a>.
+      </p>
+    </details>
+    <article class="flex">
       <section>
         <h3>In English</h3>
       </section>
@@ -105,10 +125,10 @@
                   `
               }
               generatedMarkup += `
-                  <div class="flex">
-                    <p>${en}</p>
-                    <p>${tone}</p>
-                    <p class="he">
+                  <div class="flex bbd">
+                    <p class="text-4xl">${en}</p>
+                    <p class="text-4xl">${tone}</p>
+                    <p class="he text-4xl">
                       <span>${he}</span>
                       <svg
                         width="24"
