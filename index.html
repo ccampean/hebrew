@@ -63,6 +63,55 @@
         position: relative;
         bottom: 0.5rem;
       }
+      .mute {
+        pointer-events: none;
+        opacity: 0.15;
+      }
+      /* the spinner with overlay is taken from https://codepen.io/reidransom/pen/VaRrqL */
+      .loading {
+        position: fixed;
+        z-index: 999;
+        overflow: show;
+        margin: auto;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        width: 50px;
+        height: 50px;
+      }
+      .loading:before {
+        content: "";
+        display: block;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: hsla(0, 41%, 89%, 0.664);
+      }
+      .loading:not(:required):after {
+        content: "";
+        display: block;
+        font-size: 10px;
+        width: 50px;
+        height: 50px;
+        margin-top: -0.5em;
+
+        border: 5px solid rgba(33, 150, 243, 1);
+        border-radius: 100%;
+        border-bottom-color: transparent;
+        -webkit-animation: spinner 1s linear 0s infinite;
+        animation: spinner 1s linear 0s infinite;
+      }
+      @keyframes spinner {
+        0% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(360deg);
+        }
+      }
       @media (max-width: 640px) {
         .laptop {
           display: none;
@@ -150,12 +199,16 @@
       </section>
     </article>
 
-    <div class="container"></div>
+    <div class="vellum"></div>
   </body>
   <script>
     window.addEventListener("load", () => {
       let generatedMarkup = ""
-      let isFetchingData = true
+      const vellum = document.querySelector(".vellum")
+
+      // async function sleep(ms) {
+      //   return new Promise((resolve) => setTimeout(resolve, ms))
+      // }
 
       async function playAudio(src) {
         const audio = new Audio(src)
@@ -187,17 +240,19 @@
         }
       }
 
+      if (vellum) {
+        vellum.classList.add("loading")
+      }
+
       ;(async () => {
         try {
-          const container = document.querySelector(".container")
+          // await sleep(50000)
           const promise = await fetch("db.json")
           const result = await promise.json()
 
           if (result.all && result.all.length > 0) {
             let trumpets
             let audioTag
-
-            isFetchingData = false
 
             result.all.map(({ en, tone, he, audio }) => {
               if (audio) {
@@ -233,15 +288,17 @@
               return generatedMarkup
             })
 
-            if (container) {
-              container.insertAdjacentHTML("afterend", generatedMarkup)
+            if (vellum) {
+              vellum.classList.remove("loading")
+
+              vellum.insertAdjacentHTML("afterend", generatedMarkup)
             }
 
             trumpets = document.querySelectorAll(".trumpet")
 
             if (trumpets) {
               ;[...trumpets].map((trumpet) => {
-                if (trumpet.nextElementSibling) {
+                if (trumpet.nextElementSibling.src !== location.href) {
                   trumpet.addEventListener("click", () => {
                     playAudio(trumpet.nextElementSibling.src)
 
@@ -249,6 +306,8 @@
 
                     setTimeout(() => trumpet.classList.remove("raise"), 1200)
                   })
+                } else {
+                  trumpet.classList.add("mute")
                 }
               })
             }
