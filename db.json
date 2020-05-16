@@ -302,9 +302,33 @@
     },
     {
       "en": "I",
-      "tone": "",
+      "tone": "anii",
       "he": "אֲנִי",
       "audio": "https://static.memrise.com/uploads/things/audio/186526495_1526396284709.mp3"
+    },
+    {
+      "en": "fish",
+      "tone": "dag",
+      "he": "דָג",
+      "audio": " "
+    },
+    {
+      "en": "it; that",
+      "tone": "ze",
+      "he": "זֶה",
+      "audio": " "
+    },
+    {
+      "en": "gold",
+      "tone": "zahav",
+      "he": "זָהָב",
+      "audio": " "
+    },
+    {
+      "en": "legend",
+      "tone": "agada",
+      "he": "אַגָדָה",
+      "audio": " "
     }
   ]
 }
