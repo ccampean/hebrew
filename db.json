@@ -188,6 +188,12 @@
     },
     {
       "en": "k",
+      "tone": "haf",
+      "he": "כ",
+      "audio": "https://static.memrise.com/uploads/things/audio/105193041_160505_0856_17.mp3"
+    },
+    {
+      "en": "k",
       "tone": "haf sofit",
       "he": "ך",
       "audio": "https://static.memrise.com/uploads/things/audio/105198800_160505_0859_45.mp3"
@@ -248,13 +254,13 @@
     },
     {
       "en": "family",
-      "tone": "",
-      "he": "מִשׁפַּחתִי",
+      "tone": "mishpaha",
+      "he": "מִשׁפָּחָה",
       "audio": "https://static.memrise.com/uploads/things/audio/186500509_1526397291093.mp3"
     },
     {
       "en": "families",
-      "tone": "",
+      "tone": "mishpahot",
       "he": "משפחות",
       "audio": "https://static.memrise.com/uploads/things/audio/186500510_1526397297048.mp3"
     }
