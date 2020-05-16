@@ -247,6 +247,18 @@
       "audio": "https://static.memrise.com/uploads/things/audio/186500513_1526397310709.mp3"
     },
     {
+      "en": "the sons",
+      "tone": "",
+      "he": "בנים",
+      "audio": "https://static.memrise.com/uploads/things/audio/186500514_1526397315128.mp3"
+    },
+    {
+      "en": "daughter",
+      "tone": "baa",
+      "he": "בַּת",
+      "audio": "https://static.memrise.com/uploads/things/audio/186500515_1526397319592.mp3"
+    },
+    {
       "en": "family",
       "tone": "mishpacha",
       "he": "מִשׁפָּחָה",
@@ -257,6 +269,18 @@
       "tone": "mishpachot",
       "he": "משפחות",
       "audio": "https://static.memrise.com/uploads/things/audio/186500510_1526397297048.mp3"
+    },
+    {
+      "en": "Hello!; Peace!",
+      "tone": "Shalom!",
+      "he": "שָׁלוֹם!",
+      "audio": "https://static.memrise.com/uploads/things/audio/186526494_1526396208834.mp3"
+    },
+    {
+      "en": "I",
+      "tone": "",
+      "he": "אֲנִי",
+      "audio": "https://static.memrise.com/uploads/things/audio/186526495_1526396284709.mp3"
     }
   ]
 }
