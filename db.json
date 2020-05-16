@@ -49,6 +49,12 @@
       "audio": "https://static.memrise.com/uploads/things/audio/105193014_160505_0853_14.mp3"
     },
     {
+      "en": "gimel with a geresh",
+      "tone": "j",
+      "he": "ג׳",
+      "audio": " "
+    },
+    {
       "en": "d",
       "tone": "dalet",
       "he": "ד",
@@ -158,21 +164,39 @@
     },
     {
       "en": "ts",
-      "tone": "tzadic",
+      "tone": "tsadi",
       "he": "צ",
       "audio": "https://static.memrise.com/uploads/things/audio/105193071_160505_0854_13.mp3"
     },
     {
+      "en": "ch",
+      "tone": "tsadi with a geresh",
+      "he": "צ׳",
+      "audio": " "
+    },
+    {
       "en": "ts",
-      "tone": "tzadic sofit",
+      "tone": "tsadi sofit",
       "he": "ץ",
       "audio": "https://static.memrise.com/uploads/things/audio/105198763_160505_0859_34.mp3"
+    },
+    {
+      "en": "ch",
+      "tone": "tsadi sofit with a geresh",
+      "he": "ץ׳",
+      "audio": " "
     },
     {
       "en": "z",
       "tone": "zayin",
       "he": "ז",
       "audio": "https://static.memrise.com/uploads/things/audio/105193023_160505_0853_25.mp3"
+    },
+    {
+      "en": "zayin with a geresh",
+      "tone": "j",
+      "he": "ז׳",
+      "audio": " "
     },
     {
       "en": "k",
@@ -200,7 +224,7 @@
     },
     {
       "en": "y",
-      "tone": "iod",
+      "tone": "yod",
       "he": "י",
       "audio": "https://static.memrise.com/uploads/things/audio/105193033_160505_0853_34.mp3"
     },
