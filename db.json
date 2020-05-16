@@ -329,6 +329,36 @@
       "tone": "agada",
       "he": "אַגָדָה",
       "audio": " "
+    },
+    {
+      "en": "freedom",
+      "tone": "hofesh",
+      "he": "חוֹפֶשׁ",
+      "audio": " "
+    },
+    {
+      "en": "safety",
+      "tone": "bitahon",
+      "he": "בִּטָחוֹן",
+      "audio": " "
+    },
+    {
+      "en": "hair",
+      "tone": "sear",
+      "he": "שֵׂעַר",
+      "audio": " "
+    },
+    {
+      "en": "skin",
+      "tone": "or",
+      "he": "עוֹר",
+      "audio": " "
+    },
+    {
+      "en": "light",
+      "tone": "or",
+      "he": "אוֹר",
+      "audio": " "
     }
   ]
 }
