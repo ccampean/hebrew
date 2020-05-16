@@ -229,10 +229,34 @@
       "audio": " "
     },
     {
+      "en": "mother",
+      "tone": "ima",
+      "he": "אִמָא",
+      "audio": "https://static.memrise.com/uploads/things/audio/186500512_1526397306275.mp3"
+    },
+    {
       "en": "daddy",
       "tone": "aba",
       "he": "אַבָּא",
       "audio": "https://static.memrise.com/uploads/things/audio/186500511_1526397301830.mp3"
+    },
+    {
+      "en": "son",
+      "tone": "ben",
+      "he": "בֵּן",
+      "audio": "https://static.memrise.com/uploads/things/audio/186500513_1526397310709.mp3"
+    },
+    {
+      "en": "family",
+      "tone": "",
+      "he": "מִשׁפַּחתִי",
+      "audio": "https://static.memrise.com/uploads/things/audio/186500509_1526397291093.mp3"
+    },
+    {
+      "en": "families",
+      "tone": "",
+      "he": "משפחות",
+      "audio": "https://static.memrise.com/uploads/things/audio/186500510_1526397297048.mp3"
     }
   ]
 }
