@@ -7,6 +7,30 @@
       "audio": "https://static.memrise.com/uploads/things/audio/105193004_160505_0852_22.mp3"
     },
     {
+      "en": "aleph with hatap segol",
+      "tone": "super short 'e'",
+      "he": "אֱ",
+      "audio": " "
+    },
+    {
+      "en": "aleph with kamatz",
+      "tone": "ay",
+      "he": "אָ",
+      "audio": " "
+    },
+    {
+      "en": "aleph with patah",
+      "tone": "ah",
+      "he": "אַ",
+      "audio": " "
+    },
+    {
+      "en": "aleph with hatap patah",
+      "tone": "super short 'a'",
+      "he": "אֲ",
+      "audio": " "
+    },
+    {
       "en": "b",
       "tone": "bet",
       "he": "בּ",
@@ -119,6 +143,12 @@
       "tone": "vav",
       "he": "ו",
       "audio": "https://static.memrise.com/uploads/things/audio/105193020_160505_0853_24.mp3"
+    },
+    {
+      "en": "holam male",
+      "tone": "oh",
+      "he": "וֹ",
+      "audio": " "
     },
     {
       "en": "",
