@@ -247,6 +247,18 @@
       "audio": "https://static.memrise.com/uploads/things/audio/105193044_160505_0854_08.mp3"
     },
     {
+      "en": "in; with; at",
+      "tone": "be-",
+      "he": "-בְּ",
+      "audio": " "
+    },
+    {
+      "en": "(he) came",
+      "tone": "(hu) ba",
+      "he": " ",
+      "audio": " "
+    },
+    {
       "en": "father",
       "tone": "av",
       "he": "אָב",
@@ -293,6 +305,24 @@
       "tone": "mishpachot",
       "he": "משפחות",
       "audio": "https://static.memrise.com/uploads/things/audio/186500510_1526397297048.mp3"
+    },
+    {
+      "en": "apropos",
+      "tone": "agav",
+      "he": "אַגַב",
+      "audio": " "
+    },
+    {
+      "en": "back",
+      "tone": "gav",
+      "he": "גַב",
+      "audio": " "
+    },
+    {
+      "en": "roof",
+      "tone": "gag",
+      "he": "גַג",
+      "audio": " "
     },
     {
       "en": "Hello!; Peace!",
