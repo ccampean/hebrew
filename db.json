@@ -255,7 +255,7 @@
     {
       "en": "(he) came",
       "tone": "(hu) ba",
-      "he": " ",
+      "he": "בָּא",
       "audio": " "
     },
     {
@@ -281,6 +281,24 @@
       "tone": "ben",
       "he": "בֵּן",
       "audio": "https://static.memrise.com/uploads/things/audio/186500513_1526397310709.mp3"
+    },
+    {
+      "en": "brother; monk; fireplace",
+      "tone": "ah",
+      "he": "אָח",
+      "audio": " "
+    },
+    {
+      "en": "brotherhood; guild",
+      "tone": "ahava",
+      "he": "אַחֲוָה",
+      "audio": " "
+    },
+    {
+      "en": "love; affection",
+      "tone": "ahava",
+      "he": "אַהֲבָה",
+      "audio": " "
     },
     {
       "en": "the sons",
@@ -355,6 +373,12 @@
       "audio": " "
     },
     {
+      "en": "percent; proportion; rate; cent",
+      "tone": "ahuz",
+      "he": "אָחוּז",
+      "audio": " "
+    },
+    {
       "en": "legend",
       "tone": "agada",
       "he": "אַגָדָה",
@@ -388,6 +412,18 @@
       "en": "light",
       "tone": "or",
       "he": "אוֹר",
+      "audio": " "
+    },
+    {
+      "en": "one",
+      "tone": "ehad",
+      "he": "אֶחָד",
+      "audio": " "
+    },
+    {
+      "en": "indebted",
+      "tone": "hav",
+      "he": "חָב",
       "audio": " "
     }
   ]
