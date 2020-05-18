@@ -67,8 +67,8 @@
       "audio": "https://static.memrise.com/uploads/things/audio/105193017_160505_0853_21.mp3"
     },
     {
-      "en": "h",
-      "tone": "het",
+      "en": "ch",
+      "tone": "chet",
       "he": "ח",
       "audio": "https://static.memrise.com/uploads/things/audio/105193025_160505_0853_29.mp3"
     },
@@ -367,6 +367,54 @@
       "audio": " "
     },
     {
+      "en": "garden; park",
+      "tone": "gan",
+      "he": "גַן",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/garden-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "gardener",
+      "tone": "ganan",
+      "he": "גַּנָּן",
+      "audio": " "
+    },
+    {
+      "en": "orchard",
+      "tone": "ghina",
+      "he": "גִנָה",
+      "audio": " "
+    },
+    {
+      "en": "thief",
+      "tone": "ganav",
+      "he": "גַנָב",
+      "audio": " "
+    },
+    {
+      "en": "banana",
+      "tone": "banana",
+      "he": "בָּנָנָה",
+      "audio": " "
+    },
+    {
+      "en": "holiday",
+      "tone": "hag",
+      "he": "חַג",
+      "audio": " "
+    },
+    {
+      "en": "it spins",
+      "tone": "hag",
+      "he": "",
+      "audio": " "
+    },
+    {
+      "en": "holiday",
+      "tone": "hag",
+      "he": "חַג",
+      "audio": " "
+    },
+    {
       "en": "Hello!; Peace!",
       "tone": "Shalom!",
       "he": "שָׁלוֹם!",
@@ -382,19 +430,25 @@
       "en": "fish",
       "tone": "dag",
       "he": "דָג",
-      "audio": " "
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/fish-in-hebrew-translation.mp3"
     },
     {
-      "en": "it; that",
+      "en": "(m) this; that",
       "tone": "ze",
       "he": "זֶה",
-      "audio": " "
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/this-hebrew-translation.mp3"
+    },
+    {
+      "en": "(f) this; that",
+      "tone": "zot",
+      "he": "זֹאת",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/this-feminine-hebrew-translation.mp3"
     },
     {
       "en": "gold",
       "tone": "zahav",
       "he": "זָהָב",
-      "audio": " "
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/gold-in-hebrew-translation.mp3"
     },
     {
       "en": "percent; proportion; rate; cent",
@@ -412,7 +466,7 @@
       "en": "freedom",
       "tone": "hofesh",
       "he": "חוֹפֶשׁ",
-      "audio": " "
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Freedom-in-hebrew-translation.mp3"
     },
     {
       "en": "safety",
@@ -436,7 +490,7 @@
       "en": "light",
       "tone": "or",
       "he": "אוֹר",
-      "audio": " "
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/hebrew-word-for-light.mp3"
     },
     {
       "en": "one",
@@ -448,6 +502,24 @@
       "en": "indebted",
       "tone": "hav",
       "he": "חָב",
+      "audio": " "
+    },
+    {
+      "en": "Hannah",
+      "tone": "hana",
+      "he": "חַנָּה",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Hannah-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Myrtle",
+      "tone": "hadas",
+      "he": "הֲדַס",
+      "audio": " "
+    },
+    {
+      "en": "Hadassah (Esther)",
+      "tone": "hadasa",
+      "he": "הֲדַסָּה",
       "audio": " "
     }
   ]
