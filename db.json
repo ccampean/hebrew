@@ -343,6 +343,30 @@
       "audio": " "
     },
     {
+      "en": "cloth; canvas; textile",
+      "tone": "bad",
+      "he": "בַּד",
+      "audio": " "
+    },
+    {
+      "en": "clothing; costume; dress",
+      "tone": "beghed",
+      "he": "בֶּגֶד",
+      "audio": " "
+    },
+    {
+      "en": "bear",
+      "tone": "dov",
+      "he": "דֹב",
+      "audio": " "
+    },
+    {
+      "en": "fortune; coriander; success; luck",
+      "tone": "gad",
+      "he": "גַד",
+      "audio": " "
+    },
+    {
       "en": "Hello!; Peace!",
       "tone": "Shalom!",
       "he": "שָׁלוֹם!",
