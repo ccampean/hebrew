@@ -247,6 +247,24 @@
       "audio": "https://static.memrise.com/uploads/things/audio/105193044_160505_0854_08.mp3"
     },
     {
+      "en": "small",
+      "tone": "catan",
+      "he": "קָטָן",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/small-hebrew-translation.mp3"
+    },
+    {
+      "en": "what",
+      "tone": "ma",
+      "he": "מַה",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/what-hebrew-translation.mp3"
+    },
+    {
+      "en": "staff; rod",
+      "tone": "mate",
+      "he": "מַטֶה",
+      "audio": " "
+    },
+    {
       "en": "in; with; at",
       "tone": "be-",
       "he": "-בְּ",
