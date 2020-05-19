@@ -343,6 +343,42 @@
       "audio": "https://static.memrise.com/uploads/things/audio/186500510_1526397297048.mp3"
     },
     {
+      "en": "nation",
+      "tone": "am",
+      "he": "עַם",
+      "audio": " "
+    },
+    {
+      "en": "faithful",
+      "tone": "ne'eman",
+      "he": "נֶאֱמָן",
+      "audio": " "
+    },
+    {
+      "en": "Amen; veritably",
+      "tone": "amen",
+      "he": "אָמֵן",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/amen-in-hebrew-translation-1.mp3"
+    },
+    {
+      "en": "Eden",
+      "tone": "eden",
+      "he": "עֵדֶן",
+      "audio": " "
+    },
+    {
+      "en": "sin",
+      "tone": "het",
+      "he": "חֵטְא",
+      "audio": " "
+    },
+    {
+      "en": "cloud",
+      "tone": "anan",
+      "he": "עָנָן",
+      "audio": " "
+    },
+    {
       "en": "apropos",
       "tone": "agav",
       "he": "אַגַב",
