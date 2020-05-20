@@ -151,9 +151,15 @@
       "audio": "https://static.memrise.com/uploads/things/audio/105193020_160505_0853_24.mp3"
     },
     {
-      "en": "cholam male",
+      "en": "vav with cholam",
       "tone": "oh",
       "he": "וֹ",
+      "audio": " "
+    },
+    {
+      "en": "vav with shuruk",
+      "tone": "oo",
+      "he": "וּ",
       "audio": " "
     },
     {
@@ -205,14 +211,14 @@
       "audio": "https://static.memrise.com/uploads/things/audio/105193037_160505_0856_17.mp3"
     },
     {
-      "en": "k",
-      "tone": "haf",
+      "en": "ch",
+      "tone": "chaf",
       "he": "כ",
       "audio": "https://static.memrise.com/uploads/things/audio/105193041_160505_0856_17.mp3"
     },
     {
-      "en": "k",
-      "tone": "haf sofit",
+      "en": "ch",
+      "tone": "chaf sofit",
       "he": "ך",
       "audio": "https://static.memrise.com/uploads/things/audio/105198800_160505_0859_45.mp3"
     },
@@ -481,6 +487,30 @@
       "audio": "https://static.memrise.com/uploads/things/audio/186526495_1526396284709.mp3"
     },
     {
+      "en": "he",
+      "tone": "hu",
+      "he": "הוּא",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/he-hebrew-translation-2.mp3"
+    },
+    {
+      "en": "master; mister",
+      "tone": "adon",
+      "he": "אָדוֹן",
+      "audio": " "
+    },
+    {
+      "en": "thus",
+      "tone": "co",
+      "he": "כֹּה",
+      "audio": " "
+    },
+    {
+      "en": "an amount; sum; total",
+      "tone": "shu",
+      "he": "סְכוּם",
+      "audio": " "
+    },
+    {
       "en": "fish",
       "tone": "dag",
       "he": "דָג",
@@ -575,6 +605,30 @@
       "tone": "hadasa",
       "he": "הֲדַסָּה",
       "audio": " "
+    },
+    {
+      "en": "wise",
+      "tone": "haham",
+      "he": "חָכָם",
+      "audio": " "
+    },
+    {
+      "en": "wise",
+      "tone": "haham",
+      "he": "חָכָם",
+      "audio": " "
+    },
+    {
+      "en": "yes",
+      "tone": "ken",
+      "he": "כֵּן",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/how-to-say-yes-in-hebrew.mp3"
+    },
+    {
+      "en": "and; also; as well as",
+      "tone": "ve",
+      "he": "וְ",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/and-hebrew-translation.mp3"
     }
   ]
 }
