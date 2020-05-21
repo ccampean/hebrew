@@ -629,6 +629,48 @@
       "tone": "ve",
       "he": "וְ",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/and-hebrew-translation.mp3"
+    },
+    {
+      "en": "end",
+      "tone": "sof",
+      "he": "סוֹף",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/end-hebrew-translation.mp3"
+    },
+    {
+      "en": "pharaoh",
+      "tone": "paro",
+      "he": "פַּרְעֹה",
+      "audio": " "
+    },
+    {
+      "en": "mouth",
+      "tone": "pe",
+      "he": "פֶּה",
+      "audio": " "
+    },
+    {
+      "en": "said",
+      "tone": "amar",
+      "he": "אָמַר",
+      "audio": " "
+    },
+    {
+      "en": "book",
+      "tone": "sefer",
+      "he": "סֵפֶר",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/book-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "salesmen",
+      "tone": "moher",
+      "he": "מוֹכֵר",
+      "audio": " "
+    },
+    {
+      "en": "commander",
+      "tone": "mefached",
+      "he": "מְפַקֵד",
+      "audio": " "
     }
   ]
 }
