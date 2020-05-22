@@ -625,6 +625,30 @@
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/how-to-say-yes-in-hebrew.mp3"
     },
     {
+      "en": "no",
+      "tone": "lo",
+      "he": "לֹא",
+      "audio": " "
+    },
+    {
+      "en": "Saturday",
+      "tone": "shabat",
+      "he": "שַׁבָּת",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Saturday-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Sarah",
+      "tone": "sara",
+      "he": "שָׂרָה",
+      "audio": " "
+    },
+    {
+      "en": "Torah",
+      "tone": "tora",
+      "he": "תּוֹרָה",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/torah-in-hebrew-translation.mp3"
+    },
+    {
       "en": "and; also; as well as",
       "tone": "ve",
       "he": "וְ",
