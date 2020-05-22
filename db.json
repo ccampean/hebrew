@@ -1,34 +1,10 @@
 {
-  "all": [
+  "consonants": [
     {
       "en": "a",
       "tone": "aleph",
       "he": "א",
       "audio": "https://static.memrise.com/uploads/things/audio/105193004_160505_0852_22.mp3"
-    },
-    {
-      "en": "aleph with chataf segol",
-      "tone": "super short 'e'",
-      "he": "אֱ",
-      "audio": " "
-    },
-    {
-      "en": "aleph with kamatz",
-      "tone": "ay",
-      "he": "אָ",
-      "audio": " "
-    },
-    {
-      "en": "aleph with patach",
-      "tone": "ah",
-      "he": "אַ",
-      "audio": " "
-    },
-    {
-      "en": "aleph with chataf patach",
-      "tone": "super short 'a'",
-      "he": "אֲ",
-      "audio": " "
     },
     {
       "en": "b",
@@ -49,12 +25,6 @@
       "audio": "https://static.memrise.com/uploads/things/audio/105193014_160505_0853_14.mp3"
     },
     {
-      "en": "gimel with a geresh",
-      "tone": "j",
-      "he": "ג׳",
-      "audio": " "
-    },
-    {
       "en": "d",
       "tone": "dalet",
       "he": "ד",
@@ -67,34 +37,58 @@
       "audio": "https://static.memrise.com/uploads/things/audio/105193017_160505_0853_21.mp3"
     },
     {
+      "en": "v, w",
+      "tone": "vav",
+      "he": "ו",
+      "audio": "https://static.memrise.com/uploads/things/audio/105193020_160505_0853_24.mp3"
+    },
+    {
+      "en": "z",
+      "tone": "zayin",
+      "he": "ז",
+      "audio": "https://static.memrise.com/uploads/things/audio/105193023_160505_0853_25.mp3"
+    },
+    {
       "en": "ch",
       "tone": "chet",
       "he": "ח",
       "audio": "https://static.memrise.com/uploads/things/audio/105193025_160505_0853_29.mp3"
     },
     {
-      "en": "r",
-      "tone": "resh",
-      "he": "ר",
-      "audio": "https://static.memrise.com/uploads/things/audio/105193078_160505_0854_17.mp3"
+      "en": "t",
+      "tone": "tet",
+      "he": "ט",
+      "audio": "https://static.memrise.com/uploads/things/audio/105193028_160505_0853_32.mp3"
     },
     {
-      "en": "sh",
-      "tone": "shin",
-      "he": "שׁ",
-      "audio": "https://static.memrise.com/uploads/things/audio/105193079_160505_0854_20.mp3"
+      "en": "y",
+      "tone": "yod",
+      "he": "י",
+      "audio": "https://static.memrise.com/uploads/things/audio/105193033_160505_0853_34.mp3"
     },
     {
-      "en": "s",
-      "tone": "sin",
-      "he": "שׂ",
-      "audio": "https://static.memrise.com/uploads/things/audio/105193082_160505_0854_25.mp3"
+      "en": "k",
+      "tone": "caf",
+      "he": "כּ",
+      "audio": "https://static.memrise.com/uploads/things/audio/105193037_160505_0856_17.mp3"
     },
     {
-      "en": "s",
-      "tone": "samech",
-      "he": "ס",
-      "audio": "https://static.memrise.com/uploads/things/audio/105193057_160505_0854_07.mp3"
+      "en": "ch",
+      "tone": "chaf",
+      "he": "כ",
+      "audio": "https://static.memrise.com/uploads/things/audio/105193041_160505_0856_17.mp3"
+    },
+    {
+      "en": "ch",
+      "tone": "chaf sofit",
+      "he": "ך",
+      "audio": "https://static.memrise.com/uploads/things/audio/105198800_160505_0859_45.mp3"
+    },
+    {
+      "en": "l",
+      "tone": "lamed",
+      "he": "ל",
+      "audio": "https://static.memrise.com/uploads/things/audio/105193044_160505_0854_08.mp3"
     },
     {
       "en": "m",
@@ -121,6 +115,24 @@
       "audio": "https://static.memrise.com/uploads/things/audio/105198759_160505_0859_33.mp3"
     },
     {
+      "en": "s",
+      "tone": "samech",
+      "he": "ס",
+      "audio": "https://static.memrise.com/uploads/things/audio/105193057_160505_0854_07.mp3"
+    },
+    {
+      "en": "",
+      "tone": "ayin",
+      "he": "ע",
+      "audio": "https://static.memrise.com/uploads/things/audio/105193060_160505_0854_12.mp3"
+    },
+    {
+      "en": "p",
+      "tone": "pey",
+      "he": "פּ",
+      "audio": "https://static.memrise.com/uploads/things/audio/105193064_160505_0854_10.mp3"
+    },
+    {
       "en": "f",
       "tone": "fey",
       "he": "פ",
@@ -133,22 +145,78 @@
       "audio": "https://static.memrise.com/uploads/things/audio/105198788_160505_0859_41.mp3"
     },
     {
-      "en": "p",
-      "tone": "pey",
-      "he": "פּ",
-      "audio": "https://static.memrise.com/uploads/things/audio/105193064_160505_0854_10.mp3"
+      "en": "ts",
+      "tone": "tsadi",
+      "he": "צ",
+      "audio": "https://static.memrise.com/uploads/things/audio/105193071_160505_0854_13.mp3"
     },
     {
-      "en": "p",
-      "tone": "pey sofit",
-      "he": "ףּ",
-      "audio": "https://static.memrise.com/uploads/things/audio/105198769_160505_0859_39.mp3"
+      "en": "ts",
+      "tone": "tsadi sofit",
+      "he": "ץ",
+      "audio": "https://static.memrise.com/uploads/things/audio/105198763_160505_0859_34.mp3"
     },
     {
-      "en": "v, w",
-      "tone": "vav",
-      "he": "ו",
-      "audio": "https://static.memrise.com/uploads/things/audio/105193020_160505_0853_24.mp3"
+      "en": "k",
+      "tone": "cuf",
+      "he": "ק",
+      "audio": "https://static.memrise.com/uploads/things/audio/105193074_160505_0854_16.mp3"
+    },
+    {
+      "en": "r",
+      "tone": "resh",
+      "he": "ר",
+      "audio": "https://static.memrise.com/uploads/things/audio/105193078_160505_0854_17.mp3"
+    },
+    {
+      "en": "sh",
+      "tone": "shin",
+      "he": "שׁ",
+      "audio": "https://static.memrise.com/uploads/things/audio/105193079_160505_0854_20.mp3"
+    },
+    {
+      "en": "s",
+      "tone": "sin",
+      "he": "שׂ",
+      "audio": "https://static.memrise.com/uploads/things/audio/105193082_160505_0854_25.mp3"
+    },
+    {
+      "en": "t",
+      "tone": "tav",
+      "he": "ת",
+      "audio": "https://static.memrise.com/uploads/things/audio/105193086_160505_0854_26.mp3"
+    }
+  ],
+  "vowels": [
+    {
+      "en": "aleph with chataf segol",
+      "tone": "super short 'e'",
+      "he": "אֱ",
+      "audio": " "
+    },
+    {
+      "en": "aleph with kamatz",
+      "tone": "ay",
+      "he": "אָ",
+      "audio": " "
+    },
+    {
+      "en": "aleph with patach",
+      "tone": "ah",
+      "he": "אַ",
+      "audio": " "
+    },
+    {
+      "en": "aleph with chataf patach",
+      "tone": "super short 'a'",
+      "he": "אֲ",
+      "audio": " "
+    },
+    {
+      "en": "gimel with a geresh",
+      "tone": "j",
+      "he": "ג׳",
+      "audio": " "
     },
     {
       "en": "vav with cholam",
@@ -163,28 +231,10 @@
       "audio": " "
     },
     {
-      "en": "",
-      "tone": "ayin",
-      "he": "ע",
-      "audio": "https://static.memrise.com/uploads/things/audio/105193060_160505_0854_12.mp3"
-    },
-    {
-      "en": "ts",
-      "tone": "tsadi",
-      "he": "צ",
-      "audio": "https://static.memrise.com/uploads/things/audio/105193071_160505_0854_13.mp3"
-    },
-    {
       "en": "ch",
       "tone": "tsadi with a geresh",
       "he": "צ׳",
       "audio": " "
-    },
-    {
-      "en": "ts",
-      "tone": "tsadi sofit",
-      "he": "ץ",
-      "audio": "https://static.memrise.com/uploads/things/audio/105198763_160505_0859_34.mp3"
     },
     {
       "en": "ch",
@@ -193,65 +243,13 @@
       "audio": " "
     },
     {
-      "en": "z",
-      "tone": "zayin",
-      "he": "ז",
-      "audio": "https://static.memrise.com/uploads/things/audio/105193023_160505_0853_25.mp3"
-    },
-    {
       "en": "zayin with a geresh",
       "tone": "j",
       "he": "ז׳",
       "audio": " "
-    },
-    {
-      "en": "k",
-      "tone": "caf",
-      "he": "כּ",
-      "audio": "https://static.memrise.com/uploads/things/audio/105193037_160505_0856_17.mp3"
-    },
-    {
-      "en": "ch",
-      "tone": "chaf",
-      "he": "כ",
-      "audio": "https://static.memrise.com/uploads/things/audio/105193041_160505_0856_17.mp3"
-    },
-    {
-      "en": "ch",
-      "tone": "chaf sofit",
-      "he": "ך",
-      "audio": "https://static.memrise.com/uploads/things/audio/105198800_160505_0859_45.mp3"
-    },
-    {
-      "en": "k",
-      "tone": "cuf",
-      "he": "ק",
-      "audio": "https://static.memrise.com/uploads/things/audio/105193074_160505_0854_16.mp3"
-    },
-    {
-      "en": "y",
-      "tone": "yod",
-      "he": "י",
-      "audio": "https://static.memrise.com/uploads/things/audio/105193033_160505_0853_34.mp3"
-    },
-    {
-      "en": "t",
-      "tone": "tet",
-      "he": "ט",
-      "audio": "https://static.memrise.com/uploads/things/audio/105193028_160505_0853_32.mp3"
-    },
-    {
-      "en": "t",
-      "tone": "tav",
-      "he": "ת",
-      "audio": "https://static.memrise.com/uploads/things/audio/105193086_160505_0854_26.mp3"
-    },
-    {
-      "en": "l",
-      "tone": "lamed",
-      "he": "ל",
-      "audio": "https://static.memrise.com/uploads/things/audio/105193044_160505_0854_08.mp3"
-    },
+    }
+  ],
+  "words": [
     {
       "en": "small",
       "tone": "catan",
