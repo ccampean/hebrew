@@ -729,6 +729,48 @@
       "tone": "yisho'rael",
       "he": "יִשְׂרָאֵל",
       "audio": ""
+    },
+    {
+      "en": "moon; satellite",
+      "tone": "iareah",
+      "he": "יָרֵחַ",
+      "audio": ""
+    },
+    {
+      "en": "wind; spirit",
+      "tone": "ruah",
+      "he": "רוּחַ",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/hebrew-word-for-spirit.mp3"
+    },
+    {
+      "en": "Holy Spirit",
+      "tone": "ruachkudash",
+      "he": "רוּחַ קֻדַּשׁ",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/holy-spirit-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "apple",
+      "tone": "tapuah",
+      "he": "תַפּוּחַ",
+      "audio": ""
+    },
+    {
+      "en": "work",
+      "tone": "avoda",
+      "he": "עֲבוֹדָה",
+      "audio": ""
+    },
+    {
+      "en": "zebra",
+      "tone": "zebra",
+      "he": "זֶבּרָה",
+      "audio": ""
+    },
+    {
+      "en": "hebrew",
+      "tone": "iv'riyt",
+      "he": "עִבְרִית",
+      "audio": ""
     }
   ]
 }
