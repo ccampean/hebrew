@@ -693,6 +693,42 @@
       "tone": "mefached",
       "he": "מְפַקֵד",
       "audio": ""
+    },
+    {
+      "en": "hand; arm",
+      "tone": "iad",
+      "he": "יָד",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/hand-hebrew-translation.mp3"
+    },
+    {
+      "en": "house; home",
+      "tone": "bayit",
+      "he": "בַּיִת",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/house-hebrew-translation.mp3"
+    },
+    {
+      "en": "unleavened bread",
+      "tone": "matza",
+      "he": "מַצָה",
+      "audio": ""
+    },
+    {
+      "en": "bread",
+      "tone": "lechem",
+      "he": "לֶחֶם",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/bread-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "land; country; earth; world",
+      "tone": "eretz",
+      "he": "אֶרֶץ",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/earth-hebrew-translation.mp3"
+    },
+    {
+      "en": "Israel",
+      "tone": "yisho'rael",
+      "he": "יִשְׂרָאֵל",
+      "audio": ""
     }
   ]
 }
