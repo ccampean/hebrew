@@ -1,7 +1,7 @@
 {
   "consonants": [
     {
-      "en": "a",
+      "en": "",
       "tone": "aleph",
       "he": "א",
       "audio": "https://static.memrise.com/uploads/things/audio/105193004_160505_0852_22.mp3"
@@ -192,61 +192,61 @@
       "en": "aleph with chataf segol",
       "tone": "super short 'e'",
       "he": "אֱ",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "aleph with kamatz",
       "tone": "ay",
       "he": "אָ",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "aleph with patach",
       "tone": "ah",
       "he": "אַ",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "aleph with chataf patach",
       "tone": "super short 'a'",
       "he": "אֲ",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "gimel with a geresh",
       "tone": "j",
       "he": "ג׳",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "vav with cholam",
       "tone": "oh",
       "he": "וֹ",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "vav with shuruk",
       "tone": "oo",
       "he": "וּ",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "ch",
       "tone": "tsadi with a geresh",
       "he": "צ׳",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "ch",
       "tone": "tsadi sofit with a geresh",
       "he": "ץ׳",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "zayin with a geresh",
       "tone": "j",
       "he": "ז׳",
-      "audio": " "
+      "audio": ""
     }
   ],
   "words": [
@@ -266,25 +266,25 @@
       "en": "staff; rod",
       "tone": "mate",
       "he": "מַטֶה",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "in; with; at",
       "tone": "be-",
       "he": "-בְּ",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "(he) came",
       "tone": "(hu) ba",
       "he": "בָּא",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "father",
       "tone": "av",
       "he": "אָב",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "mother",
@@ -308,19 +308,19 @@
       "en": "brother; monk; fireplace",
       "tone": "ah",
       "he": "אָח",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "brotherhood; guild",
       "tone": "ahava",
       "he": "אַחֲוָה",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "love; affection",
       "tone": "ahava",
       "he": "אַהֲבָה",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "the sons",
@@ -350,13 +350,13 @@
       "en": "nation",
       "tone": "am",
       "he": "עַם",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "faithful",
       "tone": "ne'eman",
       "he": "נֶאֱמָן",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "Amen; veritably",
@@ -368,61 +368,61 @@
       "en": "Eden",
       "tone": "eden",
       "he": "עֵדֶן",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "sin",
       "tone": "het",
       "he": "חֵטְא",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "cloud",
       "tone": "anan",
       "he": "עָנָן",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "apropos",
       "tone": "agav",
       "he": "אַגַב",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "back",
       "tone": "gav",
       "he": "גַב",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "roof",
       "tone": "gag",
       "he": "גַג",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "cloth; canvas; textile",
       "tone": "bad",
       "he": "בַּד",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "clothing; costume; dress",
       "tone": "beghed",
       "he": "בֶּגֶד",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "bear",
       "tone": "dov",
       "he": "דֹב",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "fortune; coriander; success; luck",
       "tone": "gad",
       "he": "גַד",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "garden; park",
@@ -434,43 +434,43 @@
       "en": "gardener",
       "tone": "ganan",
       "he": "גַּנָּן",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "orchard",
       "tone": "ghina",
       "he": "גִנָה",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "thief",
       "tone": "ganav",
       "he": "גַנָב",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "banana",
       "tone": "banana",
       "he": "בָּנָנָה",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "holiday",
       "tone": "hag",
       "he": "חַג",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "it spins",
       "tone": "hag",
       "he": "",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "holiday",
       "tone": "hag",
       "he": "חַג",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "Hello!; Peace!",
@@ -494,19 +494,19 @@
       "en": "master; mister",
       "tone": "adon",
       "he": "אָדוֹן",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "thus",
       "tone": "co",
       "he": "כֹּה",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "an amount; sum; total",
       "tone": "shu",
       "he": "סְכוּם",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "fish",
@@ -536,13 +536,13 @@
       "en": "percent; proportion; rate; cent",
       "tone": "ahuz",
       "he": "אָחוּז",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "legend",
       "tone": "agada",
       "he": "אַגָדָה",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "freedom",
@@ -554,19 +554,19 @@
       "en": "safety",
       "tone": "bitahon",
       "he": "בִּטָחוֹן",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "hair",
       "tone": "sear",
       "he": "שֵׂעַר",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "skin",
       "tone": "or",
       "he": "עוֹר",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "light",
@@ -578,13 +578,13 @@
       "en": "one",
       "tone": "ehad",
       "he": "אֶחָד",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "indebted",
       "tone": "hav",
       "he": "חָב",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "Hannah",
@@ -596,25 +596,25 @@
       "en": "Myrtle",
       "tone": "hadas",
       "he": "הֲדַס",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "Hadassah (Esther)",
       "tone": "hadasa",
       "he": "הֲדַסָּה",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "wise",
       "tone": "haham",
       "he": "חָכָם",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "wise",
       "tone": "haham",
       "he": "חָכָם",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "yes",
@@ -626,7 +626,7 @@
       "en": "no",
       "tone": "lo",
       "he": "לֹא",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "Saturday",
@@ -638,7 +638,7 @@
       "en": "Sarah",
       "tone": "sara",
       "he": "שָׂרָה",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "Torah",
@@ -662,19 +662,19 @@
       "en": "pharaoh",
       "tone": "paro",
       "he": "פַּרְעֹה",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "mouth",
       "tone": "pe",
       "he": "פֶּה",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "said",
       "tone": "amar",
       "he": "אָמַר",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "book",
@@ -686,13 +686,13 @@
       "en": "salesmen",
       "tone": "moher",
       "he": "מוֹכֵר",
-      "audio": " "
+      "audio": ""
     },
     {
       "en": "commander",
       "tone": "mefached",
       "he": "מְפַקֵד",
-      "audio": " "
+      "audio": ""
     }
   ]
 }

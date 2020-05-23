@@ -367,7 +367,10 @@
           }
 
           ;[...document.querySelectorAll(".trumpet")].map((trumpetIcon) => {
-            if (trumpetIcon.nextElementSibling.src !== location.href) {
+            if (
+              trumpetIcon.nextElementSibling &&
+              trumpetIcon.nextElementSibling.src !== location.href
+            ) {
               trumpetIcon.addEventListener("click", () => {
                 playAudio(trumpetIcon.nextElementSibling.src)
 
