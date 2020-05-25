@@ -330,7 +330,7 @@
     },
     {
       "en": "daughter",
-      "tone": "baa",
+      "tone": "bat",
       "he": "בַּת",
       "audio": "https://static.memrise.com/uploads/things/audio/186500515_1526397319592.mp3"
     },
@@ -504,7 +504,8 @@
     },
     {
       "en": "an amount; sum; total",
-      "tone": "shu",
+      "tone": "schum",
+      "tone_ro": "shum",
       "he": "סְכוּם",
       "audio": ""
     },
@@ -611,12 +612,6 @@
       "audio": ""
     },
     {
-      "en": "wise",
-      "tone": "haham",
-      "he": "חָכָם",
-      "audio": ""
-    },
-    {
       "en": "yes",
       "tone": "ken",
       "he": "כֵּן",
@@ -690,7 +685,7 @@
     },
     {
       "en": "commander",
-      "tone": "mefached",
+      "tone": "mefaked",
       "he": "מְפַקֵד",
       "audio": ""
     },
@@ -744,7 +739,7 @@
     },
     {
       "en": "Holy Spirit",
-      "tone": "ruachkudash",
+      "tone": "Ruah Kodesh",
       "he": "רוּחַ קֻדַּשׁ",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/holy-spirit-in-hebrew-translation.mp3"
     },
@@ -771,6 +766,18 @@
       "tone": "iv'riyt",
       "he": "עִבְרִית",
       "audio": ""
+    },
+    {
+      "en": "music",
+      "tone": "muziykah",
+      "he": "מוּסִיקָה",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/music-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Good luck; With Success",
+      "tone": "b'hatzlakhá",
+      "he": "בְּהַצְלָחָה",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/good-luck-in-hebrew-translation.mp3"
     }
   ]
 }
