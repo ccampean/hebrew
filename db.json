@@ -249,7 +249,87 @@
       "audio": ""
     }
   ],
-  "words": [
+  "animals": [
+    {
+      "en": "dog",
+      "tone": "kelev",
+      "he": "כֶּלֶב",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/dog-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "cat",
+      "tone": "chatul",
+      "he": "חָתוּל",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Cat-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "fish",
+      "tone": "dag",
+      "he": "דָג",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/fish-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "bird",
+      "tone": "tsipor",
+      "he": "‬צִפּוֹר",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/bird-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "cow",
+      "tone": "parah",
+      "he": "פָּרָה",
+      "audio": ""
+    },
+    {
+      "en": "pig",
+      "tone": "chaziyr",
+      "he": "חֲזִיר",
+      "audio": ""
+    },
+    {
+      "en": "dove; pigeon",
+      "tone": "yonah",
+      "he": "יוֹנָה",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/dove-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "mouse",
+      "tone": "akhbar",
+      "he": "עַכְבָּר",
+      "audio": ""
+    },
+    {
+      "en": "horse",
+      "tone": "sus",
+      "he": "סוּס",
+      "audio": ""
+    },
+    {
+      "en": "camel",
+      "tone": "gamal",
+      "he": "גָּמָל",
+      "audio": ""
+    },
+    {
+      "en": "donkey",
+      "tone": "chamor",
+      "he": "חֲמוֹר",
+      "audio": ""
+    },
+    {
+      "en": "wing",
+      "tone": "kanaf",
+      "he": "כָּנָף",
+      "audio": ""
+    },
+    {
+      "en": "animal",
+      "tone": "baal chayiym",
+      "he": "בַּעַל חַיִּים",
+      "audio": ""
+    }
+  ],
+  "mixed": [
     {
       "en": "small",
       "tone": "catan",
@@ -508,12 +588,6 @@
       "tone_ro": "shum",
       "he": "סְכוּם",
       "audio": ""
-    },
-    {
-      "en": "fish",
-      "tone": "dag",
-      "he": "דָג",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/fish-in-hebrew-translation.mp3"
     },
     {
       "en": "(m) this; that",
