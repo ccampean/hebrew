@@ -254,25 +254,25 @@
       "en": "dog",
       "tone": "kelev",
       "he": "כֶּלֶב",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/09/dog-in-hebrew-translation.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/dog-in-hebrew-translation.mp3"
     },
     {
       "en": "cat",
       "tone": "chatul",
       "he": "חָתוּל",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/09/Cat-in-hebrew-translation.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Cat-in-hebrew-translation.mp3"
     },
     {
       "en": "fish",
       "tone": "dag",
       "he": "דָג",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/10/fish-in-hebrew-translation.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/fish-in-hebrew-translation.mp3"
     },
     {
       "en": "bird",
       "tone": "tsipor",
       "he": "‬צִפּוֹר",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/10/bird-in-hebrew-translation.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/bird-in-hebrew-translation.mp3"
     },
     {
       "en": "cow",
@@ -290,7 +290,7 @@
       "en": "dove; pigeon",
       "tone": "yonah",
       "he": "יוֹנָה",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/10/dove-in-hebrew-translation.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/dove-in-hebrew-translation.mp3"
     },
     {
       "en": "mouse",
@@ -334,13 +334,13 @@
       "en": "small",
       "tone": "catan",
       "he": "קָטָן",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/09/small-hebrew-translation.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/small-hebrew-translation.mp3"
     },
     {
       "en": "what",
       "tone": "ma",
       "he": "מַה",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/09/what-hebrew-translation.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/what-hebrew-translation.mp3"
     },
     {
       "en": "staff; rod",
@@ -442,7 +442,7 @@
       "en": "Amen; veritably",
       "tone": "amen",
       "he": "אָמֵן",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/09/amen-in-hebrew-translation-1.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/amen-in-hebrew-translation-1.mp3"
     },
     {
       "en": "Eden",
@@ -508,7 +508,7 @@
       "en": "garden; park",
       "tone": "gan",
       "he": "גַן",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/10/garden-in-hebrew-translation.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/garden-in-hebrew-translation.mp3"
     },
     {
       "en": "gardener",
@@ -568,7 +568,7 @@
       "en": "he",
       "tone": "hu",
       "he": "הוּא",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/09/he-hebrew-translation-2.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/he-hebrew-translation-2.mp3"
     },
     {
       "en": "master; mister",
@@ -593,19 +593,19 @@
       "en": "(m) this; that",
       "tone": "ze",
       "he": "זֶה",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/09/this-hebrew-translation.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/this-hebrew-translation.mp3"
     },
     {
       "en": "(f) this; that",
       "tone": "zot",
       "he": "זֹאת",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/09/this-feminine-hebrew-translation.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/this-feminine-hebrew-translation.mp3"
     },
     {
       "en": "gold",
       "tone": "zahav",
       "he": "זָהָב",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/10/gold-in-hebrew-translation.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/gold-in-hebrew-translation.mp3"
     },
     {
       "en": "percent; proportion; rate; cent",
@@ -623,7 +623,7 @@
       "en": "freedom",
       "tone": "hofesh",
       "he": "חוֹפֶשׁ",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/09/Freedom-in-hebrew-translation.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Freedom-in-hebrew-translation.mp3"
     },
     {
       "en": "safety",
@@ -647,7 +647,7 @@
       "en": "light",
       "tone": "or",
       "he": "אוֹר",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/09/hebrew-word-for-light.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/hebrew-word-for-light.mp3"
     },
     {
       "en": "one",
@@ -665,7 +665,7 @@
       "en": "Hannah",
       "tone": "hana",
       "he": "חַנָּה",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/09/Hannah-in-hebrew-translation.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Hannah-in-hebrew-translation.mp3"
     },
     {
       "en": "Myrtle",
@@ -689,7 +689,7 @@
       "en": "yes",
       "tone": "ken",
       "he": "כֵּן",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/09/how-to-say-yes-in-hebrew.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/how-to-say-yes-in-hebrew.mp3"
     },
     {
       "en": "no",
@@ -701,7 +701,7 @@
       "en": "Saturday",
       "tone": "shabat",
       "he": "שַׁבָּת",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/09/Saturday-in-hebrew-translation.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Saturday-in-hebrew-translation.mp3"
     },
     {
       "en": "Sarah",
@@ -713,19 +713,19 @@
       "en": "Torah",
       "tone": "tora",
       "he": "תּוֹרָה",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/09/torah-in-hebrew-translation.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/torah-in-hebrew-translation.mp3"
     },
     {
       "en": "and; also; as well as",
       "tone": "ve",
       "he": "וְ",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/09/and-hebrew-translation.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/and-hebrew-translation.mp3"
     },
     {
       "en": "end",
       "tone": "sof",
       "he": "סוֹף",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/09/end-hebrew-translation.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/end-hebrew-translation.mp3"
     },
     {
       "en": "pharaoh",
@@ -749,7 +749,7 @@
       "en": "book",
       "tone": "sefer",
       "he": "סֵפֶר",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/10/book-in-hebrew-translation.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/book-in-hebrew-translation.mp3"
     },
     {
       "en": "salesmen",
@@ -767,13 +767,13 @@
       "en": "hand; arm",
       "tone": "iad",
       "he": "יָד",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/09/hand-hebrew-translation.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/hand-hebrew-translation.mp3"
     },
     {
       "en": "house; home",
       "tone": "bayit",
       "he": "בַּיִת",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/09/house-hebrew-translation.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/house-hebrew-translation.mp3"
     },
     {
       "en": "unleavened bread",
@@ -785,13 +785,13 @@
       "en": "bread",
       "tone": "lechem",
       "he": "לֶחֶם",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/10/bread-in-hebrew-translation.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/bread-in-hebrew-translation.mp3"
     },
     {
       "en": "land; country; earth; world",
       "tone": "eretz",
       "he": "אֶרֶץ",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/09/earth-hebrew-translation.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/earth-hebrew-translation.mp3"
     },
     {
       "en": "Israel",
@@ -809,13 +809,13 @@
       "en": "wind; spirit",
       "tone": "ruah",
       "he": "רוּחַ",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/09/hebrew-word-for-spirit.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/hebrew-word-for-spirit.mp3"
     },
     {
       "en": "Holy Spirit",
       "tone": "Ruah Kodesh",
       "he": "רוּחַ קֻדַּשׁ",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/09/holy-spirit-in-hebrew-translation.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/holy-spirit-in-hebrew-translation.mp3"
     },
     {
       "en": "apple",
@@ -845,13 +845,13 @@
       "en": "music",
       "tone": "muziykah",
       "he": "מוּסִיקָה",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/10/music-in-hebrew-translation.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/music-in-hebrew-translation.mp3"
     },
     {
       "en": "Good luck; With Success",
       "tone": "b'hatzlakhá",
       "he": "בְּהַצְלָחָה",
-      "audio": "www.yallahebrew.com/wp-content/uploads/2018/09/good-luck-in-hebrew-translation.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/good-luck-in-hebrew-translation.mp3"
     }
   ]
 }
