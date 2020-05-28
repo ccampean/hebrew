@@ -329,6 +329,206 @@
       "audio": ""
     }
   ],
+  "people": [
+    {
+      "en": "son",
+      "tone": "ben",
+      "he": "בֵּן",
+      "audio": "https://static.memrise.com/uploads/things/audio/186500513_1526397310709.mp3"
+    },
+    {
+      "en": "the sons",
+      "tone": "",
+      "he": "בנים",
+      "audio": "https://static.memrise.com/uploads/things/audio/186500514_1526397315128.mp3"
+    },
+    {
+      "en": "daughter",
+      "tone": "bat",
+      "he": "בַּת",
+      "audio": "https://static.memrise.com/uploads/things/audio/186500515_1526397319592.mp3"
+    },
+    {
+      "en": "mother",
+      "tone": "ima",
+      "he": "אִמָא",
+      "audio": "https://static.memrise.com/uploads/things/audio/186500512_1526397306275.mp3"
+    },
+    {
+      "en": "father",
+      "tone": "av",
+      "he": "אָב",
+      "audio": ""
+    },
+    {
+      "en": "daddy",
+      "tone": "aba",
+      "he": "אַבָּא",
+      "audio": "https://static.memrise.com/uploads/things/audio/186500511_1526397301830.mp3"
+    },
+    {
+      "en": "parent",
+      "tone": "horeh",
+      "he": "הוֹרֶה",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/parent-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "baby",
+      "tone": "tiynok",
+      "he": "תִּינוֹק",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Baby-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "man",
+      "tone": "iyesh",
+      "he": "אִיֵּשׁ",
+      "audio": ""
+    },
+    {
+      "en": "woman",
+      "tone": "iyshׁah",
+      "he": "אִישָּׁה",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/hebrew-word-for-woman.mp3"
+    },
+    {
+      "en": "brother; monk; fireplace",
+      "tone": "ah",
+      "he": "אָח",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/brother-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "brotherhood; guild",
+      "tone": "ahava",
+      "he": "אַחֲוָה",
+      "audio": ""
+    },
+    {
+      "en": "sister",
+      "tone": "achot",
+      "he": "אָחוֹת",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/sister-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "family",
+      "tone": "mishpacha",
+      "he": "מִשׁפָּחָה",
+      "audio": "https://static.memrise.com/uploads/things/audio/186500509_1526397291093.mp3"
+    },
+    {
+      "en": "families",
+      "tone": "mishpachot",
+      "he": "משפחות",
+      "audio": "https://static.memrise.com/uploads/things/audio/186500510_1526397297048.mp3"
+    },
+    {
+      "en": "grandfather",
+      "tone": "saba",
+      "he": "סַבָּא",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/grandpa-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "grandmother",
+      "tone": "sav'ta",
+      "he": "סָבְתָא",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/grandma-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "husband",
+      "tone": "baal",
+      "he": "בַּעַל",
+      "audio": ""
+    },
+    {
+      "en": "wife",
+      "tone": "ishah",
+      "he": "אִשָּׁה",
+      "audio": ""
+    },
+    {
+      "en": "king",
+      "tone": "melekh",
+      "he": "מֶלֶךְ",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/king-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "quen",
+      "tone": "malkah",
+      "he": "מַלְכָּה",
+      "audio": ""
+    },
+    {
+      "en": "president",
+      "tone": "hanashoiy",
+      "he": "הַנָּשִׂיא",
+      "audio": ""
+    },
+    {
+      "en": "neighbor",
+      "tone": "shakhen",
+      "he": "שָׁכֵן",
+      "audio": ""
+    },
+    {
+      "en": "boy; child",
+      "tone": "yeled",
+      "he": "יֶלֶד",
+      "audio": ""
+    },
+    {
+      "en": "girl",
+      "tone": "",
+      "he": "יַלְדָּה",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/girl-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "adult",
+      "tone": "m'vugar",
+      "he": "מְבֻגָּר",
+      "audio": ""
+    },
+    {
+      "en": "human",
+      "tone": "ben anush",
+      "he": "בֵּן אָנוּשׁ",
+      "audio": ""
+    },
+    {
+      "en": "friend",
+      "tone": "chaber",
+      "he": "חַבֵּר",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/friend-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "victim",
+      "tone": "kar'ban",
+      "he": "קָרְבָּן",
+      "audio": ""
+    },
+    {
+      "en": "player",
+      "tone": "sach'kan",
+      "he": "שַׂחְקָן",
+      "audio": ""
+    },
+    {
+      "en": "fan",
+      "tone": "ohed",
+      "he": "אוֹהֵד",
+      "audio": ""
+    },
+    {
+      "en": "crown",
+      "tone": "keter",
+      "he": "כֶּתֶר",
+      "audio": ""
+    },
+    {
+      "en": "person",
+      "tone": "adam",
+      "he": "אָדָם",
+      "audio": ""
+    }
+  ],
   "mixed": [
     {
       "en": "small",
@@ -361,70 +561,10 @@
       "audio": ""
     },
     {
-      "en": "father",
-      "tone": "av",
-      "he": "אָב",
-      "audio": ""
-    },
-    {
-      "en": "mother",
-      "tone": "ima",
-      "he": "אִמָא",
-      "audio": "https://static.memrise.com/uploads/things/audio/186500512_1526397306275.mp3"
-    },
-    {
-      "en": "daddy",
-      "tone": "aba",
-      "he": "אַבָּא",
-      "audio": "https://static.memrise.com/uploads/things/audio/186500511_1526397301830.mp3"
-    },
-    {
-      "en": "son",
-      "tone": "ben",
-      "he": "בֵּן",
-      "audio": "https://static.memrise.com/uploads/things/audio/186500513_1526397310709.mp3"
-    },
-    {
-      "en": "brother; monk; fireplace",
-      "tone": "ah",
-      "he": "אָח",
-      "audio": ""
-    },
-    {
-      "en": "brotherhood; guild",
-      "tone": "ahava",
-      "he": "אַחֲוָה",
-      "audio": ""
-    },
-    {
       "en": "love; affection",
       "tone": "ahava",
       "he": "אַהֲבָה",
       "audio": ""
-    },
-    {
-      "en": "the sons",
-      "tone": "",
-      "he": "בנים",
-      "audio": "https://static.memrise.com/uploads/things/audio/186500514_1526397315128.mp3"
-    },
-    {
-      "en": "daughter",
-      "tone": "bat",
-      "he": "בַּת",
-      "audio": "https://static.memrise.com/uploads/things/audio/186500515_1526397319592.mp3"
-    },
-    {
-      "en": "family",
-      "tone": "mishpacha",
-      "he": "מִשׁפָּחָה",
-      "audio": "https://static.memrise.com/uploads/things/audio/186500509_1526397291093.mp3"
-    },
-    {
-      "en": "families",
-      "tone": "mishpachot",
-      "he": "משפחות",
-      "audio": "https://static.memrise.com/uploads/things/audio/186500510_1526397297048.mp3"
     },
     {
       "en": "nation",
