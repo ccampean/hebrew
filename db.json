@@ -285,7 +285,7 @@
       "audio": ""
     }
   ],
-  "pronouns": [
+  "pronoun": [
     {
       "en": "I",
       "tone": "anii",
@@ -367,6 +367,12 @@
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/fish-in-hebrew-translation.mp3"
     },
     {
+      "en": "bear",
+      "tone": "dov",
+      "he": "דֹב",
+      "audio": ""
+    },
+    {
       "en": "bird",
       "tone": "tsipor",
       "he": "‬צִפּוֹר",
@@ -389,6 +395,12 @@
       "tone": "yonah",
       "he": "יוֹנָה",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/dove-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "dolphin",
+      "tone": "dol'fiyn",
+      "he": "דּוֹלְפִין",
+      "audio": ""
     },
     {
       "en": "mouse",
@@ -415,6 +427,132 @@
       "audio": ""
     },
     {
+      "en": "giraffe",
+      "tone": "girafa",
+      "he": "ג'ִירָפָה",
+      "audio": ""
+    },
+    {
+      "en": "kangaroo",
+      "tone": "kenguru",
+      "he": "קֶנגוּרוּ",
+      "audio": ""
+    },
+    {
+      "en": "llama",
+      "tone": "laamah",
+      "he": "לָאָמָה",
+      "audio": ""
+    },
+    {
+      "en": "zebra",
+      "tone": "zeb'rah",
+      "he": "זֶבְּרָה",
+      "audio": ""
+    },
+    {
+      "en": "armadillo",
+      "tone": "armadil",
+      "he": "אַרמָדִיל",
+      "audio": ""
+    },
+    {
+      "en": "gorilla",
+      "tone": "gorila",
+      "he": "גּוֹרִילָה",
+      "audio": ""
+    },
+    {
+      "en": "panda",
+      "tone": "pan'dah",
+      "he": "פַּנְדָּה",
+      "audio": ""
+    },
+    {
+      "en": "panther",
+      "tone": "pan'ter",
+      "he": "פַּנְתֵּר",
+      "audio": ""
+    },
+    {
+      "en": "puma",
+      "tone": "puma",
+      "he": "פּוּמָה",
+      "audio": ""
+    },
+    {
+      "en": "jaguar",
+      "tone": "yaguar",
+      "he": "יָגוּאָר",
+      "audio": ""
+    },
+    {
+      "en": "lemur",
+      "tone": "lemur",
+      "he": "לֵמוּר",
+      "audio": ""
+    },
+    {
+      "en": "marmoset",
+      "tone": "marmust",
+      "he": "מרמוסט",
+      "audio": ""
+    },
+    {
+      "en": "chinchilla",
+      "tone": "chinchila",
+      "he": "צ'ינצ'ילה",
+      "audio": ""
+    },
+    {
+      "en": "chimpanzee",
+      "tone": "shimpanza",
+      "he": "שִׁימְפַּנְזֶה",
+      "audio": ""
+    },
+    {
+      "en": "penguin",
+      "tone": "piyn'g'viyn",
+      "he": "פִּינְגְּוִין",
+      "audio": ""
+    },
+    {
+      "en": "flamingo",
+      "tone": "flamingo",
+      "he": "פְלָמִינְגּוֹ",
+      "audio": ""
+    },
+    {
+      "en": "cockatiel",
+      "tone": "kok'teyl",
+      "he": "קוֹקְטֵיל",
+      "audio": ""
+    },
+    {
+      "en": "cockatoo",
+      "tone": "kakadu",
+      "he": "קָקָדוּ",
+      "audio": ""
+    },
+    {
+      "en": "iguana",
+      "tone": "iguana",
+      "he": "איגואנה",
+      "audio": ""
+    },
+    {
+      "en": "koi",
+      "tone": "koi",
+      "he": "קוי",
+      "audio": ""
+    },
+    {
+      "en": "salamander",
+      "tone": "salamandra",
+      "he": "סָלָמַנְדְּרָה",
+      "audio": ""
+    },
+    {
       "en": "wing",
       "tone": "kanaf",
       "he": "כָּנָף",
@@ -424,6 +562,40 @@
       "en": "animal",
       "tone": "baal chayiym",
       "he": "בַּעַל חַיִּים",
+      "audio": ""
+    }
+  ],
+  "fruits": [
+    {
+      "en": "banana",
+      "tone": "banana",
+      "he": "בָּנָנָה",
+      "audio": ""
+    },
+    {
+      "en": "avocado",
+      "tone": "avocado",
+      "he": "אָבוֹקָדוֹ",
+      "audio": ""
+    },
+    {
+      "en": "lemon",
+      "tone": "liymon",
+      "he": "לִימוֹן",
+      "audio": ""
+    }
+  ],
+  "food": [
+    {
+      "en": "hamburger",
+      "tone": "hamburger",
+      "he": "הַמְבּוּרְגֶּר",
+      "audio": ""
+    },
+    {
+      "en": "chips",
+      "tone": "tsips",
+      "he": "צ'יפס",
       "audio": ""
     }
   ],
@@ -627,6 +799,22 @@
       "audio": ""
     }
   ],
+  "money": [
+    {
+      "en": "bank",
+      "tone": "ban'k",
+      "he": "בַּנְק",
+      "audio": ""
+    }
+  ],
+  "toys": [
+    {
+      "en": "balloon",
+      "tone": "balon",
+      "he": "בָּלוֹן",
+      "audio": ""
+    }
+  ],
   "astronomy": [
     {
       "en": "sun",
@@ -638,6 +826,28 @@
       "en": "moon; satellite",
       "tone": "iareah",
       "he": "יָרֵחַ",
+      "audio": ""
+    }
+  ],
+  "geography": [
+    {
+      "en": "jungle",
+      "tone": "g'un'gel",
+      "he": "ג'וּנגֶל",
+      "audio": ""
+    },
+    {
+      "en": "park",
+      "tone": "par'k",
+      "he": "פַּרְק",
+      "audio": ""
+    }
+  ],
+  "transportation": [
+    {
+      "en": "bus",
+      "tone": "otobus",
+      "he": "אוֹטוֹבּוּס",
       "audio": ""
     }
   ],
@@ -745,12 +955,6 @@
       "audio": ""
     },
     {
-      "en": "bear",
-      "tone": "dov",
-      "he": "דֹב",
-      "audio": ""
-    },
-    {
       "en": "fortune; coriander; success; luck",
       "tone": "gad",
       "he": "גַד",
@@ -778,12 +982,6 @@
       "en": "thief",
       "tone": "ganav",
       "he": "גַנָב",
-      "audio": ""
-    },
-    {
-      "en": "banana",
-      "tone": "banana",
-      "he": "בָּנָנָה",
       "audio": ""
     },
     {
