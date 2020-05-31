@@ -36,6 +36,54 @@
         justify-content: space-between;
         align-items: center;
       }
+      .help {
+        display: block;
+        margin-left: auto;
+        background-color: transparent;
+        border: none;
+      }
+      /* https://sabe.io/tutorials/how-to-create-modal-popup-box */
+      .modal {
+        position: fixed;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: hsla(0, 0%, 0%, 0.5);
+        opacity: 0;
+        visibility: hidden;
+        transform: scale(1.1);
+        transition: visibility 0s linear 0.25s, opacity 0.25s 0s,
+          transform 0.25s;
+      }
+      .modal-content {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: hsl(0, 0%, 100%);
+        padding: 1rem 1.5rem;
+        width: calc(10rem + 15vw);
+        border-radius: 0.5rem;
+      }
+      .modal-close {
+        float: right;
+        width: 1.5rem;
+        line-height: 1.5rem;
+        text-align: center;
+        cursor: pointer;
+        border-radius: 0.25rem;
+        background-color: hsl(0, 0%, 83%);
+      }
+      .modal-close:hover {
+        background-color: hsl(0, 0%, 66%);
+      }
+      .modal-open {
+        opacity: 1;
+        visibility: visible;
+        transform: scale(1);
+        transition: visibility 0s linear 0s, opacity 0.25s 0s, transform 0.25s;
+      }
       .px-2 {
         padding-left: 0.5rem;
         padding-right: 0.5rem;
@@ -148,20 +196,25 @@
   </head>
   <body>
     <div class="content">
-      <details>
-        <summary class="pointer text-right">
-          <span class="emoji px-2" role="img" aria-label="Pencil And Paper"
-            >📝</span
-          >
-        </summary>
-        <p class="px-2 text-right leading-8">
-          The list below is in a growing process. With your help it can reach
-          maturity. A technical person can open a
-          <a href="https://github.com/costinEEST/hebrew/pulls">pull request</a>.
-          Non technical people can fill a
-          <a href="https://forms.gle/mbp9mXxWEwafrAvW9">form</a>.
-        </p>
-      </details>
+      <button type="button" class="help pointer">
+        <span class="emoji px-2" role="img" aria-label="Question Mark"
+          >&#10067;</span
+        >
+      </button>
+
+      <div class="modal">
+        <div class="modal-content">
+          <span class="modal-close">&times;</span>
+          <p class="leading-8">
+            The vocabulary below is in a growing process. With your help it can
+            reach maturity. A technical person can open a
+            <a href="https://github.com/costinEEST/hebrew/pulls">pull request</a
+            >. Non technical people can fill a
+            <a href="https://forms.gle/mbp9mXxWEwafrAvW9">form</a>.
+          </p>
+        </div>
+      </div>
+
       <article class="flex panel">
         <section>
           <h3 class="laptop px-2">In English</h3>
@@ -247,8 +300,20 @@
   </body>
   <script>
     window.addEventListener("load", () => {
-      let generatedMarkup = ""
+      const helpButton = document.querySelector(".help")
+      const helpModal = document.querySelector(".modal")
+      const closeHelpModal = document.querySelector(".modal-close")
       const vellum = document.querySelector(".vellum")
+      let generatedMarkup = ""
+
+      helpButton &&
+        helpModal &&
+        closeHelpModal &&
+        [helpButton, closeHelpModal].map((button) =>
+          button.addEventListener("click", () => {
+            helpModal.classList.toggle("modal-open")
+          })
+        )
 
       // async function sleep(ms) {
       //   return new Promise((resolve) => setTimeout(resolve, ms))
