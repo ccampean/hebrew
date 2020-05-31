@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Fluent in Hebrew</title>
+    <title>Hebrew words</title>
     <link
       rel="icon"
       href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🇮🇱</text></svg>"
@@ -74,17 +74,13 @@
         border-bottom-color: hsl(7, 11%, 83%);
       }
       .raise {
-        transform: rotate(-45deg) scale(1.4);
+        transform: rotate(-45deg);
       }
       .text-4xl {
         font-size: 2.25rem;
       }
       .emoji {
         font-size: 2rem;
-      }
-      .hoisted {
-        position: relative;
-        bottom: 0.5rem;
       }
       .mute {
         pointer-events: none;
@@ -195,10 +191,10 @@
           </svg>
         </section>
         <section>
-          <h3 class="px-2 text-italic">Pronunciation</h3>
+          <h3 class="px-2 text-italic">Transliteration</h3>
         </section>
         <section>
-          <h3 class="laptop px-2">In Hebrew</h3>
+          <h3 class="laptop px-2">In Hebrew (with nikud)</h3>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="40"
@@ -317,22 +313,24 @@
                   rowsForCategory += `
                     <div class="flex bbd">
                       <p class="px-2 text-4xl">${en}</p>
-                      <p class="px-2 text-4xl text-italic">${tone}</p>
-                      <p class="he px-2 text-4xl">
-                        <span>${he}</span>
+                      <p class="px-2 text-4xl">
                         <svg
                           width="24"
                           height="24"
                           xmlns="http://www.w3.org/2000/svg"
                           fill-rule="evenodd"
                           clip-rule="evenodd"
-                          class="trumpet hoisted pointer"
+                          class="trumpet pointer"
                         >
                           <path
                             d="M15 23l-9.309-6H0V7h5.691L15 1v22zM6 7.991v8.018l8 5.157V2.834L6 7.991zm14.228-4.219A10.779 10.779 0 0124 12.001a10.78 10.78 0 01-3.77 8.229l-.708-.708C21.658 17.731 23 15.021 23 12s-1.342-5.731-3.478-7.522l.706-.706zm-2.929 2.929A6.848 6.848 0 0119.775 12a6.848 6.848 0 01-2.476 5.299l-.706-.706a5.861 5.861 0 002.182-4.591 5.861 5.861 0 00-2.184-4.593l.708-.708zM5 8H1v8h4V8z"
                           />
                         </svg>
                         ${audioElement}
+                        <span class="text-italic">${tone}</span>
+                      </p>
+                      <p class="he px-2 text-4xl">
+                        <span>${he}</span>
                       </p>
                     </div>
                   `
