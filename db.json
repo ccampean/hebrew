@@ -189,14 +189,14 @@
   ],
   "vowels": [
     {
-      "en": "aleph with chataf segol",
-      "tone": "super short 'e'",
-      "he": "אֱ",
+      "en": "aleph with kamatz",
+      "tone": "'a' (sometimes 'o')",
+      "he": "אָ",
       "audio": ""
     },
     {
-      "en": "aleph with kamatz",
-      "tone": "ay",
+      "en": "aleph with hataf kamatz",
+      "tone": "'o' as in 'noon' or as in 'law'",
       "he": "אָ",
       "audio": ""
     },
@@ -204,6 +204,42 @@
       "en": "aleph with patach",
       "tone": "ah",
       "he": "אַ",
+      "audio": ""
+    },
+    {
+      "en": "aleph with tzere",
+      "tone": "long 'ay'",
+      "he": "אֵ",
+      "audio": ""
+    },
+    {
+      "en": "aleph with segol",
+      "tone": "short 'eh'",
+      "he": "אֶ",
+      "audio": ""
+    },
+    {
+      "en": "aleph with hiriq",
+      "tone": "short 'ih'",
+      "he": "אִ",
+      "audio": ""
+    },
+    {
+      "en": "aleph with hiriq next to yod",
+      "tone": "long 'ee'",
+      "he": "אִי",
+      "audio": ""
+    },
+    {
+      "en": "aleph with qubutz",
+      "tone": "short 'oo' as in book",
+      "he": "אֻ",
+      "audio": ""
+    },
+    {
+      "en": "aleph with chataf segol",
+      "tone": "super short 'e'",
+      "he": "אֱ",
       "audio": ""
     },
     {
@@ -226,7 +262,7 @@
     },
     {
       "en": "vav with shuruk",
-      "tone": "oo",
+      "tone": "ooh",
       "he": "וּ",
       "audio": ""
     },
@@ -246,6 +282,68 @@
       "en": "zayin with a geresh",
       "tone": "j",
       "he": "ז׳",
+      "audio": ""
+    }
+  ],
+  "pronouns": [
+    {
+      "en": "I",
+      "tone": "anii",
+      "he": "אֲנִי",
+      "audio": "https://static.memrise.com/uploads/things/audio/186526495_1526396284709.mp3"
+    },
+    {
+      "en": "(m) you",
+      "tone": "ata",
+      "he": "אַתָּה",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/you-masculine-singular-hebrew-translation.mp3"
+    },
+    {
+      "en": "(f) you",
+      "tone": "at",
+      "he": "אַתְּ",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/you-feminine-singular-hebrew-translation.mp3"
+    },
+    {
+      "en": "he; him; it",
+      "tone": "hu",
+      "he": "הוּא",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/he-hebrew-translation-2.mp3"
+    },
+    {
+      "en": "she; her; it",
+      "tone": "hiy",
+      "he": "הִיא",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/she-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "we",
+      "tone": "anach'nu",
+      "he": "אֲנַחְנוּ",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/we-hebrew-translation.mp3"
+    },
+    {
+      "en": "(m) y'all",
+      "tone": "atem",
+      "he": "אַתֶּם",
+      "audio": ""
+    },
+    {
+      "en": "(f) y'all",
+      "tone": "aten",
+      "he": "אַתֶּן",
+      "audio": ""
+    },
+    {
+      "en": "(m) they",
+      "tone": "hem",
+      "he": "הֵם",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/they-masculine-hebrew-translation.mp3"
+    },
+    {
+      "en": "(f) they",
+      "tone": "hen",
+      "he": "הֵן",
       "audio": ""
     }
   ],
@@ -529,6 +627,20 @@
       "audio": ""
     }
   ],
+  "astronomy": [
+    {
+      "en": "sun",
+      "tone": "shemesh",
+      "he": "שֶׁמֶשׁ",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/sun-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "moon; satellite",
+      "tone": "iareah",
+      "he": "יָרֵחַ",
+      "audio": ""
+    }
+  ],
   "mixed": [
     {
       "en": "small",
@@ -697,18 +809,6 @@
       "tone": "Shalom!",
       "he": "שָׁלוֹם!",
       "audio": "https://static.memrise.com/uploads/things/audio/186526494_1526396208834.mp3"
-    },
-    {
-      "en": "I",
-      "tone": "anii",
-      "he": "אֲנִי",
-      "audio": "https://static.memrise.com/uploads/things/audio/186526495_1526396284709.mp3"
-    },
-    {
-      "en": "he",
-      "tone": "hu",
-      "he": "הוּא",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/he-hebrew-translation-2.mp3"
     },
     {
       "en": "master; mister",
@@ -937,12 +1037,6 @@
       "en": "Israel",
       "tone": "yisho'rael",
       "he": "יִשְׂרָאֵל",
-      "audio": ""
-    },
-    {
-      "en": "moon; satellite",
-      "tone": "iareah",
-      "he": "יָרֵחַ",
       "audio": ""
     },
     {
