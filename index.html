@@ -304,7 +304,7 @@
 
                   if (audio) {
                     audioElement = `
-                      <audio class="pronunciation" src="${audio}">
+                      <audio class="audio" src="${audio}">
                         Your browser does not support the <code>audio</code> element.
                       </audio>
                     `
@@ -371,7 +371,7 @@
 
           ;[...document.querySelectorAll(".trumpet")].map((trumpetIcon) => {
             if (
-              trumpetIcon.nextElementSibling &&
+              trumpetIcon.nextElementSibling.classList.contains("audio") &&
               trumpetIcon.nextElementSibling.src !== location.href
             ) {
               trumpetIcon.addEventListener("click", () => {
