@@ -373,7 +373,7 @@
             Object.keys(result).map((category) => {
               let rowsForCategory = ""
 
-              result[category].length > 1 &&
+              result[category].length > 0 &&
                 result[category].map(({ en, tone, he, audio }) => {
                   let audioElement = ""
 
