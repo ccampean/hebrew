@@ -345,6 +345,64 @@
       "tone": "hen",
       "he": "הֵן",
       "audio": ""
+    },
+    {
+      "en": "all; any; each; every",
+      "tone": "kol",
+      "he": "כֹּל",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/each-hebrew-translation.mp3"
+    },
+    {
+      "en": "everything",
+      "tone": "hakol",
+      "he": "הַכֹּל",
+      "audio": ""
+    },
+    {
+      "en": "of",
+      "tone": "shel",
+      "he": "שֶׁל",
+      "audio": ""
+    }
+  ],
+  "prepositions": [
+    {
+      "en": "from; of; than",
+      "tone": "me",
+      "he": "מִ",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/from-hebrew-translation.mp3"
+    },
+    {
+      "en": "for, to, for the sake of",
+      "tone": "bishvil",
+      "he": "בִּשְׁבִיל",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/for-the-sake-of-hebrew-translation.mp3"
+    },
+    {
+      "en": "and",
+      "tone": "ve",
+      "he": "וְ",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/And-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "instead of, in place of",
+      "tone": "bimcom",
+      "he": "בִּמְקוֹם",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/instead-of-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "on",
+      "tone": "al",
+      "he": "עַל",
+      "audio": ""
+    }
+  ],
+  "conjunctions": [
+    {
+      "en": "even though; nevertheless; yet",
+      "tone": "beholzot",
+      "he": "בְּכָל זֹאת",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/yet-in-hebrew-translation.mp3"
     }
   ],
   "animals": [
@@ -587,6 +645,18 @@
   ],
   "food": [
     {
+      "en": "unleavened bread",
+      "tone": "matza",
+      "he": "מַצָה",
+      "audio": ""
+    },
+    {
+      "en": "bread",
+      "tone": "lechem",
+      "he": "לֶחֶם",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/bread-in-hebrew-translation.mp3"
+    },
+    {
       "en": "hamburger",
       "tone": "hamburger",
       "he": "הַמְבּוּרְגֶּר",
@@ -596,6 +666,12 @@
       "en": "chips",
       "tone": "tsips",
       "he": "צ'יפס",
+      "audio": ""
+    },
+    {
+      "en": "grocery store",
+      "tone": "makolet",
+      "he": "מַכֹּלֶת",
       "audio": ""
     }
   ],
@@ -815,6 +891,20 @@
       "audio": ""
     }
   ],
+  "chemistry": [
+    {
+      "en": "atom",
+      "tone": "atom",
+      "he": "אָטוֹם",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/atom-in-hebrew-translation-1.mp3"
+    },
+    {
+      "en": "Iron",
+      "tone": "barzel",
+      "he": "בַּרְזֶל",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/iron-in-hebrew-translation.mp3"
+    }
+  ],
   "astronomy": [
     {
       "en": "sun",
@@ -831,6 +921,18 @@
   ],
   "geography": [
     {
+      "en": "land; country; earth; world",
+      "tone": "eretz",
+      "he": "אֶרֶץ",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/earth-hebrew-translation.mp3"
+    },
+    {
+      "en": "Israel",
+      "tone": "yisho'rael",
+      "he": "יִשְׂרָאֵל",
+      "audio": ""
+    },
+    {
       "en": "jungle",
       "tone": "g'un'gel",
       "he": "ג'וּנגֶל",
@@ -841,6 +943,144 @@
       "tone": "par'k",
       "he": "פַּרְק",
       "audio": ""
+    },
+    {
+      "en": "Tiberias",
+      "tone": "tiveria",
+      "he": "טְבֶרְיָה",
+      "audio": ""
+    },
+    {
+      "en": "stone",
+      "tone": "even",
+      "he": "אֶבֶן",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/stone-in-hebrew-translation.mp3"
+    }
+  ],
+  "greetings": [
+    {
+      "en": "Hello; Peace",
+      "tone": "shalom",
+      "he": "שָׁלוֹם",
+      "audio": "https://static.memrise.com/uploads/things/audio/186526494_1526396208834.mp3"
+    },
+    {
+      "en": "Thanks",
+      "tone": "todah",
+      "he": "תּוֹדָה",
+      "audio": ""
+    },
+    {
+      "en": "Good luck; With Success",
+      "tone": "b'hatzlakhá",
+      "he": "בְּהַצְלָחָה",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/good-luck-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Good Morning",
+      "tone": "boker tov",
+      "he": "בֹּקֶר טוֹב",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/good-morning-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Goodnight",
+      "tone": "laila tov",
+      "he": "לַיְלָה טוֹב",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/goodnight-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Good Evening",
+      "tone": "",
+      "he": "עֶרֶב טוֹב",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Good-evening-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Happy New Year",
+      "tone": "shana tova",
+      "he": "שָׁנָה טוֹבָה",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/happy-new-year-in-hebrew-translation-1.mp3"
+    },
+    {
+      "en": "Happy Birthday",
+      "tone": "",
+      "he": "יום הֻלֶּדֶת שָׂמֵחַ",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/happy-birthday-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Congratulations; Well Done",
+      "tone": "mazel tov",
+      "he": "מַזָּל טוֹב",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/congratulations-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Everything's fine; No problem",
+      "tone": "hakol beseder",
+      "he": "הַכֹּל בְּסֵדֶר",
+      "audio": ""
+    }
+  ],
+  "religion": [
+    {
+      "en": "Thank God",
+      "tone": "baruch hashem",
+      "he": "בָּרוּךְ הַשֵּׁם",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/baruch-hashem-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Happy Hanukkah",
+      "tone": "",
+      "he": "חַג חֲנֻכָּה שָׂמֵחַ",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/happy-hanukkah-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Passover",
+      "tone": "",
+      "he": "‬חַג הַפֶּסַח",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/passover-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Happy Passover",
+      "tone": "",
+      "he": "פֶּסַח שָׂמֵחַ",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/happy-passover-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "holiday",
+      "tone": "hag",
+      "he": "חַג",
+      "audio": ""
+    },
+    {
+      "en": "Happy Holiday",
+      "tone": "hag sameach",
+      "he": "חַג שָׂמֵחַ",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/happy-holidays-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "psalms",
+      "tone": "teilim",
+      "he": "תְּהִילִּים",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/psalms-in-hebrew-translation.mp3"
+    }
+  ],
+  "virtues": [
+    {
+      "en": "compassion",
+      "tone": "shimesh",
+      "he": "רַחֲמִים",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/compassion-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "honor",
+      "tone": "kavod",
+      "he": "כָּבוֹד",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/honor-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "mercy",
+      "tone": "rahamim",
+      "he": "רַחֲמִים",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/mercy-in-hebrew-translation.mp3"
     }
   ],
   "transportation": [
@@ -849,6 +1089,40 @@
       "tone": "otobus",
       "he": "אוֹטוֹבּוּס",
       "audio": ""
+    }
+  ],
+  "activities": [
+    {
+      "en": "to rest; to relax",
+      "tone": "nah",
+      "he": "‬נָח",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/to-rest-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "relax",
+      "tone": "teraga",
+      "he": "תֵּרָגַע",
+      "audio": ""
+    }
+  ],
+  "music": [
+    {
+      "en": "sound",
+      "tone": "tzlil",
+      "he": "צְלִיל",
+      "audio": ""
+    },
+    {
+      "en": "chord",
+      "tone": "akord",
+      "he": "אָקוֹרְד",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/chord-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "music",
+      "tone": "muziykah",
+      "he": "מוּסִיקָה",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/music-in-hebrew-translation.mp3"
     }
   ],
   "mixed": [
@@ -995,18 +1269,6 @@
       "tone": "hag",
       "he": "",
       "audio": ""
-    },
-    {
-      "en": "holiday",
-      "tone": "hag",
-      "he": "חַג",
-      "audio": ""
-    },
-    {
-      "en": "Hello!; Peace!",
-      "tone": "Shalom!",
-      "he": "שָׁלוֹם!",
-      "audio": "https://static.memrise.com/uploads/things/audio/186526494_1526396208834.mp3"
     },
     {
       "en": "master; mister",
@@ -1214,30 +1476,6 @@
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/house-hebrew-translation.mp3"
     },
     {
-      "en": "unleavened bread",
-      "tone": "matza",
-      "he": "מַצָה",
-      "audio": ""
-    },
-    {
-      "en": "bread",
-      "tone": "lechem",
-      "he": "לֶחֶם",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/bread-in-hebrew-translation.mp3"
-    },
-    {
-      "en": "land; country; earth; world",
-      "tone": "eretz",
-      "he": "אֶרֶץ",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/earth-hebrew-translation.mp3"
-    },
-    {
-      "en": "Israel",
-      "tone": "yisho'rael",
-      "he": "יִשְׂרָאֵל",
-      "audio": ""
-    },
-    {
       "en": "wind; spirit",
       "tone": "ruah",
       "he": "רוּחַ",
@@ -1272,18 +1510,6 @@
       "tone": "iv'riyt",
       "he": "עִבְרִית",
       "audio": ""
-    },
-    {
-      "en": "music",
-      "tone": "muziykah",
-      "he": "מוּסִיקָה",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/music-in-hebrew-translation.mp3"
-    },
-    {
-      "en": "Good luck; With Success",
-      "tone": "b'hatzlakhá",
-      "he": "בְּהַצְלָחָה",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/good-luck-in-hebrew-translation.mp3"
     }
   ]
 }
