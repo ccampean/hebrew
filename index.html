@@ -88,9 +88,6 @@
         padding-left: 0.5rem;
         padding-right: 0.5rem;
       }
-      .ml-8 {
-        padding-left: 2rem;
-      }
       .pointer {
         cursor: pointer;
       }
@@ -258,9 +255,6 @@
           </svg>
         </section>
         <section>
-          <h3 class="px-2 text-italic">Transliteration</h3>
-        </section>
-        <section>
           <h3 class="laptop px-2">In Hebrew (with nikud)</h3>
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -422,21 +416,7 @@
 
               generatedMarkup += `
                 <details>
-                  <summary class="ml-8 text-4xl pointer capitalize">
-                    <span>
-                      <svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        width="24"
-                        height="24"
-                        fill="none"
-                        stroke="#000"
-                        stroke-width="1"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
-                      >
-                        <path d="M3 12h18M3 6h18M3 18h18"/>
-                      </svg>
-                    </span>
+                  <summary class="text-4xl text-center pointer capitalize">
                     ${category}
                   </summary>
                   ${rowsForCategory}
