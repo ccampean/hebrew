@@ -115,6 +115,12 @@
       .panel {
         background-color: hsl(7, 11%, 83%);
       }
+      .north-west-arrow {
+        position: relative;
+        top: 35px;
+        font-size: 1.25rem;
+        cursor: pointer;
+      }
       .bbd {
         border-bottom-width: 2px;
         border-bottom-style: dashed;
@@ -406,6 +412,7 @@
                       </p>
                       <p class="he px-2 text-4xl">
                         <span>${he}</span>
+                        <span class="north-west-arrow" title="Collapse the '${category}' group.">&#8598;</span>
                       </p>
                     </div>
                   `
@@ -417,14 +424,14 @@
                 <details>
                   <summary class="ml-8 text-4xl pointer capitalize">
                     <span>
-                      <svg 
-                        xmlns="http://www.w3.org/2000/svg" 
-                        width="24" 
-                        height="24" 
-                        fill="none" 
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="24"
+                        height="24"
+                        fill="none"
                         stroke="#000"
-                        stroke-width="1" 
-                        stroke-linecap="round" 
+                        stroke-width="1"
+                        stroke-linecap="round"
                         stroke-linejoin="round"
                       >
                         <path d="M3 12h18M3 6h18M3 18h18"/>
@@ -460,6 +467,13 @@
               trumpetIcon.classList.add("mute")
             }
           })
+          ;[...document.querySelectorAll(".north-west-arrow")].map((arrow) =>
+            arrow.addEventListener("click", function () {
+              this.parentElement.parentElement.parentElement.removeAttribute(
+                "open"
+              )
+            })
+          )
         } catch (e) {
           console.error(e.message)
         }
