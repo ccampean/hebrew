@@ -363,6 +363,12 @@
       "tone": "shel",
       "he": "שֶׁל",
       "audio": ""
+    },
+    {
+      "en": "what",
+      "tone": "ma",
+      "he": "מַה",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/what-hebrew-translation.mp3"
     }
   ],
   "prepositions": [
@@ -431,6 +437,12 @@
       "en": "thus",
       "tone": "co",
       "he": "כֹּה",
+      "audio": ""
+    },
+    {
+      "en": "apropos",
+      "tone": "agav",
+      "he": "אַגַב",
       "audio": ""
     }
   ],
@@ -654,6 +666,12 @@
   ],
   "fruits": [
     {
+      "en": "apple",
+      "tone": "tapuah",
+      "he": "תַפּוּחַ",
+      "audio": ""
+    },
+    {
       "en": "banana",
       "tone": "banana",
       "he": "בָּנָנָה",
@@ -692,6 +710,12 @@
       "audio": ""
     },
     {
+      "en": "meat",
+      "tone": "basar",
+      "he": "בָּשָׂר",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/meat.mp3"
+    },
+    {
       "en": "chips",
       "tone": "tsips",
       "he": "צ'יפס",
@@ -702,6 +726,64 @@
       "tone": "makolet",
       "he": "מַכֹּלֶת",
       "audio": ""
+    }
+  ],
+  "days": [
+    {
+      "en": "Monday",
+      "tone": "sheni",
+      "he": "יוֹם שֵׁנִי",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Monday-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Tuesday",
+      "tone": "shlishi",
+      "he": "יוֹם שְׁלִישִׁי",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Tuesday-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Wednesday",
+      "tone": "",
+      "he": "יוֹם רְבִיעִי",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Wednesday-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Thursday",
+      "tone": "",
+      "he": "יוֹם חֲמִישִׁי",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Thursday-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Friday",
+      "tone": "shishi",
+      "he": "יוֹם שִׁשִּׁי",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Friday-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Saturday",
+      "tone": "shabat",
+      "he": "שַׁבָּת",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Saturday-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Sunday",
+      "tone": "rishon",
+      "he": "יוֹם רִאשׁוֹן",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Sunday-in-hebrew-translation.mp3"
+    }
+  ],
+  "months": [
+    {
+      "en": "March",
+      "tone": "",
+      "he": "מַרְס",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/March-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "November",
+      "tone": "november",
+      "he": "נוֹבֶמְבֶּר",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/November-in-hebrew-translation.mp3"
     }
   ],
   "people": [
@@ -838,9 +920,21 @@
       "audio": ""
     },
     {
+      "en": "pharaoh",
+      "tone": "paro",
+      "he": "פַּרְעֹה",
+      "audio": ""
+    },
+    {
       "en": "president",
       "tone": "hanashoiy",
       "he": "הַנָּשִׂיא",
+      "audio": ""
+    },
+    {
+      "en": "master; mister",
+      "tone": "adon",
+      "he": "אָדוֹן",
       "audio": ""
     },
     {
@@ -910,6 +1004,40 @@
       "audio": ""
     }
   ],
+  "women": [
+    {
+      "en": "Hannah",
+      "tone": "hana",
+      "he": "חַנָּה",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Hannah-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Myrtle",
+      "tone": "hadas",
+      "he": "הֲדַס",
+      "audio": ""
+    },
+    {
+      "en": "Hadassah (Esther)",
+      "tone": "hadasa",
+      "he": "הֲדַסָּה",
+      "audio": ""
+    },
+    {
+      "en": "Sarah",
+      "tone": "sara",
+      "he": "שָׂרָה",
+      "audio": ""
+    }
+  ],
+  "emotions": [
+    {
+      "en": "love; affection",
+      "tone": "ahava",
+      "he": "אַהֲבָה",
+      "audio": ""
+    }
+  ],
   "money": [
     {
       "en": "bank",
@@ -938,6 +1066,44 @@
       "tone": "barzel",
       "he": "בַּרְזֶל",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/iron-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "gold",
+      "tone": "zahav",
+      "he": "זָהָב",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/gold-in-hebrew-translation.mp3"
+    }
+  ],
+  "anatomy": [
+    {
+      "en": "back",
+      "tone": "gav",
+      "he": "גַב",
+      "audio": ""
+    },
+    {
+      "en": "mouth",
+      "tone": "pe",
+      "he": "פֶּה",
+      "audio": ""
+    },
+    {
+      "en": "hand; arm",
+      "tone": "iad",
+      "he": "יָד",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/hand-hebrew-translation.mp3"
+    },
+    {
+      "en": "hair",
+      "tone": "sear",
+      "he": "שֵׂעַר",
+      "audio": ""
+    },
+    {
+      "en": "skin",
+      "tone": "or",
+      "he": "עוֹר",
+      "audio": ""
     }
   ],
   "astronomy": [
@@ -1060,7 +1226,21 @@
       "audio": ""
     }
   ],
+  "languages": [
+    {
+      "en": "Hebrew",
+      "tone": "iv'riyt",
+      "he": "עִבְרִית",
+      "audio": ""
+    }
+  ],
   "religion": [
+    {
+      "en": "Torah",
+      "tone": "tora",
+      "he": "תּוֹרָה",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/torah-in-hebrew-translation.mp3"
+    },
     {
       "en": "Thank God",
       "tone": "baruch hashem",
@@ -1126,6 +1306,12 @@
       "tone": "Ruah Kodesh",
       "he": "רוּחַ קֻדַּשׁ",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/holy-spirit-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Amen; veritably",
+      "tone": "amen",
+      "he": "אָמֵן",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/amen-in-hebrew-translation-1.mp3"
     }
   ],
   "virtues": [
@@ -1174,6 +1360,38 @@
       "tone": "teraga",
       "he": "תֵּרָגַע",
       "audio": ""
+    },
+    {
+      "en": "work",
+      "tone": "avoda",
+      "he": "עֲבוֹדָה",
+      "audio": ""
+    }
+  ],
+  "professions": [
+    {
+      "en": "salesmen",
+      "tone": "moher",
+      "he": "מוֹכֵר",
+      "audio": ""
+    },
+    {
+      "en": "commander",
+      "tone": "mefaked",
+      "he": "מְפַקֵד",
+      "audio": ""
+    },
+    {
+      "en": "gardener",
+      "tone": "ganan",
+      "he": "גַּנָּן",
+      "audio": ""
+    },
+    {
+      "en": "thief",
+      "tone": "ganav",
+      "he": "גַנָב",
+      "audio": ""
     }
   ],
   "music": [
@@ -1196,19 +1414,40 @@
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/music-in-hebrew-translation.mp3"
     }
   ],
-  "mixed": [
+  "measurements": [
+    {
+      "en": "big",
+      "tone": "gadol",
+      "he": "גָּדוֹל",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/big-hebrew-translation.mp3"
+    },
     {
       "en": "small",
-      "tone": "catan",
+      "tone": "katan",
       "he": "קָטָן",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/small-hebrew-translation.mp3"
     },
     {
-      "en": "what",
-      "tone": "ma",
-      "he": "מַה",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/what-hebrew-translation.mp3"
+      "en": "end",
+      "tone": "sof",
+      "he": "סוֹף",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/end-hebrew-translation.mp3"
     },
+    {
+      "en": "an amount; sum; total",
+      "tone": "schum",
+      "tone_ro": "shum",
+      "he": "סְכוּם",
+      "audio": ""
+    },
+    {
+      "en": "percent; proportion; rate; cent",
+      "tone": "ahuz",
+      "he": "אָחוּז",
+      "audio": ""
+    }
+  ],
+  "mixed": [
     {
       "en": "staff; rod",
       "tone": "mate",
@@ -1219,30 +1458,6 @@
       "en": "(he) came",
       "tone": "(hu) ba",
       "he": "בָּא",
-      "audio": ""
-    },
-    {
-      "en": "love; affection",
-      "tone": "ahava",
-      "he": "אַהֲבָה",
-      "audio": ""
-    },
-    {
-      "en": "Amen; veritably",
-      "tone": "amen",
-      "he": "אָמֵן",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/amen-in-hebrew-translation-1.mp3"
-    },
-    {
-      "en": "apropos",
-      "tone": "agav",
-      "he": "אַגַב",
-      "audio": ""
-    },
-    {
-      "en": "back",
-      "tone": "gav",
-      "he": "גַב",
       "audio": ""
     },
     {
@@ -1276,58 +1491,15 @@
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/garden-in-hebrew-translation.mp3"
     },
     {
-      "en": "gardener",
-      "tone": "ganan",
-      "he": "גַּנָּן",
-      "audio": ""
-    },
-    {
       "en": "orchard",
       "tone": "ghina",
       "he": "גִנָה",
       "audio": ""
     },
     {
-      "en": "thief",
-      "tone": "ganav",
-      "he": "גַנָב",
-      "audio": ""
-    },
-    {
-      "en": "holiday",
-      "tone": "hag",
-      "he": "חַג",
-      "audio": ""
-    },
-    {
       "en": "it spins",
       "tone": "hag",
       "he": "",
-      "audio": ""
-    },
-    {
-      "en": "master; mister",
-      "tone": "adon",
-      "he": "אָדוֹן",
-      "audio": ""
-    },
-    {
-      "en": "an amount; sum; total",
-      "tone": "schum",
-      "tone_ro": "shum",
-      "he": "סְכוּם",
-      "audio": ""
-    },
-    {
-      "en": "gold",
-      "tone": "zahav",
-      "he": "זָהָב",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/gold-in-hebrew-translation.mp3"
-    },
-    {
-      "en": "percent; proportion; rate; cent",
-      "tone": "ahuz",
-      "he": "אָחוּז",
       "audio": ""
     },
     {
@@ -1349,18 +1521,6 @@
       "audio": ""
     },
     {
-      "en": "hair",
-      "tone": "sear",
-      "he": "שֵׂעַר",
-      "audio": ""
-    },
-    {
-      "en": "skin",
-      "tone": "or",
-      "he": "עוֹר",
-      "audio": ""
-    },
-    {
       "en": "light",
       "tone": "or",
       "he": "אוֹר",
@@ -1376,24 +1536,6 @@
       "en": "indebted",
       "tone": "hav",
       "he": "חָב",
-      "audio": ""
-    },
-    {
-      "en": "Hannah",
-      "tone": "hana",
-      "he": "חַנָּה",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Hannah-in-hebrew-translation.mp3"
-    },
-    {
-      "en": "Myrtle",
-      "tone": "hadas",
-      "he": "הֲדַס",
-      "audio": ""
-    },
-    {
-      "en": "Hadassah (Esther)",
-      "tone": "hadasa",
-      "he": "הֲדַסָּה",
       "audio": ""
     },
     {
@@ -1415,42 +1557,6 @@
       "audio": ""
     },
     {
-      "en": "Saturday",
-      "tone": "shabat",
-      "he": "שַׁבָּת",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Saturday-in-hebrew-translation.mp3"
-    },
-    {
-      "en": "Sarah",
-      "tone": "sara",
-      "he": "שָׂרָה",
-      "audio": ""
-    },
-    {
-      "en": "Torah",
-      "tone": "tora",
-      "he": "תּוֹרָה",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/torah-in-hebrew-translation.mp3"
-    },
-    {
-      "en": "end",
-      "tone": "sof",
-      "he": "סוֹף",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/end-hebrew-translation.mp3"
-    },
-    {
-      "en": "pharaoh",
-      "tone": "paro",
-      "he": "פַּרְעֹה",
-      "audio": ""
-    },
-    {
-      "en": "mouth",
-      "tone": "pe",
-      "he": "פֶּה",
-      "audio": ""
-    },
-    {
       "en": "said",
       "tone": "amar",
       "he": "אָמַר",
@@ -1463,46 +1569,10 @@
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/book-in-hebrew-translation.mp3"
     },
     {
-      "en": "salesmen",
-      "tone": "moher",
-      "he": "מוֹכֵר",
-      "audio": ""
-    },
-    {
-      "en": "commander",
-      "tone": "mefaked",
-      "he": "מְפַקֵד",
-      "audio": ""
-    },
-    {
-      "en": "hand; arm",
-      "tone": "iad",
-      "he": "יָד",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/hand-hebrew-translation.mp3"
-    },
-    {
       "en": "house; home",
       "tone": "bayit",
       "he": "בַּיִת",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/house-hebrew-translation.mp3"
-    },
-    {
-      "en": "apple",
-      "tone": "tapuah",
-      "he": "תַפּוּחַ",
-      "audio": ""
-    },
-    {
-      "en": "work",
-      "tone": "avoda",
-      "he": "עֲבוֹדָה",
-      "audio": ""
-    },
-    {
-      "en": "hebrew",
-      "tone": "iv'riyt",
-      "he": "עִבְרִית",
-      "audio": ""
     }
   ]
 }
