@@ -72,11 +72,14 @@ window.addEventListener("load", () => {
 
           result[category].length > 0 &&
             result[category].map(({ en, tone, he, audio }) => {
+              // sometimes 'audio' is an array of URLs
+              const audioFile = Array.isArray(audio) ? audio[0] : audio
+
               let audioElement = ""
 
-              if (audio) {
+              if (audioFile) {
                 audioElement = `
-                  <audio class="audio" src="${audio}">
+                  <audio class="audio" src="${audioFile}">
                     Your browser does not support the <code>audio</code> element.
                   </audio>
                 `
