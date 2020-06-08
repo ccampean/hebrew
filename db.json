@@ -379,10 +379,19 @@
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/for-the-sake-of-hebrew-translation.mp3"
     },
     {
+      "en": "in",
+      "tone": "be-",
+      "he": "-בְּ",
+      "audio": ""
+    },
+    {
       "en": "and",
       "tone": "ve",
       "he": "וְ",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/And-in-hebrew-translation.mp3"
+      "audio": [
+        "http://www.yallahebrew.com/wp-content/uploads/2018/09/and-hebrew-translation.mp3",
+        "http://www.yallahebrew.com/wp-content/uploads/2018/09/And-in-hebrew-translation.mp3"
+      ]
     },
     {
       "en": "instead of, in place of",
@@ -403,6 +412,26 @@
       "tone": "beholzot",
       "he": "בְּכָל זֹאת",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/yet-in-hebrew-translation.mp3"
+    }
+  ],
+  "adjectives": [
+    {
+      "en": "(m) this; that",
+      "tone": "ze",
+      "he": "זֶה",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/this-hebrew-translation.mp3"
+    },
+    {
+      "en": "(f) this; that",
+      "tone": "zot",
+      "he": "זֹאת",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/this-feminine-hebrew-translation.mp3"
+    },
+    {
+      "en": "thus",
+      "tone": "co",
+      "he": "כֹּה",
+      "audio": ""
     }
   ],
   "animals": [
@@ -767,6 +796,12 @@
       "audio": "https://static.memrise.com/uploads/things/audio/186500510_1526397297048.mp3"
     },
     {
+      "en": "nation",
+      "tone": "am",
+      "he": "עַם",
+      "audio": ""
+    },
+    {
       "en": "grandfather",
       "tone": "saba",
       "he": "סַבָּא",
@@ -955,6 +990,12 @@
       "tone": "even",
       "he": "אֶבֶן",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/stone-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "cloud",
+      "tone": "anan",
+      "he": "עָנָן",
+      "audio": ""
     }
   ],
   "greetings": [
@@ -1061,6 +1102,30 @@
       "tone": "teilim",
       "he": "תְּהִילִּים",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/psalms-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Eden",
+      "tone": "eden",
+      "he": "עֵדֶן",
+      "audio": ""
+    },
+    {
+      "en": "sin",
+      "tone": "het",
+      "he": "חֵטְא",
+      "audio": ""
+    },
+    {
+      "en": "spirit",
+      "tone": "ruah",
+      "he": "רוּחַ",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/hebrew-word-for-spirit.mp3"
+    },
+    {
+      "en": "Holy Spirit",
+      "tone": "Ruah Kodesh",
+      "he": "רוּחַ קֻדַּשׁ",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/holy-spirit-in-hebrew-translation.mp3"
     }
   ],
   "virtues": [
@@ -1081,6 +1146,12 @@
       "tone": "rahamim",
       "he": "רַחֲמִים",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/mercy-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "faithful",
+      "tone": "ne'eman",
+      "he": "נֶאֱמָן",
+      "audio": ""
     }
   ],
   "transportation": [
@@ -1145,12 +1216,6 @@
       "audio": ""
     },
     {
-      "en": "in; with; at",
-      "tone": "be-",
-      "he": "-בְּ",
-      "audio": ""
-    },
-    {
       "en": "(he) came",
       "tone": "(hu) ba",
       "he": "בָּא",
@@ -1163,40 +1228,10 @@
       "audio": ""
     },
     {
-      "en": "nation",
-      "tone": "am",
-      "he": "עַם",
-      "audio": ""
-    },
-    {
-      "en": "faithful",
-      "tone": "ne'eman",
-      "he": "נֶאֱמָן",
-      "audio": ""
-    },
-    {
       "en": "Amen; veritably",
       "tone": "amen",
       "he": "אָמֵן",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/amen-in-hebrew-translation-1.mp3"
-    },
-    {
-      "en": "Eden",
-      "tone": "eden",
-      "he": "עֵדֶן",
-      "audio": ""
-    },
-    {
-      "en": "sin",
-      "tone": "het",
-      "he": "חֵטְא",
-      "audio": ""
-    },
-    {
-      "en": "cloud",
-      "tone": "anan",
-      "he": "עָנָן",
-      "audio": ""
     },
     {
       "en": "apropos",
@@ -1277,29 +1312,11 @@
       "audio": ""
     },
     {
-      "en": "thus",
-      "tone": "co",
-      "he": "כֹּה",
-      "audio": ""
-    },
-    {
       "en": "an amount; sum; total",
       "tone": "schum",
       "tone_ro": "shum",
       "he": "סְכוּם",
       "audio": ""
-    },
-    {
-      "en": "(m) this; that",
-      "tone": "ze",
-      "he": "זֶה",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/this-hebrew-translation.mp3"
-    },
-    {
-      "en": "(f) this; that",
-      "tone": "zot",
-      "he": "זֹאת",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/this-feminine-hebrew-translation.mp3"
     },
     {
       "en": "gold",
@@ -1416,12 +1433,6 @@
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/torah-in-hebrew-translation.mp3"
     },
     {
-      "en": "and; also; as well as",
-      "tone": "ve",
-      "he": "וְ",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/and-hebrew-translation.mp3"
-    },
-    {
       "en": "end",
       "tone": "sof",
       "he": "סוֹף",
@@ -1476,18 +1487,6 @@
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/house-hebrew-translation.mp3"
     },
     {
-      "en": "wind; spirit",
-      "tone": "ruah",
-      "he": "רוּחַ",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/hebrew-word-for-spirit.mp3"
-    },
-    {
-      "en": "Holy Spirit",
-      "tone": "Ruah Kodesh",
-      "he": "רוּחַ קֻדַּשׁ",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/holy-spirit-in-hebrew-translation.mp3"
-    },
-    {
       "en": "apple",
       "tone": "tapuah",
       "he": "תַפּוּחַ",
@@ -1497,12 +1496,6 @@
       "en": "work",
       "tone": "avoda",
       "he": "עֲבוֹדָה",
-      "audio": ""
-    },
-    {
-      "en": "zebra",
-      "tone": "zebra",
-      "he": "זֶבּרָה",
       "audio": ""
     },
     {
