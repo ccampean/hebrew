@@ -110,7 +110,13 @@
         content: "";
       }
       .panel {
+        position: fixed;
+        width: 100%;
+        z-index: 1;
         background-color: hsl(7, 11%, 83%);
+      }
+      .vellum {
+        margin-top: 110px;
       }
       .north-west-arrow {
         position: relative;
@@ -198,96 +204,78 @@
   </head>
   <body>
     <div class="content">
-      <button type="button" class="help pointer">
-        <span class="emoji px-2" role="img" aria-label="Question Mark"
-          >&#10067;</span
-        >
-      </button>
-
-      <div class="modal">
-        <div class="modal-content">
-          <span class="modal-close">&times;</span>
-          <p class="leading-8">
-            The vocabulary below is in a growing process. With your help it can
-            reach maturity. A technical person can open a
-            <a
-              href="https://github.com/costinEEST/hebrew/pulls"
-              target="_blank"
-              rel="noopener noreferrer"
-              >pull request</a
-            >. Non technical people can fill a
-            <a
-              href="https://forms.gle/mbp9mXxWEwafrAvW9"
-              target="_blank"
-              rel="noopener noreferrer"
-              >form</a
-            >.
-          </p>
+      <nav class="panel">
+        <div>
+          <button type="button" class="help pointer">
+            <span class="emoji px-2" role="img" aria-label="Question Mark"
+              >&#10067;</span
+            >
+          </button>
         </div>
-      </div>
-
-      <article class="flex panel">
-        <section>
-          <h3 class="laptop px-2">In English</h3>
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            width="40"
-            height="20"
-            viewBox="0 0 30 15"
-            class="tablet px-2"
-          >
-            <defs>
-              <clipPath id="a">
-                <path d="M15 7.5h15V15zm0 0V15H0zm0 0H0V0zm0 0V0h15zm0 0" />
-              </clipPath>
-            </defs>
-            <path fill="#00247d" d="M0 0h30v15H0z" />
-            <path d="M0 0l30 15m0-15L0 15" stroke-width="3" stroke="#fff" />
-            <g clip-path="url(#a)">
+        <div class="flex">
+          <section>
+            <h3 class="laptop px-2">In English</h3>
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="40"
+              height="20"
+              viewBox="0 0 30 15"
+              class="tablet px-2"
+            >
+              <defs>
+                <clipPath id="a">
+                  <path d="M15 7.5h15V15zm0 0V15H0zm0 0H0V0zm0 0V0h15zm0 0" />
+                </clipPath>
+              </defs>
+              <path fill="#00247d" d="M0 0h30v15H0z" />
+              <path d="M0 0l30 15m0-15L0 15" stroke-width="3" stroke="#fff" />
+              <g clip-path="url(#a)">
+                <path
+                  d="M0 0l30 15m0-15L0 15"
+                  stroke-width="2"
+                  stroke="#cf142b"
+                />
+              </g>
+              <path d="M15 0v15M0 7.5h30" stroke-width="5" stroke="#fff" />
+              <path d="M15 0v15M0 7.5h30" stroke-width="3" stroke="#cf142b" />
+            </svg>
+          </section>
+          <section>
+            <h3 class="laptop px-2">In Hebrew (with nikud)</h3>
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="40"
+              height="22pt"
+              viewBox="0 0 30 22"
+              class="tablet px-2"
+            >
+              <path fill="#fff" d="M0 0h30v22H0z" />
               <path
-                d="M0 0l30 15m0-15L0 15"
-                stroke-width="2"
-                stroke="#cf142b"
+                d="M0 2.063h30V5.5H0zm0 0M0 16.5h30v3.438H0zm0 0"
+                fill="#0038b8"
               />
-            </g>
-            <path d="M15 0v15M0 7.5h30" stroke-width="5" stroke="#fff" />
-            <path d="M15 0v15M0 7.5h30" stroke-width="3" stroke="#cf142b" />
-          </svg>
-        </section>
-        <section>
-          <h3 class="laptop px-2">In Hebrew (with nikud)</h3>
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            width="40"
-            height="22pt"
-            viewBox="0 0 30 22"
-            class="tablet px-2"
-          >
-            <path fill="#fff" d="M0 0h30v22H0z" />
-            <path
-              d="M0 2.063h30V5.5H0zm0 0M0 16.5h30v3.438H0zm0 0"
-              fill="#0038b8"
-            />
-            <path
-              d="M0-29.148l-25.237 43.722h50.474zm0 0"
-              transform="matrix(.13636 0 0 .1375 15 11)"
-              fill="none"
-              stroke-width="5.5"
-              stroke="#0038b8"
-            />
-            <path
-              d="M0-29.148l-25.237 43.722h50.474zm0 0"
-              transform="matrix(-.13636 0 0 -.1375 15 11)"
-              fill="none"
-              stroke-width="5.5"
-              stroke="#0038b8"
-            />
-          </svg>
-        </section>
-      </article>
+              <path
+                d="M0-29.148l-25.237 43.722h50.474zm0 0"
+                transform="matrix(.13636 0 0 .1375 15 11)"
+                fill="none"
+                stroke-width="5.5"
+                stroke="#0038b8"
+              />
+              <path
+                d="M0-29.148l-25.237 43.722h50.474zm0 0"
+                transform="matrix(-.13636 0 0 -.1375 15 11)"
+                fill="none"
+                stroke-width="5.5"
+                stroke="#0038b8"
+              />
+            </svg>
+          </section>
+        </div>
+      </nav>
 
       <div class="vellum"></div>
     </div>
+
     <footer>
       <p class="px-2 text-center">
         <a
@@ -307,6 +295,28 @@
         ></a>
       </p>
     </footer>
+
+    <div class="modal">
+      <div class="modal-content">
+        <span class="modal-close">&times;</span>
+        <p class="leading-8">
+          The vocabulary below is in a growing process. With your help it can
+          reach maturity. A technical person can open a
+          <a
+            href="https://github.com/costinEEST/hebrew/pulls"
+            target="_blank"
+            rel="noopener noreferrer"
+            >pull request</a
+          >. Non technical people can fill a
+          <a
+            href="https://forms.gle/mbp9mXxWEwafrAvW9"
+            target="_blank"
+            rel="noopener noreferrer"
+            >form</a
+          >.
+        </p>
+      </div>
+    </div>
   </body>
   <script>
     window.addEventListener("load", () => {
