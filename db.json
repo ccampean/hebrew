@@ -688,6 +688,12 @@
       "tone": "liymon",
       "he": "לִימוֹן",
       "audio": ""
+    },
+    {
+      "en": "pomegranate",
+      "tone": "",
+      "he": "רִמוֹן",
+      "audio": ""
     }
   ],
   "food": [
@@ -1312,6 +1318,12 @@
       "tone": "amen",
       "he": "אָמֵן",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/amen-in-hebrew-translation-1.mp3"
+    },
+    {
+      "en": "christian",
+      "tone": "notzri",
+      "he": "נוֹצְרִי",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/christian-in-hebrew-translation.mp3"
     }
   ],
   "virtues": [
@@ -1365,6 +1377,12 @@
       "en": "work",
       "tone": "avoda",
       "he": "עֲבוֹדָה",
+      "audio": ""
+    },
+    {
+      "en": "to read",
+      "tone": "",
+      "he": "לִקְרוֹא",
       "audio": ""
     }
   ],
