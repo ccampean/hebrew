@@ -848,12 +848,6 @@
       "audio": ""
     },
     {
-      "en": "woman",
-      "tone": "iyshׁah",
-      "he": "אִישָּׁה",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/hebrew-word-for-woman.mp3"
-    },
-    {
       "en": "brother; monk; fireplace",
       "tone": "ah",
       "he": "אָח",
@@ -870,6 +864,12 @@
       "tone": "achot",
       "he": "אָחוֹת",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/sister-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "parents",
+      "tone": "horim",
+      "he": "הוֹרִים",
+      "audio": "https://static.memrise.com/uploads/things/audio/186500529_1526397579707.mp3"
     },
     {
       "en": "family",
@@ -902,16 +902,40 @@
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/grandma-in-hebrew-translation.mp3"
     },
     {
+      "en": "grandson",
+      "tone": "nehed",
+      "he": "נֶכֶד",
+      "audio": "https://static.memrise.com/uploads/things/audio/186500523_1526397355312.mp3"
+    },
+    {
+      "en": "granddaughter",
+      "tone": "nehda",
+      "he": "נֶכְדָּה",
+      "audio": "https://static.memrise.com/uploads/things/audio/186500524_1526397360092.mp3"
+    },
+    {
+      "en": "uncle",
+      "tone": "dod",
+      "he": "דּוֹד",
+      "audio": "https://static.memrise.com/uploads/things/audio/186500525_1526397364681.mp3"
+    },
+    {
+      "en": "aunt",
+      "tone": "doda",
+      "he": "דּוֹדָה",
+      "audio": "https://static.memrise.com/uploads/things/audio/186500527_1526397373603.mp3"
+    },
+    {
       "en": "husband",
       "tone": "baal",
       "he": "בַּעַל",
-      "audio": ""
+      "audio": "https://static.memrise.com/uploads/things/audio/186500530_1526397585286.mp3"
     },
     {
-      "en": "wife",
+      "en": "wife; woman",
       "tone": "ishah",
       "he": "אִשָּׁה",
-      "audio": ""
+      "audio": "https://static.memrise.com/uploads/things/audio/186500531_1526397589888.mp3"
     },
     {
       "en": "king",
