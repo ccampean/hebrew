@@ -1,5 +1,5 @@
 window.addEventListener("load", () => {
-  const helpButton = document.querySelector(".help")
+  const helpButton = document.querySelector(".memo")
   const helpModal = document.querySelector(".modal")
   const closeHelpModal = document.querySelector(".modal-close")
   const vellum = document.querySelector(".vellum")
