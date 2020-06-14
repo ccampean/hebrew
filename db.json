@@ -369,6 +369,12 @@
       "tone": "ma",
       "he": "מַה",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/what-hebrew-translation.mp3"
+    },
+    {
+      "en": "who",
+      "tone": "mi",
+      "he": "מִי",
+      "audio": ""
     }
   ],
   "prepositions": [
@@ -410,6 +416,18 @@
       "tone": "al",
       "he": "עַל",
       "audio": ""
+    },
+    {
+      "en": "with",
+      "tone": "im",
+      "he": "עִם",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/with-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "without",
+      "tone": "bli",
+      "he": "בְּלִי",
+      "audio": ""
     }
   ],
   "conjunctions": [
@@ -443,6 +461,68 @@
       "en": "apropos",
       "tone": "agav",
       "he": "אַגַב",
+      "audio": ""
+    }
+  ],
+  "adverbs": [
+    {
+      "en": "before",
+      "tone": "lifnei",
+      "he": "לִפנֵי",
+      "audio": ""
+    },
+    {
+      "en": "after",
+      "tone": "aharei",
+      "he": "אַחֲרֵי",
+      "audio": ""
+    },
+    {
+      "en": "there is",
+      "tone": "iesh",
+      "he": "יֵשׁ",
+      "audio": ""
+    },
+    {
+      "en": "there is no",
+      "tone": "ein",
+      "he": "אֵין",
+      "audio": ""
+    },
+    {
+      "en": "where",
+      "tone": "eifo",
+      "he": "אֵיפֹה",
+      "audio": ""
+    },
+    {
+      "en": "whither",
+      "tone": "lean",
+      "he": "לְאָן",
+      "audio": ""
+    },
+    {
+      "en": "why",
+      "tone": "lama",
+      "he": "לָמָה",
+      "audio": ""
+    },
+    {
+      "en": "when",
+      "tone": "matai",
+      "he": "מָתַי",
+      "audio": ""
+    },
+    {
+      "en": "how",
+      "tone": "eih",
+      "he": "אֵיך",
+      "audio": ""
+    },
+    {
+      "en": "how much",
+      "tone": "kama",
+      "he": "כַּמָּה",
       "audio": ""
     }
   ],
