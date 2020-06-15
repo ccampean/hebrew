@@ -812,6 +812,30 @@
       "tone": "makolet",
       "he": "מַכֹּלֶת",
       "audio": ""
+    },
+    {
+      "en": "water",
+      "tone": "maim",
+      "he": "מַיִם",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/water-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "ice",
+      "tone": "kerah",
+      "he": "קֶרַח",
+      "audio": ""
+    },
+    {
+      "en": "wine",
+      "tone": "iain",
+      "he": "יַיִן",
+      "audio": ""
+    },
+    {
+      "en": "beer",
+      "tone": "bira",
+      "he": "בִּירָה",
+      "audio": ""
     }
   ],
   "days": [
