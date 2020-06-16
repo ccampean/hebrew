@@ -746,16 +746,28 @@
   ],
   "fruits": [
     {
+      "en": "fruit",
+      "tone": "p'riy",
+      "he": "פְּרִי",
+      "audio": "https://static.memrise.com/uploads/things/audio/100663701_160330_0450_09.mp3"
+    },
+    {
       "en": "apple",
       "tone": "tapuah",
       "he": "תַפּוּחַ",
       "audio": ""
     },
     {
+      "en": "pineapple",
+      "tone": "ananas",
+      "he": "אָנָנָס",
+      "audio": "https://static.memrise.com/uploads/things/audio/100663788_160330_0451_18.mp3"
+    },
+    {
       "en": "banana",
       "tone": "banana",
       "he": "בָּנָנָה",
-      "audio": ""
+      "audio": "https://static.memrise.com/uploads/things/audio/100663732_160330_0450_50.mp3"
     },
     {
       "en": "avocado",
@@ -767,16 +779,72 @@
       "en": "lemon",
       "tone": "liymon",
       "he": "לִימוֹן",
-      "audio": ""
+      "audio": "https://static.memrise.com/uploads/things/audio/100663731_160330_0450_48.mp3"
     },
     {
       "en": "pomegranate",
       "tone": "",
       "he": "רִמוֹן",
       "audio": ""
+    },
+    {
+      "en": "strawberry",
+      "tone": "תּוּת",
+      "he": "tut",
+      "audio": "https://static.memrise.com/uploads/things/audio/100663717_160330_0450_20.mp3"
+    }
+  ],
+  "vegetables": [
+    {
+      "en": "olive",
+      "tone": "zait",
+      "he": "זַיִת",
+      "audio": "https://static.memrise.com/uploads/things/audio/100663791_160330_0451_21.mp3"
+    },
+    {
+      "en": "tomato",
+      "tone": "ag'vaniya",
+      "he": "עַגְבָנִיָּה",
+      "audio": "https://static.memrise.com/uploads/things/audio/100663722_160330_0450_31.mp3"
+    },
+    {
+      "en": "salad",
+      "tone": "salat",
+      "he": "סָלָט",
+      "audio": "https://static.memrise.com/uploads/things/audio/100663776_160330_0451_07.mp3"
+    },
+    {
+      "en": "mushroom",
+      "tone": "pitria",
+      "he": "פִּטְרִיָּה",
+      "audio": "https://static.memrise.com/uploads/things/audio/100663784_160330_0451_12.mp3"
     }
   ],
   "food": [
+    {
+      "en": "meal",
+      "tone": "arucha",
+      "he": "אֲרוּחָה",
+      "audio": ""
+    },
+    {
+      "en": "lunch",
+      "tone": "aruchat tzaharayim",
+      "he": "אֲרוּחַת צָהֳרַיִם",
+      "audio": "https://static.memrise.com/uploads/things/audio/100663696_160330_0450_02.mp3"
+    },
+    {
+      "en": "breakfast",
+      "tone": "aruchat boker",
+      "he": "אֲרוּחַת בֹּקֶר",
+      "audio": "https://static.memrise.com/uploads/things/audio/100663700_160330_0450_04.mp3"
+    },
+    {
+      "en": "dinner",
+      "tone": "aruchat erev",
+      "he": "אֲרוּחַת עֶרֶב",
+      "audio": "https://static.memrise.com/uploads/things/audio/100663764_160330_0450_06.mp3"
+    },
     {
       "en": "unleavened bread",
       "tone": "matza",
@@ -790,16 +858,43 @@
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/bread-in-hebrew-translation.mp3"
     },
     {
+      "en": "pasta",
+      "tone": "pasta",
+      "he": "פסטה",
+      "audio": "https://static.memrise.com/uploads/things/audio/100663703_160330_0450_11.mp3"
+    },
+    {
+      "en": "pizza",
+      "tone": "pitza",
+      "he": "פִּיצָה",
+      "audio": "https://static.memrise.com/uploads/things/audio/100663785_160330_0451_16.mp3"
+    },
+    {
       "en": "hamburger",
       "tone": "hamburger",
       "he": "הַמְבּוּרְגֶּר",
       "audio": ""
     },
     {
+      "en": "sandwich",
+      "tone": "kariykh'",
+      "he": "כָּרִיךְ",
+      "audio": "https://static.memrise.com/uploads/things/audio/100663767_160330_0450_53.mp3"
+    },
+    {
       "en": "meat",
       "tone": "basar",
       "he": "בָּשָׂר",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/meat.mp3"
+      "audio": [
+        "https://static.memrise.com/uploads/things/audio/100663720_160330_0450_29.mp3",
+        "http://www.yallahebrew.com/wp-content/uploads/2018/10/meat.mp3"
+      ]
+    },
+    {
+      "en": "beef; cattle",
+      "tone": "bakar",
+      "he": "בָּקָר",
+      "audio": "https://static.memrise.com/uploads/things/audio/100663772_160330_0451_04.mp3"
     },
     {
       "en": "chips",
@@ -812,6 +907,24 @@
       "tone": "makolet",
       "he": "מַכֹּלֶת",
       "audio": ""
+    },
+    {
+      "en": "soup",
+      "tone": "marak",
+      "he": "מָרָק",
+      "audio": "https://static.memrise.com/uploads/things/audio/100663724_160330_0450_33.mp3"
+    },
+    {
+      "en": "bottle",
+      "tone": "bak'buk",
+      "he": "בַּקְבּוּק",
+      "audio": "https://static.memrise.com/uploads/things/audio/100663773_160330_0451_05.mp3"
+    },
+    {
+      "en": "oil",
+      "tone": "shemen",
+      "he": "שֶׁמֶן",
+      "audio": "https://static.memrise.com/uploads/things/audio/100663730_160330_0450_46.mp3"
     },
     {
       "en": "water",
@@ -835,7 +948,49 @@
       "en": "beer",
       "tone": "bira",
       "he": "בִּירָה",
+      "audio": "https://static.memrise.com/uploads/things/audio/100663715_160330_0450_19.mp3"
+    },
+    {
+      "en": "milk",
+      "tone": "halav",
+      "he": "חָלָב",
       "audio": ""
+    },
+    {
+      "en": "butter",
+      "tone": "hema",
+      "he": "חֶמְאָה",
+      "audio": "https://static.memrise.com/uploads/things/audio/100663781_160330_0451_10.mp3"
+    },
+    {
+      "en": "cheese",
+      "tone": "gvina",
+      "he": "גְּבִינָה",
+      "audio": "https://static.memrise.com/uploads/things/audio/100663719_160330_0450_24.mp3"
+    },
+    {
+      "en": "honey",
+      "tone": "d'vash",
+      "he": "דְּבַשׁ",
+      "audio": ""
+    },
+    {
+      "en": "sugar",
+      "tone": "sukar",
+      "he": "סֻכָּר",
+      "audio": "https://static.memrise.com/uploads/things/audio/100663706_160330_0450_12.mp3"
+    },
+    {
+      "en": "chocolate",
+      "tone": "shokolad",
+      "he": "שׁוֹקוֹלָד",
+      "audio": "https://static.memrise.com/uploads/things/audio/100663790_160330_0451_19.mp3"
+    },
+    {
+      "en": "salt",
+      "tone": "melach",
+      "he": "מֶלַח",
+      "audio": "https://static.memrise.com/uploads/things/audio/100663769_160330_0450_55.mp3"
     }
   ],
   "days": [
@@ -1590,6 +1745,14 @@
       "en": "percent; proportion; rate; cent",
       "tone": "ahuz",
       "he": "אָחוּז",
+      "audio": ""
+    }
+  ],
+  "clothing": [
+    {
+      "en": "pocket",
+      "tone": "kiys",
+      "he": "כִּיס",
       "audio": ""
     }
   ],
