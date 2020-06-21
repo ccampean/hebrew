@@ -1019,6 +1019,12 @@
       "audio": "https://static.memrise.com/uploads/things/audio/100663664_160330_0450_00.mp3"
     },
     {
+      "en": "omlette",
+      "tone": "havita",
+      "he": "חֲבִיתָה",
+      "audio": ""
+    },
+    {
       "en": "chips",
       "tone": "tsips",
       "he": "צ'יפס",
@@ -1263,6 +1269,162 @@
       "tone": "taam",
       "he": "טַעַם",
       "audio": "https://static.memrise.com/uploads/things/audio/101104385_160403_0649_56.mp3"
+    }
+  ],
+  "religion": [
+    {
+      "en": "Torah",
+      "tone": "tora",
+      "he": "תּוֹרָה",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/torah-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Thank God",
+      "tone": "baruch hashem",
+      "he": "בָּרוּךְ הַשֵּׁם",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/baruch-hashem-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "holiday",
+      "tone": "hag",
+      "he": "חַג",
+      "audio": ""
+    },
+    {
+      "en": "psalms",
+      "tone": "teilim",
+      "he": "תְּהִילִּים",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/psalms-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Eden",
+      "tone": "eden",
+      "he": "עֵדֶן",
+      "audio": ""
+    },
+    {
+      "en": "sin",
+      "tone": "het",
+      "he": "חֵטְא",
+      "audio": ""
+    },
+    {
+      "en": "spirit",
+      "tone": "ruah",
+      "he": "רוּחַ",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/hebrew-word-for-spirit.mp3"
+    },
+    {
+      "en": "Holy Spirit",
+      "tone": "Ruah Kodesh",
+      "he": "רוּחַ קֻדַּשׁ",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/holy-spirit-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Amen; veritably",
+      "tone": "amen",
+      "he": "אָמֵן",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/amen-in-hebrew-translation-1.mp3"
+    },
+    {
+      "en": "christian",
+      "tone": "notzri",
+      "he": "נוֹצְרִי",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/christian-in-hebrew-translation.mp3"
+    }
+  ],
+  "greetings": [
+    {
+      "en": "Hello; Peace",
+      "tone": "shalom",
+      "he": "שָׁלוֹם",
+      "audio": "https://static.memrise.com/uploads/things/audio/186526494_1526396208834.mp3"
+    },
+    {
+      "en": "Thanks",
+      "tone": "todah",
+      "he": "תּוֹדָה",
+      "audio": ""
+    },
+    {
+      "en": "Good luck; With Success",
+      "tone": "b'hatzlakhá",
+      "he": "בְּהַצְלָחָה",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/good-luck-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Good Morning",
+      "tone": "boker tov",
+      "he": "בֹּקֶר טוֹב",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/good-morning-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Goodnight",
+      "tone": "laila tov",
+      "he": "לַיְלָה טוֹב",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/goodnight-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Good Evening",
+      "tone": "",
+      "he": "עֶרֶב טוֹב",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Good-evening-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Happy New Year",
+      "tone": "shana tova",
+      "he": "שָׁנָה טוֹבָה",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/happy-new-year-in-hebrew-translation-1.mp3"
+    },
+    {
+      "en": "Happy Birthday",
+      "tone": "",
+      "he": "יום הֻלֶּדֶת שָׂמֵחַ",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/happy-birthday-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Happy Hanukkah",
+      "tone": "",
+      "he": "חַג חֲנֻכָּה שָׂמֵחַ",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/happy-hanukkah-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Happy Passover",
+      "tone": "",
+      "he": "פֶּסַח שָׂמֵחַ",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/happy-passover-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Happy Holiday",
+      "tone": "hag sameach",
+      "he": "חַג שָׂמֵחַ",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/happy-holidays-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Congratulations; Well Done",
+      "tone": "mazel tov",
+      "he": "מַזָּל טוֹב",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/congratulations-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Everything's fine; No problem",
+      "tone": "hakol beseder",
+      "he": "הַכֹּל בְּסֵדֶר",
+      "audio": ""
+    }
+  ],
+  "Holidays": [
+    {
+      "en": "Beginning of the Month; Head of the Month",
+      "tone": "Rosh Hodesh",
+      "he": "רֹאשׁ חֻדַּשׁ",
+      "audio": ""
+    },
+    {
+      "en": "Passover",
+      "tone": "",
+      "he": "‬חַג הַפֶּסַח",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/passover-in-hebrew-translation.mp3"
     }
   ],
   "days": [
@@ -1725,160 +1887,12 @@
       "audio": ""
     }
   ],
-  "greetings": [
-    {
-      "en": "Hello; Peace",
-      "tone": "shalom",
-      "he": "שָׁלוֹם",
-      "audio": "https://static.memrise.com/uploads/things/audio/186526494_1526396208834.mp3"
-    },
-    {
-      "en": "Thanks",
-      "tone": "todah",
-      "he": "תּוֹדָה",
-      "audio": ""
-    },
-    {
-      "en": "Good luck; With Success",
-      "tone": "b'hatzlakhá",
-      "he": "בְּהַצְלָחָה",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/good-luck-in-hebrew-translation.mp3"
-    },
-    {
-      "en": "Good Morning",
-      "tone": "boker tov",
-      "he": "בֹּקֶר טוֹב",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/good-morning-in-hebrew-translation.mp3"
-    },
-    {
-      "en": "Goodnight",
-      "tone": "laila tov",
-      "he": "לַיְלָה טוֹב",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/goodnight-in-hebrew-translation.mp3"
-    },
-    {
-      "en": "Good Evening",
-      "tone": "",
-      "he": "עֶרֶב טוֹב",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Good-evening-in-hebrew-translation.mp3"
-    },
-    {
-      "en": "Happy New Year",
-      "tone": "shana tova",
-      "he": "שָׁנָה טוֹבָה",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/happy-new-year-in-hebrew-translation-1.mp3"
-    },
-    {
-      "en": "Happy Birthday",
-      "tone": "",
-      "he": "יום הֻלֶּדֶת שָׂמֵחַ",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/happy-birthday-in-hebrew-translation.mp3"
-    },
-    {
-      "en": "Congratulations; Well Done",
-      "tone": "mazel tov",
-      "he": "מַזָּל טוֹב",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/congratulations-in-hebrew-translation.mp3"
-    },
-    {
-      "en": "Everything's fine; No problem",
-      "tone": "hakol beseder",
-      "he": "הַכֹּל בְּסֵדֶר",
-      "audio": ""
-    }
-  ],
   "languages": [
     {
       "en": "Hebrew",
       "tone": "iv'riyt",
       "he": "עִבְרִית",
       "audio": ""
-    }
-  ],
-  "religion": [
-    {
-      "en": "Torah",
-      "tone": "tora",
-      "he": "תּוֹרָה",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/torah-in-hebrew-translation.mp3"
-    },
-    {
-      "en": "Thank God",
-      "tone": "baruch hashem",
-      "he": "בָּרוּךְ הַשֵּׁם",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/baruch-hashem-in-hebrew-translation.mp3"
-    },
-    {
-      "en": "Happy Hanukkah",
-      "tone": "",
-      "he": "חַג חֲנֻכָּה שָׂמֵחַ",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/happy-hanukkah-in-hebrew-translation.mp3"
-    },
-    {
-      "en": "Passover",
-      "tone": "",
-      "he": "‬חַג הַפֶּסַח",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/passover-in-hebrew-translation.mp3"
-    },
-    {
-      "en": "Happy Passover",
-      "tone": "",
-      "he": "פֶּסַח שָׂמֵחַ",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/happy-passover-in-hebrew-translation.mp3"
-    },
-    {
-      "en": "holiday",
-      "tone": "hag",
-      "he": "חַג",
-      "audio": ""
-    },
-    {
-      "en": "Happy Holiday",
-      "tone": "hag sameach",
-      "he": "חַג שָׂמֵחַ",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/happy-holidays-in-hebrew-translation.mp3"
-    },
-    {
-      "en": "psalms",
-      "tone": "teilim",
-      "he": "תְּהִילִּים",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/psalms-in-hebrew-translation.mp3"
-    },
-    {
-      "en": "Eden",
-      "tone": "eden",
-      "he": "עֵדֶן",
-      "audio": ""
-    },
-    {
-      "en": "sin",
-      "tone": "het",
-      "he": "חֵטְא",
-      "audio": ""
-    },
-    {
-      "en": "spirit",
-      "tone": "ruah",
-      "he": "רוּחַ",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/hebrew-word-for-spirit.mp3"
-    },
-    {
-      "en": "Holy Spirit",
-      "tone": "Ruah Kodesh",
-      "he": "רוּחַ קֻדַּשׁ",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/holy-spirit-in-hebrew-translation.mp3"
-    },
-    {
-      "en": "Amen; veritably",
-      "tone": "amen",
-      "he": "אָמֵן",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/amen-in-hebrew-translation-1.mp3"
-    },
-    {
-      "en": "christian",
-      "tone": "notzri",
-      "he": "נוֹצְרִי",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/christian-in-hebrew-translation.mp3"
     }
   ],
   "virtues": [
