@@ -476,6 +476,18 @@
       "tone": "le'ekhol",
       "he": "לֶאֱכֹל",
       "audio": "https://static.memrise.com/uploads/things/audio/100663650_160330_0449_56.mp3"
+    },
+    {
+      "en": "to taste",
+      "tone": "lit'om",
+      "he": "לִטְעֹם",
+      "audio": "https://static.memrise.com/uploads/things/audio/65756168_1438111873066.mp3"
+    },
+    {
+      "en": "to sweeten",
+      "tone": "l'ham'tiyk",
+      "he": "לְהַמְתִּיק",
+      "audio": "https://static.memrise.com/uploads/things/audio/65756281_1438111957476.mp3"
     }
   ],
   "adverbs": [
@@ -1139,6 +1151,12 @@
       "audio": "https://static.memrise.com/uploads/things/audio/100663706_160330_0450_12.mp3"
     },
     {
+      "en": "candy",
+      "tone": "sukaria",
+      "he": "סוּכָּרִיָה",
+      "audio": ""
+    },
+    {
       "en": "chocolate",
       "tone": "shokolad",
       "he": "שׁוֹקוֹלָד",
@@ -1149,12 +1167,6 @@
       "tone": "ugiya",
       "he": "עוּגִיָּה",
       "audio": "https://static.memrise.com/uploads/things/audio/101104285_160403_0649_21.mp3"
-    },
-    {
-      "en": "candy",
-      "tone": "mamtak",
-      "he": "מַמְתָּק",
-      "audio": "https://static.memrise.com/uploads/things/audio/101104280_160403_0649_18.mp3"
     },
     {
       "en": "gum",
@@ -1263,12 +1275,77 @@
       "tone": "reah",
       "he": "רֵיחַ",
       "audio": "https://static.memrise.com/uploads/things/audio/101104384_160403_0649_54.mp3"
-    },
+    }
+  ],
+  "tastes": [
     {
-      "en": "taste",
+      "en": "flavor; taste",
       "tone": "taam",
       "he": "טַעַם",
       "audio": "https://static.memrise.com/uploads/things/audio/101104385_160403_0649_56.mp3"
+    },
+    {
+      "en": "sweet",
+      "tone": "matok",
+      "he": "מָתוֹק",
+      "audio": [
+        "https://static.memrise.com/uploads/things/audio/65756052_1437105829871.mp3",
+        "https://static.memrise.com/uploads/things/audio/65756052_1438111546470.mp3"
+      ]
+    },
+    {
+      "en": "spicy; hot",
+      "tone": "chariyf",
+      "he": "חָרִיף",
+      "audio": "https://static.memrise.com/uploads/things/audio/65756065_1437106028369.mp3"
+    },
+    {
+      "en": "bland",
+      "tone": "tafel",
+      "he": "תָּפֵל",
+      "audio": "https://static.memrise.com/uploads/things/audio/65756077_1437106048607.mp3"
+    },
+    {
+      "en": "sour",
+      "tone": "chamutz",
+      "he": "חָמוּץ",
+      "audio": "https://static.memrise.com/uploads/things/audio/65756085_1437106063290.mp3"
+    },
+    {
+      "en": "acid",
+      "tone": "chum'tzah",
+      "he": "חֻמְצָה",
+      "audio": "https://static.memrise.com/uploads/things/audio/65756103_1438111675632.mp3"
+    },
+    {
+      "en": "vinegar",
+      "tone": "chometz",
+      "he": "חֹמֶץ",
+      "audio": "https://static.memrise.com/uploads/things/audio/65756233_1438111938845.mp3"
+    },
+    {
+      "en": "bitter",
+      "tone": "mar",
+      "he": "מַר",
+      "audio": "https://static.memrise.com/uploads/things/audio/65756057_1437105843853.mp3"
+    },
+    {
+      "en": "maror; bitter herbs",
+      "tone": "maror",
+      "he": "מָרוֹר",
+      "audio": "https://static.memrise.com/uploads/things/audio/65756093_1438111654345.mp3"
+    },
+    {
+      "en": "salty",
+      "tone": "maluach",
+      "he": "מָלוּחַ",
+      "audio": "https://static.memrise.com/uploads/things/audio/65756122_1438111700247.mp3"
+    },
+    {
+      "en": "tasty; delicious",
+      "tone": "taiym",
+      "he": "טָעִים",
+      "audio": "https://static.memrise.com/uploads/things/audio/65756162_1438111771349.mp3"
     }
   ],
   "religion": [
@@ -1785,7 +1862,7 @@
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/atom-in-hebrew-translation-1.mp3"
     },
     {
-      "en": "Iron",
+      "en": "iron",
       "tone": "barzel",
       "he": "בַּרְזֶל",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/iron-in-hebrew-translation.mp3"
@@ -1795,6 +1872,12 @@
       "tone": "zahav",
       "he": "זָהָב",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/gold-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "oxygen",
+      "tone": "cham'tzan",
+      "he": "חַמְצָן",
+      "audio": "https://static.memrise.com/uploads/things/audio/65824533_1437105907040.mp3"
     }
   ],
   "anatomy": [
