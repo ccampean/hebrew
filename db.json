@@ -1885,31 +1885,88 @@
       "en": "back",
       "tone": "gav",
       "he": "גַב",
-      "audio": ""
+      "audio": "https://static.memrise.com/uploads/things/audio/209806906_1548238012292.mp3"
+    },
+    {
+      "en": "face",
+      "tone": "paniym",
+      "he": "פָּנִים",
+      "audio": "https://static.memrise.com/uploads/things/audio/209806907_1548238016752.mp3"
+    },
+    {
+      "en": "nose",
+      "tone": "af",
+      "he": "אַף",
+      "audio": "https://static.memrise.com/uploads/things/audio/209806901_1548237987411.mp3"
+    },
+    {
+      "en": "eye",
+      "tone": "ayin",
+      "he": "עַיִן",
+      "audio": "https://static.memrise.com/uploads/things/audio/209806912_1548238040371.mp3"
+    },
+    {
+      "en": "ear",
+      "tone": "ozen",
+      "he": "אֹזֶן",
+      "audio": "https://static.memrise.com/uploads/things/audio/209806910_1548238031013.mp3"
     },
     {
       "en": "mouth",
       "tone": "pe",
       "he": "פֶּה",
-      "audio": ""
+      "audio": "https://static.memrise.com/uploads/things/audio/209806902_1548237993540.mp3"
+    },
+    {
+      "en": "tooth",
+      "tone": "shen",
+      "he": "שֵׁן",
+      "audio": "https://static.memrise.com/uploads/things/audio/209806918_1548238068703.mp3"
+    },
+    {
+      "en": "finger",
+      "tone": "etz'ba",
+      "he": "אֶצְבַּע",
+      "audio": "https://static.memrise.com/uploads/things/audio/209806908_1548238021423.mp3"
     },
     {
       "en": "hand; arm",
       "tone": "iad",
       "he": "יָד",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/hand-hebrew-translation.mp3"
+      "audio": [
+        "https://static.memrise.com/uploads/things/audio/209806914_1548238050905.mp3",
+        "http://www.yallahebrew.com/wp-content/uploads/2018/09/hand-hebrew-translation.mp3"
+      ]
+    },
+    {
+      "en": "heart",
+      "tone": "lev",
+      "he": "לֵב",
+      "audio": "https://static.memrise.com/uploads/things/audio/209806905_1548238007893.mp3"
     },
     {
       "en": "hair",
       "tone": "sear",
       "he": "שֵׂעַר",
-      "audio": ""
+      "audio": "https://static.memrise.com/uploads/things/audio/209806903_1548237998318.mp3"
     },
     {
       "en": "skin",
       "tone": "or",
       "he": "עוֹר",
       "audio": ""
+    },
+    {
+      "en": "stomach",
+      "tone": "beten",
+      "he": "בֶּטֶן",
+      "audio": "https://static.memrise.com/uploads/things/audio/209806904_1548238307165.mp3"
+    },
+    {
+      "en": "leg",
+      "tone": "regel",
+      "he": "רֶגֶל",
+      "audio": "https://static.memrise.com/uploads/things/audio/209806916_1548238059783.mp3"
     }
   ],
   "astronomy": [
