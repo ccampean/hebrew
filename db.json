@@ -566,6 +566,12 @@
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Cat-in-hebrew-translation.mp3"
     },
     {
+      "en": "chicken",
+      "tone": "of",
+      "he": "עוֹף",
+      "audio": ""
+    },
+    {
       "en": "fish",
       "tone": "dag",
       "he": "דָג",
@@ -778,16 +784,34 @@
       "audio": "https://static.memrise.com/uploads/things/audio/100663701_160330_0450_09.mp3"
     },
     {
+      "en": "orange",
+      "tone": "tapuz",
+      "he": "תַּפּוּז",
+      "audio": "https://static.memrise.com/uploads/things/audio/61983301_1435761273898.mp3"
+    },
+    {
       "en": "apple",
       "tone": "tapuah",
       "he": "תַפּוּחַ",
-      "audio": ""
+      "audio": "https://static.memrise.com/uploads/things/audio/61983284_1435761156849.mp3"
     },
     {
       "en": "pineapple",
       "tone": "ananas",
       "he": "אָנָנָס",
       "audio": "https://static.memrise.com/uploads/things/audio/100663788_160330_0451_18.mp3"
+    },
+    {
+      "en": "peach",
+      "tone": "afar'sek",
+      "he": "אֲפַרְסֵק",
+      "audio": "https://static.memrise.com/uploads/things/audio/61983432_1435762437892.mp3"
+    },
+    {
+      "en": "pomegranate",
+      "tone": "rimon",
+      "he": "רִמּוֹן",
+      "audio": "https://static.memrise.com/uploads/things/audio/61984794_1437196146094.mp3"
     },
     {
       "en": "banana",
@@ -800,6 +824,12 @@
       "tone": "avocado",
       "he": "אָבוֹקָדוֹ",
       "audio": "https://static.memrise.com/uploads/things/audio/101104312_160403_0649_34.mp3"
+    },
+    {
+      "en": "citrus",
+      "tone": "hadar",
+      "he": "הָדָר",
+      "audio": "https://static.memrise.com/uploads/things/audio/65824587_1438113218563.mp3"
     },
     {
       "en": "lemon",
@@ -826,7 +856,13 @@
       "audio": "https://static.memrise.com/uploads/things/audio/101104325_160403_0649_41.mp3"
     },
     {
-      "en": "strawberry",
+      "en": "blueberry",
+      "tone": "ukh'maniyt",
+      "he": "אוּכמָנִית",
+      "audio": "https://static.memrise.com/uploads/things/audio/61983626_1435762974648.mp3"
+    },
+    {
+      "en": "berry; strawberry",
       "tone": "tut",
       "he": "תּוּת",
       "audio": "https://static.memrise.com/uploads/things/audio/100663717_160330_0450_20.mp3"
@@ -838,10 +874,34 @@
       "audio": "https://static.memrise.com/uploads/things/audio/101104309_160403_0649_32.mp3"
     },
     {
+      "en": "grapefruit",
+      "tone": "esh'koliyt",
+      "he": "אֶשׁכּוֹלִית",
+      "audio": "https://static.memrise.com/uploads/things/audio/61983559_1435762578381.mp3"
+    },
+    {
       "en": "mango",
       "tone": "mango",
       "he": "מַנְגּוֹ",
       "audio": "https://static.memrise.com/uploads/things/audio/101104345_160403_0649_48.mp3"
+    },
+    {
+      "en": "plum",
+      "tone": "sh'ziyf",
+      "he": "שְׁזִיף",
+      "audio": "https://static.memrise.com/uploads/things/audio/61983615_1437269546821.mp3"
+    },
+    {
+      "en": "peanut",
+      "tone": "boten",
+      "he": "בֹּטֶן",
+      "audio": "https://static.memrise.com/uploads/things/audio/101104295_160403_0649_24.mp3"
+    },
+    {
+      "en": "nut; walnut",
+      "tone": "egoz",
+      "he": "אֱגוֹז",
+      "audio": "https://static.memrise.com/uploads/things/audio/85938444_1455546160425.mp3"
     }
   ],
   "vegetables": [
@@ -850,6 +910,39 @@
       "tone": "ierek",
       "he": "יֶרֶק",
       "audio": "https://static.memrise.com/uploads/things/audio/101104205_160403_0648_48.mp3"
+    },
+    {
+      "en": "cabbage",
+      "tone": "k'ruv",
+      "he": "כְּרוּב",
+      "audio": [
+        "https://static.memrise.com/uploads/things/audio/61983292_1435761200793.mp3",
+        "https://static.memrise.com/uploads/things/audio/61983292_1437196478881.mp3"
+      ]
+    },
+    {
+      "en": "cauliflower",
+      "tone": "k'ruviyt",
+      "he": "כְּרוּבִית",
+      "audio": "https://static.memrise.com/uploads/things/audio/61983632_1435763044870.mp3"
+    },
+    {
+      "en": "broccoli",
+      "tone": "b'rokoliy",
+      "he": "בְּרוֹקוֹלִי",
+      "audio": "https://static.memrise.com/uploads/things/audio/61983640_1435763087173.mp3"
+    },
+    {
+      "en": "eggplant",
+      "tone": "chatziyl",
+      "he": "חֲצִיל",
+      "audio": "https://static.memrise.com/uploads/things/audio/61990649_1462148979593.mp3"
+    },
+    {
+      "en": "lettuce",
+      "tone": "chasah",
+      "he": "חַסָּה",
+      "audio": "https://static.memrise.com/uploads/things/audio/61983337_1435761349957.mp3"
     },
     {
       "en": "potato",
@@ -894,12 +987,6 @@
       "audio": "https://static.memrise.com/uploads/things/audio/101104268_160403_0649_09.mp3"
     },
     {
-      "en": "peanut",
-      "tone": "boten",
-      "he": "בֹּטֶן",
-      "audio": "https://static.memrise.com/uploads/things/audio/101104295_160403_0649_24.mp3"
-    },
-    {
       "en": "onion",
       "tone": "batzal",
       "he": "בָּצָל",
@@ -916,9 +1003,33 @@
       "tone": "gezer",
       "he": "גֶּזֶר",
       "audio": "https://static.memrise.com/uploads/things/audio/101104278_160403_0649_15.mp3"
+    },
+    {
+      "en": "beet",
+      "tone": "selek",
+      "he": "סֶלֶק",
+      "audio": "https://static.memrise.com/uploads/things/audio/61984791_1435763142593.mp3"
+    },
+    {
+      "en": "mint",
+      "tone": "nana",
+      "he": "נַענַע",
+      "audio": "https://static.memrise.com/uploads/things/audio/85938343_1455546146159.mp3"
+    },
+    {
+      "en": "basil",
+      "tone": "basilicum",
+      "he": "בָּזִילִיקוּם",
+      "audio": "https://static.memrise.com/uploads/things/audio/85938425_1455546155657.mp3"
     }
   ],
   "food": [
+    {
+      "en": "food",
+      "tone": "ohel",
+      "he": "אֹכֶל",
+      "audio": "https://static.memrise.com/uploads/things/audio/63293014_1437419732869.mp3"
+    },
     {
       "en": "recipe",
       "tone": "matkon",
@@ -944,6 +1055,18 @@
       "audio": "https://static.memrise.com/uploads/things/audio/101103848_160403_0648_17.mp3"
     },
     {
+      "en": "feast; banquet",
+      "tone": "s'udah",
+      "he": "סְעוּדָה",
+      "audio": "https://static.memrise.com/uploads/things/audio/66049934_1455939005807.mp3"
+    },
+    {
+      "en": "dessert",
+      "tone": "kinuah",
+      "he": "קִנּוּחַ",
+      "audio": "https://lang_src.s3.amazonaws.com/507_h.mp3"
+    },
+    {
       "en": "lunch",
       "tone": "aruchat tzaharayim",
       "he": "אֲרוּחַת צָהֳרַיִם",
@@ -956,7 +1079,7 @@
       "audio": "https://static.memrise.com/uploads/things/audio/100663700_160330_0450_04.mp3"
     },
     {
-      "en": "dinner",
+      "en": "supper; dinner",
       "tone": "aruchat erev",
       "he": "אֲרוּחַת עֶרֶב",
       "audio": "https://static.memrise.com/uploads/things/audio/100663764_160330_0450_06.mp3"
@@ -2000,6 +2123,12 @@
       "en": "jungle",
       "tone": "g'un'gel",
       "he": "ג'וּנגֶל",
+      "audio": ""
+    },
+    {
+      "en": "desert",
+      "tone": "mid'bar",
+      "he": "מִדבָּר",
       "audio": ""
     },
     {
