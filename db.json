@@ -550,6 +550,12 @@
       "tone": "kama",
       "he": "כַּמָּה",
       "audio": ""
+    },
+    {
+      "en": "maybe",
+      "tone": "ulay",
+      "he": "אוּלַי",
+      "audio": "https://static.memrise.com/uploads/things/audio/90095663_160329_0236_31.mp3"
     }
   ],
   "animals": [
@@ -1541,16 +1547,31 @@
       "audio": "https://static.memrise.com/uploads/things/audio/186526494_1526396208834.mp3"
     },
     {
-      "en": "Thanks",
+      "en": "Thanks; Thank You",
       "tone": "todah",
       "he": "תּוֹדָה",
-      "audio": ""
+      "audio": "https://static.memrise.com/uploads/things/audio/90095635_160329_0236_01.mp3"
     },
     {
-      "en": "Good luck; With Success",
+      "en": "Thank you very much; Much obliged",
+      "tone": "todah rabah",
+      "he": "תּוֹדָה רַבָּה",
+      "audio": "https://static.memrise.com/uploads/things/audio/90095680_160329_0236_55.mp3"
+    },
+    {
+      "en": "Good luck; With Success; Successfully",
       "tone": "b'hatzlakhá",
       "he": "בְּהַצְלָחָה",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/good-luck-in-hebrew-translation.mp3"
+      "audio": [
+        "https://static.memrise.com/uploads/things/audio/90095675_160329_0236_50.mp3",
+        "http://www.yallahebrew.com/wp-content/uploads/2018/09/good-luck-in-hebrew-translation.mp3"
+      ]
+    },
+    {
+      "en": "Congratulations",
+      "tone": "mazal tov",
+      "he": "מַזָּל טוֹב",
+      "audio": "https://static.memrise.com/uploads/things/audio/90095677_160329_0236_52.mp3"
     },
     {
       "en": "Good Morning",
@@ -1566,9 +1587,75 @@
     },
     {
       "en": "Good Evening",
-      "tone": "",
+      "tone": "erev tov",
       "he": "עֶרֶב טוֹב",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Good-evening-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Goodbye",
+      "tone": "l'hit'raot",
+      "he": "לְהִתְרָאוֹת",
+      "audio": "https://static.memrise.com/uploads/things/audio/90095638_160329_0236_01.mp3"
+    },
+    {
+      "en": "How are you?; What's up?",
+      "tone": "mah nish'ma?",
+      "he": "מָה נִשְׁמַע?",
+      "audio": "https://static.memrise.com/uploads/things/audio/90095641_160329_0236_04.mp3"
+    },
+    {
+      "en": "What's going on? What's happening?",
+      "tone": "mah koreh?",
+      "he": "מָה קוֹרֶה?",
+      "audio": "https://static.memrise.com/uploads/things/audio/90095643_160329_0236_05.mp3"
+    },
+    {
+      "en": "(m) How are you?",
+      "tone": "mah sh'lom'kha?",
+      "he": "מָה קוֹרֶה?",
+      "audio": "https://static.memrise.com/uploads/things/audio/90095645_160329_0236_08.mp3"
+    },
+    {
+      "en": "(f) How are you?",
+      "tone": "mah sh'lomeh?",
+      "he": "מַה שְׁלוֹמךָ?",
+      "audio": "https://static.memrise.com/uploads/things/audio/90095648_160329_0236_10.mp3"
+    },
+    {
+      "en": "Alright; OK; Fine",
+      "tone": "beseder",
+      "he": "בְּסֵדֶר",
+      "audio": "https://static.memrise.com/uploads/things/audio/90095650_160329_0236_12.mp3"
+    },
+    {
+      "en": "Everything's fine; No problem",
+      "tone": "hakol beseder",
+      "he": "הַכֹּל בְּסֵדֶר",
+      "audio": ""
+    },
+    {
+      "en": "Sorry; Excuse me",
+      "tone": "s'liychah",
+      "he": "סְלִיחָה",
+      "audio": "https://static.memrise.com/uploads/things/audio/90095653_160329_0236_15.mp3"
+    },
+    {
+      "en": "Please",
+      "tone": "b'vakashah",
+      "he": "בְּבַקָּשָׁה",
+      "audio": "https://static.memrise.com/uploads/things/audio/90095654_160329_0236_17.mp3"
+    },
+    {
+      "en": "Welcome",
+      "tone": "barokh' haba",
+      "he": "בָּרֹךְ הַבָּא",
+      "audio": "https://static.memrise.com/uploads/things/audio/90095670_160329_0236_43.mp3"
+    },
+    {
+      "en": "You're welcome",
+      "tone": "eyn b'ad mah",
+      "he": "אֵין בְּעַד מָה",
+      "audio": "https://static.memrise.com/uploads/things/audio/90095655_160329_0236_20.mp3"
     },
     {
       "en": "Happy New Year",
@@ -1578,7 +1665,7 @@
     },
     {
       "en": "Happy Birthday",
-      "tone": "",
+      "tone": "yom huledet sameach",
       "he": "יום הֻלֶּדֶת שָׂמֵחַ",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/happy-birthday-in-hebrew-translation.mp3"
     },
@@ -1590,7 +1677,7 @@
     },
     {
       "en": "Happy Passover",
-      "tone": "",
+      "tone": "pesach sameach",
       "he": "פֶּסַח שָׂמֵחַ",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/happy-passover-in-hebrew-translation.mp3"
     },
@@ -1605,12 +1692,6 @@
       "tone": "mazel tov",
       "he": "מַזָּל טוֹב",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/congratulations-in-hebrew-translation.mp3"
-    },
-    {
-      "en": "Everything's fine; No problem",
-      "tone": "hakol beseder",
-      "he": "הַכֹּל בְּסֵדֶר",
-      "audio": ""
     }
   ],
   "Holidays": [
@@ -2104,6 +2185,24 @@
       "tone": "iareah",
       "he": "יָרֵחַ",
       "audio": ""
+    },
+    {
+      "en": "morning",
+      "tone": "boker",
+      "he": "בּוֹקֵר",
+      "audio": "https://static.memrise.com/uploads/things/audio/90095660_160329_0236_25.mp3"
+    },
+    {
+      "en": "evening",
+      "tone": "erev",
+      "he": "עֶרֶב",
+      "audio": "https://static.memrise.com/uploads/things/audio/90095661_160329_0236_27.mp3"
+    },
+    {
+      "en": "night",
+      "tone": "laila",
+      "he": "לַיְלָה",
+      "audio": "https://static.memrise.com/uploads/things/audio/90095659_160329_0236_22.mp3"
     }
   ],
   "geography": [
@@ -2161,7 +2260,13 @@
       "en": "Hebrew",
       "tone": "iv'riyt",
       "he": "עִבְרִית",
-      "audio": ""
+      "audio": "https://static.memrise.com/uploads/things/audio/90095664_160329_0236_37.mp3"
+    },
+    {
+      "en": "English",
+      "tone": "an'g'liyt",
+      "he": "אַנְגְּלִית",
+      "audio": "https://static.memrise.com/uploads/things/audio/90095666_160329_0236_40.mp3"
     }
   ],
   "virtues": [
