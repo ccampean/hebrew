@@ -596,6 +596,24 @@
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/bird-in-hebrew-translation.mp3"
     },
     {
+      "en": "bee",
+      "tone": "d'vorah",
+      "he": "דְּבוֹרָה",
+      "audio": "https://static.memrise.com/uploads/things/audio/62465819_1437628462675.mp3"
+    },
+    {
+      "en": "honey bee",
+      "tone": "d'vorat d'vash",
+      "he": "דְבוֹרָת דְבַשׁ",
+      "audio": "https://static.memrise.com/uploads/things/audio/65696913_1439069596667.mp3"
+    },
+    {
+      "en": "bees",
+      "tone": "d'voriym",
+      "he": "דְּבוֹרִים",
+      "audio": "https://static.memrise.com/uploads/things/audio/65490856_1437507156307.mp3"
+    },
+    {
       "en": "cow",
       "tone": "parah",
       "he": "פָּרָה",
@@ -788,6 +806,12 @@
       "tone": "p'riy",
       "he": "פְּרִי",
       "audio": "https://static.memrise.com/uploads/things/audio/100663701_160330_0450_09.mp3"
+    },
+    {
+      "en": "pollen; powder",
+      "tone": "av'kah",
+      "he": "אֲבָקָה",
+      "audio": "https://static.memrise.com/uploads/things/audio/65491373_1437507240467.mp3"
     },
     {
       "en": "orange",
@@ -1921,7 +1945,7 @@
       "en": "quen",
       "tone": "malkah",
       "he": "מַלְכָּה",
-      "audio": ""
+      "audio": "https://static.memrise.com/uploads/things/audio/65490987_1437507223350.mp3"
     },
     {
       "en": "pharaoh",
@@ -2303,6 +2327,28 @@
       "audio": ""
     }
   ],
+  "residence": [
+    {
+      "en": "hive; beehive",
+      "tone": "caveret",
+      "he": "כַּוֶרֶת",
+      "audio": "https://static.memrise.com/uploads/things/audio/65490961_1437507203689.mp3"
+    },
+    {
+      "en": "honeycomb",
+      "tone": "chalat d'vash",
+      "he": "חַלַת דְבַשׁ",
+      "audio": "https://static.memrise.com/uploads/things/audio/65696900_1438110806690.mp3"
+    }
+  ],
+  "tools": [
+    {
+      "en": "sting",
+      "tone": "oketz",
+      "he": "עֹקֶץ",
+      "audio": "https://static.memrise.com/uploads/things/audio/65490870_1437507172151.mp3"
+    }
+  ],
   "activities": [
     {
       "en": "to rest; to relax",
@@ -2330,6 +2376,12 @@
     }
   ],
   "professions": [
+    {
+      "en": "workers; worker bees",
+      "tone": "poalot",
+      "he": "פּוֹעָלוֹת",
+      "audio": "https://static.memrise.com/uploads/things/audio/65697181_1438110940113.mp3"
+    },
     {
       "en": "salesmen",
       "tone": "moher",
