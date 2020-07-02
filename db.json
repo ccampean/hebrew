@@ -436,6 +436,32 @@
       "tone": "beholzot",
       "he": "בְּכָל זֹאת",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/yet-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "unless",
+      "tone": "ela im ken",
+      "he": "אֶלָא אִם כֵּן",
+      "audio": ""
+    }
+  ],
+  "interjections": [
+    {
+      "en": "come on; hurry up; let's go",
+      "tone": "yal'lah",
+      "he": "יַאלְלָה",
+      "audio": ""
+    },
+    {
+      "en": "what a coincidence; strange; wow",
+      "tone": "eize keta",
+      "he": "אֵיזֶה קָטַע",
+      "audio": ""
+    },
+    {
+      "en": "bottom line; to cut it short; straight to the point",
+      "tone": "tachles",
+      "he": "תַכְלֶס",
+      "audio": ""
     }
   ],
   "adjectives": [
@@ -461,6 +487,18 @@
       "en": "apropos",
       "tone": "agav",
       "he": "אַגַב",
+      "audio": ""
+    },
+    {
+      "en": "briefly; concisely",
+      "tone": "bekitzur",
+      "he": "בְּקִצּוּר",
+      "audio": ""
+    },
+    {
+      "en": "really; for real; truly",
+      "tone": "",
+      "he": "אַשְׁכָּרָה",
       "audio": ""
     }
   ],
@@ -1592,10 +1630,10 @@
       ]
     },
     {
-      "en": "Congratulations",
+      "en": "Congratulations; Well Done",
       "tone": "mazal tov",
       "he": "מַזָּל טוֹב",
-      "audio": "https://static.memrise.com/uploads/things/audio/90095677_160329_0236_52.mp3"
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/congratulations-in-hebrew-translation.mp3"
     },
     {
       "en": "Good Morning",
@@ -1710,12 +1748,6 @@
       "tone": "hag sameach",
       "he": "חַג שָׂמֵחַ",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/happy-holidays-in-hebrew-translation.mp3"
-    },
-    {
-      "en": "Congratulations; Well Done",
-      "tone": "mazel tov",
-      "he": "מַזָּל טוֹב",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/congratulations-in-hebrew-translation.mp3"
     }
   ],
   "Holidays": [
@@ -2217,6 +2249,12 @@
       "audio": "https://static.memrise.com/uploads/things/audio/90095660_160329_0236_25.mp3"
     },
     {
+      "en": "noon; midday",
+      "tone": "tzoraim",
+      "he": "צָהֳרַיִים",
+      "audio": ""
+    },
+    {
       "en": "evening",
       "tone": "erev",
       "he": "עֶרֶב",
@@ -2339,6 +2377,12 @@
       "tone": "chalat d'vash",
       "he": "חַלַת דְבַשׁ",
       "audio": "https://static.memrise.com/uploads/things/audio/65696900_1438110806690.mp3"
+    },
+    {
+      "en": "market",
+      "tone": "shuk",
+      "he": "שׁוּק",
+      "audio": ""
     }
   ],
   "tools": [
@@ -2373,6 +2417,12 @@
       "tone": "",
       "he": "לִקְרוֹא",
       "audio": ""
+    },
+    {
+      "en": "to market",
+      "tone": "leshavek",
+      "he": "לְשַׁוֵּק",
+      "audio": ""
     }
   ],
   "professions": [
@@ -2404,6 +2454,12 @@
       "en": "thief",
       "tone": "ganav",
       "he": "גַנָב",
+      "audio": ""
+    },
+    {
+      "en": "marketing",
+      "tone": "shivook",
+      "he": "שִׁוּוּק",
       "audio": ""
     }
   ],
@@ -2482,7 +2538,7 @@
       "audio": ""
     },
     {
-      "en": "roof",
+      "en": "roof; rooftop; maximum",
       "tone": "gag",
       "he": "גַג",
       "audio": ""
