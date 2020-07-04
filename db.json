@@ -1396,70 +1396,10 @@
       "audio": "https://static.memrise.com/uploads/things/audio/100663769_160330_0450_55.mp3"
     },
     {
-      "en": "spoon",
-      "tone": "kaf",
-      "he": "כַּף",
-      "audio": "https://static.memrise.com/uploads/things/audio/101104081_160403_0648_31.mp3"
-    },
-    {
-      "en": "teaspoon",
-      "tone": "kapit",
-      "he": "כַּפִּית",
-      "audio": "https://static.memrise.com/uploads/things/audio/101104186_160403_0648_41.mp3"
-    },
-    {
-      "en": "fork",
-      "tone": "maz'leg",
-      "he": "מַזְלֵג",
-      "audio": "https://static.memrise.com/uploads/things/audio/101103961_160403_0648_24.mp3"
-    },
-    {
-      "en": "knife",
-      "tone": "sakin",
-      "he": "סַכִּין",
-      "audio": "https://static.memrise.com/uploads/things/audio/101103978_160403_0648_27.mp3"
-    },
-    {
-      "en": "cup",
-      "tone": "cos",
-      "he": "כּוֹס",
-      "audio": "https://static.memrise.com/uploads/things/audio/101104063_160403_0648_28.mp3"
-    },
-    {
-      "en": "bottle",
-      "tone": "bak'buk",
-      "he": "בַּקְבּוּק",
-      "audio": "https://static.memrise.com/uploads/things/audio/100663773_160330_0451_05.mp3"
-    },
-    {
-      "en": "bowl",
-      "tone": "k'ara",
-      "he": "קְעָרָה",
-      "audio": "https://static.memrise.com/uploads/things/audio/101104084_160403_0648_35.mp3"
-    },
-    {
-      "en": "pot",
-      "tone": "sir",
-      "he": "סִיר",
-      "audio": "https://static.memrise.com/uploads/things/audio/101104389_160403_0649_59.mp3"
-    },
-    {
-      "en": "napkin",
-      "tone": "mapit",
-      "he": "מַפִּית",
-      "audio": "https://static.memrise.com/uploads/things/audio/101104079_160403_0648_30.mp3"
-    },
-    {
       "en": "restaurant",
       "tone": "misaada",
       "he": "מִסְעָדָה",
       "audio": "https://static.memrise.com/uploads/things/audio/101104211_160403_0648_51.mp3"
-    },
-    {
-      "en": "kitchen",
-      "tone": "mit'bach",
-      "he": "מִטְבָּח",
-      "audio": "https://static.memrise.com/uploads/things/audio/101104265_160403_0649_05.mp3"
     },
     {
       "en": "smell",
@@ -1539,6 +1479,110 @@
       "audio": "https://static.memrise.com/uploads/things/audio/65756162_1438111771349.mp3"
     }
   ],
+  "kitchen": [
+    {
+      "en": "kitchen",
+      "tone": "mit'bach",
+      "he": "מִטְבָּח",
+      "audio": "https://static.memrise.com/uploads/things/audio/101104265_160403_0649_05.mp3"
+    },
+    {
+      "en": "tablecloth",
+      "tone": "mapa",
+      "he": "מַפָּה",
+      "audio": ""
+    },
+    {
+      "en": "napkin",
+      "tone": "mapit",
+      "he": "מַפִּית",
+      "audio": "https://static.memrise.com/uploads/things/audio/101104079_160403_0648_30.mp3"
+    },
+    {
+      "en": "plate",
+      "tone": "tzalachat",
+      "he": "צַלַּחַת",
+      "audio": "https://lang_src.s3.amazonaws.com/360_he201504.mp3"
+    },
+    {
+      "en": "bowl",
+      "tone": "qe'ara",
+      "he": "קְעָרָה",
+      "audio": [
+        "https://static.memrise.com/uploads/things/audio/101104084_160403_0648_35.mp3",
+        "https://lang_src.s3.amazonaws.com/361_he201504.mp3"
+      ]
+    },
+    {
+      "en": "spoon",
+      "tone": "kaf",
+      "he": "כַּף",
+      "audio": "https://static.memrise.com/uploads/things/audio/101104081_160403_0648_31.mp3"
+    },
+    {
+      "en": "teaspoon",
+      "tone": "kapit",
+      "he": "כַּפִּית",
+      "audio": "https://static.memrise.com/uploads/things/audio/101104186_160403_0648_41.mp3"
+    },
+    {
+      "en": "fork",
+      "tone": "maz'leg",
+      "he": "מַזְלֵג",
+      "audio": "https://static.memrise.com/uploads/things/audio/101103961_160403_0648_24.mp3"
+    },
+    {
+      "en": "knife",
+      "tone": "sakin",
+      "he": "סַכִּין",
+      "audio": "https://static.memrise.com/uploads/things/audio/101103978_160403_0648_27.mp3"
+    },
+    {
+      "en": "scissors",
+      "tone": "misparaim",
+      "he": "מִסְפָּרַיִם",
+      "audio": ""
+    },
+    {
+      "en": "cup",
+      "tone": "sefel",
+      "he": "סֶפֶל",
+      "audio": "https://lang_src.s3.amazonaws.com/362_he201504.mp3"
+    },
+    {
+      "en": "glass",
+      "tone": "kos",
+      "he": "כּוֹס",
+      "audio": [
+        "https://static.memrise.com/uploads/things/audio/101104063_160403_0648_28.mp3",
+        "https://lang_src.s3.amazonaws.com/363_he201504.mp3"
+      ]
+    },
+    {
+      "en": "pot",
+      "tone": "sir",
+      "he": "סִיר",
+      "audio": "https://static.memrise.com/uploads/things/audio/101104389_160403_0649_59.mp3"
+    },
+    {
+      "en": "pan",
+      "tone": "mahavat",
+      "he": "מַחֲבַת",
+      "audio": ""
+    },
+    {
+      "en": "bottle",
+      "tone": "baqbuq",
+      "he": "בַּקְבּוּק",
+      "audio": "https://static.memrise.com/uploads/things/audio/100663773_160330_0451_05.mp3"
+    },
+    {
+      "en": "kettle",
+      "tone": "kumkum",
+      "he": "קוּמְקוּם",
+      "audio": ""
+    }
+  ],
   "religion": [
     {
       "en": "Torah",
@@ -1602,6 +1646,12 @@
     }
   ],
   "greetings": [
+    {
+      "en": "Cheers",
+      "tone": "lehaym",
+      "he": "לְחַיִּים",
+      "audio": "https://lang_src.s3.amazonaws.com/54_h.mp3"
+    },
     {
       "en": "Hello; Peace",
       "tone": "shalom",
