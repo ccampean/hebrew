@@ -913,7 +913,7 @@
     },
     {
       "en": "pomegranate",
-      "tone": "",
+      "tone": "rimon",
       "he": "רִמוֹן",
       "audio": ""
     },
@@ -934,6 +934,12 @@
       "tone": "tut",
       "he": "תּוּת",
       "audio": "https://static.memrise.com/uploads/things/audio/100663717_160330_0450_20.mp3"
+    },
+    {
+      "en": "cranberry",
+      "tone": "chamutziyt",
+      "he": "חֲמוּצִית",
+      "audio": ""
     },
     {
       "en": "grape",
