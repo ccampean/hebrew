@@ -326,13 +326,13 @@
       "en": "(m) y'all",
       "tone": "atem",
       "he": "אַתֶּם",
-      "audio": ""
+      "audio": "https://lang_src.s3.amazonaws.com/391_h.mp3"
     },
     {
       "en": "(f) y'all",
       "tone": "aten",
       "he": "אַתֶּן",
-      "audio": ""
+      "audio": "https://lang_src.s3.amazonaws.com/392_h.mp3"
     },
     {
       "en": "(m) they",
@@ -344,7 +344,7 @@
       "en": "(f) they",
       "tone": "hen",
       "he": "הֵן",
-      "audio": ""
+      "audio": "https://lang_src.s3.amazonaws.com/394_h.mp3"
     },
     {
       "en": "all; any; each; every",
@@ -374,7 +374,15 @@
       "en": "who",
       "tone": "mi",
       "he": "מִי",
-      "audio": ""
+      "audio": "https://lang_src.s3.amazonaws.com/053_he201504.mp3"
+    }
+  ],
+  "article": [
+    {
+      "en": "the",
+      "tone": "ha",
+      "he": "הָ",
+      "audio": "https://lang_src.s3.amazonaws.com/040_he201504.mp3"
     }
   ],
   "prepositions": [
@@ -442,6 +450,12 @@
       "tone": "ela im ken",
       "he": "אֶלָא אִם כֵּן",
       "audio": ""
+    },
+    {
+      "en": "or",
+      "tone": "o",
+      "he": "אוֹ",
+      "audio": "https://lang_src.s3.amazonaws.com/043_he201504.mp3"
     }
   ],
   "interjections": [
@@ -476,6 +490,12 @@
       "tone": "zot",
       "he": "זֹאת",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/this-feminine-hebrew-translation.mp3"
+    },
+    {
+      "en": "it",
+      "tone": "ze",
+      "he": "זֶה",
+      "audio": "https://lang_src.s3.amazonaws.com/388_h.mp3"
     },
     {
       "en": "thus",
@@ -530,16 +550,22 @@
   ],
   "adverbs": [
     {
+      "en": "good",
+      "tone": "tov",
+      "he": "טוֹב",
+      "audio": "https://lang_src.s3.amazonaws.com/37_h.mp3"
+    },
+    {
       "en": "before",
       "tone": "lifnei",
-      "he": "לִפנֵי",
-      "audio": ""
+      "he": "לִפְנֵי",
+      "audio": "https://lang_src.s3.amazonaws.com/648_h.mp3"
     },
     {
       "en": "after",
       "tone": "aharei",
       "he": "אַחֲרֵי",
-      "audio": ""
+      "audio": "https://lang_src.s3.amazonaws.com/020_he201504.mp3"
     },
     {
       "en": "there is",
@@ -575,13 +601,13 @@
       "en": "when",
       "tone": "matai",
       "he": "מָתַי",
-      "audio": ""
+      "audio": "https://lang_src.s3.amazonaws.com/379_h.mp3"
     },
     {
       "en": "how",
       "tone": "eih",
-      "he": "אֵיך",
-      "audio": ""
+      "he": "אֵיךְ",
+      "audio": "https://lang_src.s3.amazonaws.com/487_he201504.mp3"
     },
     {
       "en": "how much",
@@ -2517,6 +2543,12 @@
       "tone": "shivook",
       "he": "שִׁוּוּק",
       "audio": ""
+    },
+    {
+      "en": "student",
+      "tone": "(m) talmid / (f) talmida",
+      "he": "תַּלְמִיד / תַּלְמִידה",
+      "audio": "https://lang_src.s3.amazonaws.com/h415_2013.mp3"
     }
   ],
   "music": [
