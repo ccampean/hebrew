@@ -524,6 +524,12 @@
   ],
   "verbs": [
     {
+      "en": "to learn; to study",
+      "tone": "lamad",
+      "he": "לָמַד",
+      "audio": "https://lang_src.s3.amazonaws.com/516_he201504.mp3"
+    },
+    {
       "en": "to bake",
       "tone": "leefot",
       "he": "לֶאֱפוֹת",
@@ -536,16 +542,64 @@
       "audio": "https://static.memrise.com/uploads/things/audio/100663650_160330_0449_56.mp3"
     },
     {
+      "en": "to bless",
+      "tone": "berekh",
+      "he": "בֵּרֵך",
+      "audio": "https://lang_src.s3.amazonaws.com/573_he201504.mp3"
+    },
+    {
       "en": "to taste",
       "tone": "lit'om",
       "he": "לִטְעֹם",
       "audio": "https://static.memrise.com/uploads/things/audio/65756168_1438111873066.mp3"
     },
     {
+      "en": "to smoke",
+      "tone": "ishen",
+      "he": "עִשֵׁן",
+      "audio": "https://lang_src.s3.amazonaws.com/571_he201504.mp3"
+    },
+    {
       "en": "to sweeten",
       "tone": "l'ham'tiyk",
       "he": "לְהַמְתִּיק",
       "audio": "https://static.memrise.com/uploads/things/audio/65756281_1438111957476.mp3"
+    },
+    {
+      "en": "to speak",
+      "tone": "diber",
+      "he": "דִּבֵּר",
+      "audio": "https://lang_src.s3.amazonaws.com/570_he201504.mp3"
+    },
+    {
+      "en": "to be late",
+      "tone": "eher",
+      "he": "אֵחֵר",
+      "audio": "https://lang_src.s3.amazonaws.com/572_he201504.mp3"
+    },
+    {
+      "en": "to close",
+      "tone": "sagar",
+      "he": "סָגַר",
+      "audio": "https://lang_src.s3.amazonaws.com/515_he201504.mp3"
+    },
+    {
+      "en": "to finish",
+      "tone": "gamar",
+      "he": "גָּמַר",
+      "audio": "https://lang_src.s3.amazonaws.com/514_he201504.mp3"
+    },
+    {
+      "en": "to write",
+      "tone": "katav",
+      "he": "כָּתַב",
+      "audio": "https://lang_src.s3.amazonaws.com/513_he201504.mp3"
+    },
+    {
+      "en": "to look after; to guard; to keep",
+      "tone": "shamar",
+      "he": "שָׁמַר",
+      "audio": "https://lang_src.s3.amazonaws.com/512_he201504.mp3"
     }
   ],
   "adverbs": [
@@ -2186,6 +2240,18 @@
       "tone": "ban'k",
       "he": "בַּנְק",
       "audio": ""
+    },
+    {
+      "en": "wallet; purse",
+      "tone": "arnak",
+      "he": "אַרְנָק",
+      "audio": "https://lang_src.s3.amazonaws.com/h570_2013.mp3"
+    },
+    {
+      "en": "money; silver",
+      "tone": "kesef",
+      "he": "כֶּסֶף",
+      "audio": "https://lang_src.s3.amazonaws.com/679_h.mp3"
     }
   ],
   "toys": [
