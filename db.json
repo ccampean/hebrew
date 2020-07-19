@@ -520,6 +520,18 @@
       "tone": "",
       "he": "אַשְׁכָּרָה",
       "audio": ""
+    },
+    {
+      "en": "cold",
+      "tone": "kar",
+      "he": "קַר",
+      "audio": "https://lang_src.s3.amazonaws.com/553_h.mp3"
+    },
+    {
+      "en": "hot",
+      "tone": "ham",
+      "he": "חַם",
+      "audio": "https://lang_src.s3.amazonaws.com/551_h.mp3"
     }
   ],
   "verbs": [
@@ -603,6 +615,18 @@
     }
   ],
   "adverbs": [
+    {
+      "en": "Yes",
+      "tone": "ken",
+      "he": "כֵּן",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/how-to-say-yes-in-hebrew.mp3"
+    },
+    {
+      "en": "No",
+      "tone": "lo",
+      "he": "לֹא",
+      "audio": "https://lang_src.s3.amazonaws.com/56_h.mp3"
+    },
     {
       "en": "good",
       "tone": "tov",
@@ -1568,15 +1592,27 @@
   "kitchen": [
     {
       "en": "kitchen",
-      "tone": "mit'bach",
+      "tone": "mitbach",
       "he": "מִטְבָּח",
       "audio": "https://static.memrise.com/uploads/things/audio/101104265_160403_0649_05.mp3"
+    },
+    {
+      "en": "table",
+      "tone": "shuljan",
+      "he": "שֻׁלְחָן",
+      "audio": "https://lang_src.s3.amazonaws.com/269_he201504.mp3"
     },
     {
       "en": "tablecloth",
       "tone": "mapa",
       "he": "מַפָּה",
       "audio": ""
+    },
+    {
+      "en": "chair",
+      "tone": "kise",
+      "he": "כִּסֵּא",
+      "audio": "https://lang_src.s3.amazonaws.com/267_he201504.mp3"
     },
     {
       "en": "napkin",
@@ -1667,6 +1703,108 @@
       "tone": "kumkum",
       "he": "קוּמְקוּם",
       "audio": ""
+    },
+    {
+      "en": "refrigerator",
+      "tone": "mekarer",
+      "he": "מְקָרֵר",
+      "audio": "https://lang_src.s3.amazonaws.com/352_he201504.mp3"
+    },
+    {
+      "en": "oven",
+      "tone": "tanur",
+      "he": "תַּנּוּר",
+      "audio": "https://lang_src.s3.amazonaws.com/358_he201504.mp3"
+    }
+  ],
+  "living room": [
+    {
+      "en": "living room; lounge; salon; parlor; parlour; guest room",
+      "tone": "salon",
+      "he": "סָלוֹן",
+      "audio": "https://lang_src.s3.amazonaws.com/263_he201504.mp3"
+    },
+    {
+      "en": "arm chair",
+      "tone": "koursa",
+      "he": "כֻּרְסָה",
+      "audio": "https://lang_src.s3.amazonaws.com/266_he201504.mp3"
+    },
+    {
+      "en": "couch",
+      "tone": "sapa",
+      "he": "סַפָּה",
+      "audio": "https://lang_src.s3.amazonaws.com/265_he201504.mp3"
+    },
+    {
+      "en": "carpet",
+      "tone": "shatiah",
+      "he": "שָׁטִיחַ",
+      "audio": ""
+    },
+    {
+      "en": "tableau; picture",
+      "tone": "tmuna",
+      "he": "תְּמוּנָה",
+      "audio": ""
+    }
+  ],
+  "bedroom": [
+    {
+      "en": "bedroom",
+      "tone": "jadar shena",
+      "he": "חֲדַר שֵׁנָה",
+      "audio": "https://lang_src.s3.amazonaws.com/320_he201504.mp3"
+    },
+    {
+      "en": "bed",
+      "tone": "mita",
+      "he": "מִטָּה",
+      "audio": "https://lang_src.s3.amazonaws.com/321_he201504.mp3"
+    },
+    {
+      "en": "mattress",
+      "tone": "mizran",
+      "he": "מִזרָן",
+      "audio": ""
+    },
+    {
+      "en": "pillow",
+      "tone": "car",
+      "he": "כַּר",
+      "audio": ""
+    },
+    {
+      "en": "closet",
+      "tone": "aron",
+      "he": "אָרוֹן",
+      "audio": "https://lang_src.s3.amazonaws.com/328_he201504.mp3"
+    },
+    {
+      "en": "curtain; drapery",
+      "tone": "vilon",
+      "he": "וִילוֹן",
+      "audio": ""
+    },
+    {
+      "en": "mirror",
+      "tone": "mar'a",
+      "he": "מַרְאָה",
+      "audio": "https://lang_src.s3.amazonaws.com/288_he201504.mp3"
+    }
+  ],
+  "bathroom": [
+    {
+      "en": "bathroom",
+      "tone": "hadar ambatia",
+      "he": "חֲדַר אַמְבַטיָה",
+      "audio": "https://lang_src.s3.amazonaws.com/286_he201504.mp3"
+    },
+    {
+      "en": "bathtub",
+      "tone": "ambatia",
+      "he": "אַמְבַטיָה",
+      "audio": "https://lang_src.s3.amazonaws.com/287_he201504.mp3"
     }
   ],
   "religion": [
@@ -1886,7 +2024,7 @@
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/happy-holidays-in-hebrew-translation.mp3"
     }
   ],
-  "Holidays": [
+  "holidays": [
     {
       "en": "Beginning of the Month; Head of the Month",
       "tone": "Rosh Hodesh",
@@ -2200,7 +2338,33 @@
       "audio": ""
     }
   ],
+  "men": [
+    {
+      "en": "Aaron",
+      "tone": "Aharon",
+      "he": "אַהֲרֹן",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Aaron-in-hebrew-translation.mp3.mp3"
+    },
+    {
+      "en": "Jesus",
+      "tone": "Ieshu",
+      "he": "יֵשׁוּ",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/jesus-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Joshua",
+      "tone": "Ieoshua",
+      "he": "יְהוֹשֻׁעַ",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/joshua-in-hebrew-translation.mp3"
+    }
+  ],
   "women": [
+    {
+      "en": "Abigail",
+      "tone": "Avigail",
+      "he": "אֲבִיגַיִל",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Abigail-in-hebrew-translation.mp3.mp3"
+    },
     {
       "en": "Hannah",
       "tone": "hana",
@@ -2252,6 +2416,18 @@
       "tone": "kesef",
       "he": "כֶּסֶף",
       "audio": "https://lang_src.s3.amazonaws.com/679_h.mp3"
+    },
+    {
+      "en": "fortune; coriander; success; luck",
+      "tone": "gad",
+      "he": "גַד",
+      "audio": ""
+    },
+    {
+      "en": "market",
+      "tone": "shuk",
+      "he": "שׁוּק",
+      "audio": ""
     }
   ],
   "toys": [
@@ -2413,6 +2589,18 @@
       "tone": "laila",
       "he": "לַיְלָה",
       "audio": "https://static.memrise.com/uploads/things/audio/90095659_160329_0236_22.mp3"
+    },
+    {
+      "en": "dark",
+      "tone": "(m) kehe; (f) keha",
+      "he": "כֵּהֶה / כהה",
+      "audio": "https://lang_src.s3.amazonaws.com/213_h.ogg"
+    },
+    {
+      "en": "light",
+      "tone": "or",
+      "he": "אוֹר",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/hebrew-word-for-light.mp3"
     }
   ],
   "geography": [
@@ -2515,6 +2703,78 @@
   ],
   "residence": [
     {
+      "en": "house; home",
+      "tone": "bayit",
+      "he": "בַּיִת",
+      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/house-hebrew-translation.mp3"
+    },
+    {
+      "en": "building",
+      "tone": "binian",
+      "he": "בִּניָן",
+      "audio": ""
+    },
+    {
+      "en": "room",
+      "tone": "heder",
+      "he": "חֶדֶר",
+      "audio": "https://lang_src.s3.amazonaws.com/h729_2013.mp3"
+    },
+    {
+      "en": "balcony; terrace",
+      "tone": "mirpeset",
+      "he": "מִרפֶּסֶת",
+      "audio": ""
+    },
+    {
+      "en": "apartment",
+      "tone": "dira",
+      "he": "דִירָה",
+      "audio": ""
+    },
+    {
+      "en": "door",
+      "tone": "delet",
+      "he": "דֶלֶת",
+      "audio": ""
+    },
+    {
+      "en": "window",
+      "tone": "halon",
+      "he": "חַלּוֹן",
+      "audio": "https://lang_src.s3.amazonaws.com/411_he201504.mp3"
+    },
+    {
+      "en": "floor",
+      "tone": "ritzpa",
+      "he": "רִצְפָּה",
+      "audio": "https://lang_src.s3.amazonaws.com/410_he201504.mp3"
+    },
+    {
+      "en": "ceiling",
+      "tone": "tiqra",
+      "he": "תִּקְרָה",
+      "audio": "https://lang_src.s3.amazonaws.com/446_he201504.mp3"
+    },
+    {
+      "en": "wall",
+      "tone": "qir",
+      "he": "קִיר",
+      "audio": "https://lang_src.s3.amazonaws.com/445_he201504.mp3"
+    },
+    {
+      "en": "stairs",
+      "tone": "midragot",
+      "he": "מִדְּרָגוֹת",
+      "audio": ""
+    },
+    {
+      "en": "elevator",
+      "tone": "maalit",
+      "he": "מַעֲלִית",
+      "audio": ""
+    },
+    {
       "en": "hive; beehive",
       "tone": "caveret",
       "he": "כַּוֶרֶת",
@@ -2525,12 +2785,6 @@
       "tone": "chalat d'vash",
       "he": "חַלַת דְבַשׁ",
       "audio": "https://static.memrise.com/uploads/things/audio/65696900_1438110806690.mp3"
-    },
-    {
-      "en": "market",
-      "tone": "shuk",
-      "he": "שׁוּק",
-      "audio": ""
     }
   ],
   "tools": [
@@ -2676,6 +2930,24 @@
       "tone": "kiys",
       "he": "כִּיס",
       "audio": ""
+    },
+    {
+      "en": "cloth; canvas; textile",
+      "tone": "bad",
+      "he": "בַּד",
+      "audio": ""
+    },
+    {
+      "en": "clothes",
+      "tone": "bgadim",
+      "he": "בֶּגֶדים",
+      "audio": "https://lang_src.s3.amazonaws.com/h524_2013.mp3"
+    },
+    {
+      "en": "clothing; costume; dress",
+      "tone": "beghed",
+      "he": "בֶּגֶד",
+      "audio": ""
     }
   ],
   "mixed": [
@@ -2695,24 +2967,6 @@
       "en": "roof; rooftop; maximum",
       "tone": "gag",
       "he": "גַג",
-      "audio": ""
-    },
-    {
-      "en": "cloth; canvas; textile",
-      "tone": "bad",
-      "he": "בַּד",
-      "audio": ""
-    },
-    {
-      "en": "clothing; costume; dress",
-      "tone": "beghed",
-      "he": "בֶּגֶד",
-      "audio": ""
-    },
-    {
-      "en": "fortune; coriander; success; luck",
-      "tone": "gad",
-      "he": "גַד",
       "audio": ""
     },
     {
@@ -2752,12 +3006,6 @@
       "audio": ""
     },
     {
-      "en": "light",
-      "tone": "or",
-      "he": "אוֹר",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/hebrew-word-for-light.mp3"
-    },
-    {
       "en": "one",
       "tone": "ehad",
       "he": "אֶחָד",
@@ -2776,18 +3024,6 @@
       "audio": ""
     },
     {
-      "en": "yes",
-      "tone": "ken",
-      "he": "כֵּן",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/how-to-say-yes-in-hebrew.mp3"
-    },
-    {
-      "en": "no",
-      "tone": "lo",
-      "he": "לֹא",
-      "audio": ""
-    },
-    {
       "en": "said",
       "tone": "amar",
       "he": "אָמַר",
@@ -2798,12 +3034,6 @@
       "tone": "sefer",
       "he": "סֵפֶר",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/10/book-in-hebrew-translation.mp3"
-    },
-    {
-      "en": "house; home",
-      "tone": "bayit",
-      "he": "בַּיִת",
-      "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/house-hebrew-translation.mp3"
     }
   ]
 }
