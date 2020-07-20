@@ -2466,10 +2466,22 @@
   ],
   "anatomy": [
     {
+      "en": "body",
+      "tone": "guf",
+      "he": "גּוּף",
+      "audio": "https://lang_src.s3.amazonaws.com/1082.mp3"
+    },
+    {
       "en": "back",
       "tone": "gav",
       "he": "גַב",
       "audio": "https://static.memrise.com/uploads/things/audio/209806906_1548238012292.mp3"
+    },
+    {
+      "en": "head",
+      "tone": "rosh",
+      "he": "רֹאשׁ",
+      "audio": "https://lang_src.s3.amazonaws.com/1083.mp3"
     },
     {
       "en": "face",
@@ -2508,6 +2520,42 @@
       "audio": "https://static.memrise.com/uploads/things/audio/209806918_1548238068703.mp3"
     },
     {
+      "en": "neck",
+      "tone": "tzavar",
+      "he": "צַוָּאר",
+      "audio": "https://lang_src.s3.amazonaws.com/1085.mp3"
+    },
+    {
+      "en": "shoulder",
+      "tone": "catef",
+      "he": "כָּתֵף",
+      "audio": "https://lang_src.s3.amazonaws.com/1086.mp3"
+    },
+    {
+      "en": "chest",
+      "tone": "haze",
+      "he": "חָזֶה",
+      "audio": "https://lang_src.s3.amazonaws.com/1090.mp3"
+    },
+    {
+      "en": "arm",
+      "tone": "zroa",
+      "he": "זְרוֹעַ",
+      "audio": "https://lang_src.s3.amazonaws.com/1088.mp3"
+    },
+    {
+      "en": "armpit",
+      "tone": "bet ashehi",
+      "he": "בֵּית הַשֶּׁחִי",
+      "audio": "https://lang_src.s3.amazonaws.com/1089.mp3"
+    },
+    {
+      "en": "elbow",
+      "tone": "marpek",
+      "he": "מַרְפֵּק",
+      "audio": "https://lang_src.s3.amazonaws.com/1091.mp3"
+    },
+    {
       "en": "finger",
       "tone": "etz'ba",
       "he": "אֶצְבַּע",
@@ -2538,19 +2586,49 @@
       "en": "skin",
       "tone": "or",
       "he": "עוֹר",
-      "audio": ""
+      "audio": "https://lang_src.s3.amazonaws.com/1084.mp3"
     },
     {
-      "en": "stomach",
+      "en": "belly; stomach",
       "tone": "beten",
       "he": "בֶּטֶן",
       "audio": "https://static.memrise.com/uploads/things/audio/209806904_1548238307165.mp3"
+    },
+    {
+      "en": "waist",
+      "tone": "moten",
+      "he": "מֹתֶן",
+      "audio": "https://lang_src.s3.amazonaws.com/1093.mp3"
+    },
+    {
+      "en": "hip; thigh",
+      "tone": "yareh",
+      "he": "יָרֵךְ",
+      "audio": "https://lang_src.s3.amazonaws.com/1096.mp3"
+    },
+    {
+      "en": "buttocks",
+      "tone": "ahoraim",
+      "he": "אֲחוֹרַיִם",
+      "audio": "https://lang_src.s3.amazonaws.com/1094.mp3"
     },
     {
       "en": "leg",
       "tone": "regel",
       "he": "רֶגֶל",
       "audio": "https://static.memrise.com/uploads/things/audio/209806916_1548238059783.mp3"
+    },
+    {
+      "en": "foot",
+      "tone": "caf regel",
+      "he": "כַּף רֶגֶל",
+      "audio": "https://lang_src.s3.amazonaws.com/1098.mp3"
+    },
+    {
+      "en": "knee",
+      "tone": "bereh",
+      "he": "בֶּרֶךְ",
+      "audio": "https://lang_src.s3.amazonaws.com/1097.mp3"
     }
   ],
   "astronomy": [
