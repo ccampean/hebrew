@@ -380,6 +380,24 @@
   "article": [
     {
       "en": "the",
+      "tone": "he",
+      "he": "ה",
+      "audio": "https://lang_src.s3.amazonaws.com/he_h.mp3"
+    },
+    {
+      "en": "the (before חָ and unaccented הָ and עָ)",
+      "tone": "he",
+      "he": "הֶ",
+      "audio": "https://lang_src.s3.amazonaws.com/041_he201504.mp3"
+    },
+    {
+      "en": "the (before ordinary letters; before harsh gutturals ח and ה)",
+      "tone": "ha",
+      "he": "הַ",
+      "audio": "https://lang_src.s3.amazonaws.com/040_he201504.mp3"
+    },
+    {
+      "en": "the (before weaker gutturals ע ,א, and ר; before accented הָ and עָ)",
       "tone": "ha",
       "he": "הָ",
       "audio": "https://lang_src.s3.amazonaws.com/040_he201504.mp3"
