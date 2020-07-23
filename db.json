@@ -417,10 +417,10 @@
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/for-the-sake-of-hebrew-translation.mp3"
     },
     {
-      "en": "in",
+      "en": "in; with; by",
       "tone": "be-",
       "he": "-בְּ",
-      "audio": ""
+      "audio": "https://lang_src.s3.amazonaws.com/bet.mp3"
     },
     {
       "en": "and",
@@ -441,7 +441,7 @@
       "en": "on",
       "tone": "al",
       "he": "עַל",
-      "audio": ""
+      "audio": "https://lang_src.s3.amazonaws.com/026_he201504.mp3"
     },
     {
       "en": "with",
@@ -451,9 +451,9 @@
     },
     {
       "en": "without",
-      "tone": "bli",
+      "tone": "be'lee",
       "he": "בְּלִי",
-      "audio": ""
+      "audio": "https://lang_src.s3.amazonaws.com/022_he201504.mp3"
     }
   ],
   "conjunctions": [
