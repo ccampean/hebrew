@@ -498,6 +498,30 @@
   ],
   "adjectives": [
     {
+      "en": "delicate; gentle",
+      "tone": "adin",
+      "he": "עָדִין",
+      "audio": ""
+    },
+    {
+      "en": "apropos",
+      "tone": "agav",
+      "he": "אַגַב",
+      "audio": ""
+    },
+    {
+      "en": "beautiful",
+      "tone": "(m) iafe; (f) iafa",
+      "he": "יָפֶה / יָפָה",
+      "audio": "https://lang_src.s3.amazonaws.com/h364_2013.mp3"
+    },
+    {
+      "en": "briefly; concisely",
+      "tone": "bekitzur",
+      "he": "בְּקִצּוּר",
+      "audio": ""
+    },
+    {
       "en": "(m) this; that",
       "tone": "ze",
       "he": "זֶה",
@@ -522,18 +546,6 @@
       "audio": ""
     },
     {
-      "en": "apropos",
-      "tone": "agav",
-      "he": "אַגַב",
-      "audio": ""
-    },
-    {
-      "en": "briefly; concisely",
-      "tone": "bekitzur",
-      "he": "בְּקִצּוּר",
-      "audio": ""
-    },
-    {
       "en": "really; for real; truly",
       "tone": "",
       "he": "אַשְׁכָּרָה",
@@ -550,6 +562,24 @@
       "tone": "ham",
       "he": "חַם",
       "audio": "https://lang_src.s3.amazonaws.com/551_h.mp3"
+    },
+    {
+      "en": "joyful; happy; jovial; jolly; cheerful; gay",
+      "tone": "aliz",
+      "he": "עַלִּיז",
+      "audio": ""
+    },
+    {
+      "en": "simple; plain; extended; stretched out",
+      "tone": "pashut",
+      "he": "פָּשׁוּט",
+      "audio": ""
+    },
+    {
+      "en": "wise",
+      "tone": "haham",
+      "he": "חָכָם",
+      "audio": ""
     }
   ],
   "verbs": [
@@ -630,6 +660,24 @@
       "tone": "shamar",
       "he": "שָׁמַר",
       "audio": "https://lang_src.s3.amazonaws.com/512_he201504.mp3"
+    },
+    {
+      "en": "to depart; to leave",
+      "tone": "laazov",
+      "he": "לַעֲזוֹב",
+      "audio": "https://lang_src.s3.amazonaws.com/h670_2013.mp3"
+    },
+    {
+      "en": "to arrive",
+      "tone": "leagia",
+      "he": "לְהַגִיע",
+      "audio": "https://lang_src.s3.amazonaws.com/h671_2013.mp3"
+    },
+    {
+      "en": "to get on board; to board; to cost",
+      "tone": "laalot",
+      "he": "לַעֲלוֹת",
+      "audio": "https://lang_src.s3.amazonaws.com/h672_2013.mp3"
     }
   ],
   "adverbs": [
@@ -2364,8 +2412,38 @@
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Aaron-in-hebrew-translation.mp3.mp3"
     },
     {
+      "en": "Abraham",
+      "tone": "avraham",
+      "he": "אַבְרָהָם",
+      "audio": "https://lang_src.s3.amazonaws.com/077_he201504.mp3"
+    },
+    {
+      "en": "Adam",
+      "tone": "adam",
+      "he": "אָדָם",
+      "audio": "https://lang_src.s3.amazonaws.com/074_he201504.mp3"
+    },
+    {
+      "en": "Moses",
+      "tone": "moshe",
+      "he": "מֹשֶׁה",
+      "audio": "https://lang_src.s3.amazonaws.com/066_he201504.mp3"
+    },
+    {
+      "en": "Mohammed",
+      "tone": "muhamad",
+      "he": "מֻחַמַּד",
+      "audio": "https://lang_src.s3.amazonaws.com/067_he201504.mp3"
+    },
+    {
+      "en": "Michael",
+      "tone": "mikhael",
+      "he": "מִיכָאֵל",
+      "audio": "https://lang_src.s3.amazonaws.com/068_he201504.mp3"
+    },
+    {
       "en": "Jesus",
-      "tone": "Ieshu",
+      "tone": "ieshu",
       "he": "יֵשׁוּ",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/jesus-in-hebrew-translation.mp3"
     },
@@ -2374,14 +2452,50 @@
       "tone": "Ieoshua",
       "he": "יְהוֹשֻׁעַ",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/joshua-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "Joseph",
+      "tone": "iosef",
+      "he": "יוֹסֵף",
+      "audio": "https://lang_src.s3.amazonaws.com/071_he201504.mp3"
+    },
+    {
+      "en": "John",
+      "tone": "iojanan",
+      "he": "יוֹחָנָן",
+      "audio": "https://lang_src.s3.amazonaws.com/069_he201504.mp3"
+    },
+    {
+      "en": "Solomon",
+      "tone": "shlomo",
+      "he": "שְׁלוֹמֹה",
+      "audio": "https://lang_src.s3.amazonaws.com/076_he201504.mp3"
     }
   ],
   "women": [
+    {
+      "en": "Ann",
+      "tone": "jana",
+      "he": "חַנָּה",
+      "audio": "https://lang_src.s3.amazonaws.com/073_he201504.mp3"
+    },
     {
       "en": "Abigail",
       "tone": "Avigail",
       "he": "אֲבִיגַיִל",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Abigail-in-hebrew-translation.mp3.mp3"
+    },
+    {
+      "en": "Elisabeth",
+      "tone": "izevel",
+      "he": "אִיזֶבֶל",
+      "audio": "https://lang_src.s3.amazonaws.com/072_he201504.mp3"
+    },
+    {
+      "en": "Eve",
+      "tone": "java",
+      "he": "חַוָּה",
+      "audio": "https://lang_src.s3.amazonaws.com/075_he201504.mp3"
     },
     {
       "en": "Hannah",
@@ -2396,6 +2510,12 @@
       "audio": ""
     },
     {
+      "en": "Mary",
+      "tone": "miriam",
+      "he": "מִרְיָם",
+      "audio": "https://lang_src.s3.amazonaws.com/070_he201504.mp3"
+    },
+    {
       "en": "Hadassah (Esther)",
       "tone": "hadasa",
       "he": "הֲדַסָּה",
@@ -2405,7 +2525,7 @@
       "en": "Sarah",
       "tone": "sara",
       "he": "שָׂרָה",
-      "audio": ""
+      "audio": "https://lang_src.s3.amazonaws.com/078_he201504.mp3"
     }
   ],
   "emotions": [
@@ -2792,9 +2912,33 @@
   "transportation": [
     {
       "en": "bus",
-      "tone": "otobus",
+      "tone": "ottobus",
       "he": "אוֹטוֹבּוּס",
-      "audio": ""
+      "audio": "https://lang_src.s3.amazonaws.com/597_h.mp3"
+    },
+    {
+      "en": "train",
+      "tone": "rakevet",
+      "he": "רַכֶּבֶת",
+      "audio": "https://lang_src.s3.amazonaws.com/591_h.mp3"
+    },
+    {
+      "en": "ticket",
+      "tone": "kartis",
+      "he": "כַּרְטִיס",
+      "audio": "https://lang_src.s3.amazonaws.com/h653_2013.mp3"
+    },
+    {
+      "en": "destination",
+      "tone": "iaad",
+      "he": "יַעַד",
+      "audio": "https://lang_src.s3.amazonaws.com/h661_2013.mp3"
+    },
+    {
+      "en": "voyage; travel",
+      "tone": "nesiaa",
+      "he": "נְסִיעָה",
+      "audio": "https://lang_src.s3.amazonaws.com/h673_2013.mp3"
     }
   ],
   "residence": [
@@ -2989,13 +3133,13 @@
   ],
   "measurements": [
     {
-      "en": "big",
+      "en": "(m) big",
       "tone": "gadol",
       "he": "גָּדוֹל",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/big-hebrew-translation.mp3"
     },
     {
-      "en": "small",
+      "en": "(m) small",
       "tone": "katan",
       "he": "קָטָן",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/small-hebrew-translation.mp3"
