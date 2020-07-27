@@ -1,8 +1,8 @@
 {
   "consonants": [
     {
-      "en": "",
-      "tone": "aleph",
+      "en": "-",
+      "tone": "alef",
       "he": "א",
       "audio": "https://static.memrise.com/uploads/things/audio/105193004_160505_0852_22.mp3"
     },
@@ -32,7 +32,7 @@
     },
     {
       "en": "h",
-      "tone": "hey",
+      "tone": "he",
       "he": "ה",
       "audio": "https://static.memrise.com/uploads/things/audio/105193017_160505_0853_21.mp3"
     },
@@ -1937,13 +1937,31 @@
   ],
   "greetings": [
     {
+      "en": "Bye",
+      "tone": "bay",
+      "he": "בַּי",
+      "audio": "https://lang_src.s3.amazonaws.com/08_h.mp3"
+    },
+    {
+      "en": "Hi",
+      "tone": "hai",
+      "he": "הַי",
+      "audio": "https://lang_src.s3.amazonaws.com/05_h.mp3"
+    },
+    {
       "en": "Cheers",
       "tone": "lehaym",
       "he": "לְחַיִּים",
       "audio": "https://lang_src.s3.amazonaws.com/54_h.mp3"
     },
     {
-      "en": "Hello; Peace",
+      "en": "Hello",
+      "tone": "alan",
+      "he": "אַהְלָן",
+      "audio": "https://lang_src.s3.amazonaws.com/04_h.mp3"
+    },
+    {
+      "en": "Peace",
       "tone": "shalom",
       "he": "שָׁלוֹם",
       "audio": "https://static.memrise.com/uploads/things/audio/186526494_1526396208834.mp3"
@@ -1994,8 +2012,8 @@
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/Good-evening-in-hebrew-translation.mp3"
     },
     {
-      "en": "Goodbye",
-      "tone": "l'hit'raot",
+      "en": "Good-bye",
+      "tone": "lehitraot",
       "he": "לְהִתְרָאוֹת",
       "audio": "https://static.memrise.com/uploads/things/audio/90095638_160329_0236_01.mp3"
     },
@@ -2088,6 +2106,24 @@
       "tone": "hag sameach",
       "he": "חַג שָׂמֵחַ",
       "audio": "http://www.yallahebrew.com/wp-content/uploads/2018/09/happy-holidays-in-hebrew-translation.mp3"
+    },
+    {
+      "en": "See you later",
+      "tone": "nitrae meuhar yoter",
+      "he": "נִתְרָאֶה מְאֻחָר יוֹתֵר",
+      "audio": "https://lang_src.s3.amazonaws.com/09_h.mp3"
+    },
+    {
+      "en": "See you soon",
+      "tone": "nitrae bekarov",
+      "he": "נִתְרָאֶה בְּקָרוֹב",
+      "audio": "https://lang_src.s3.amazonaws.com/10_h.mp3"
+    },
+    {
+      "en": "See you tomorrow",
+      "tone": "nitrae mahar",
+      "he": "נִתְרָאֶה מָחָר",
+      "audio": "https://lang_src.s3.amazonaws.com/11_h.mp3"
     }
   ],
   "holidays": [
