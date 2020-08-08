@@ -1040,8 +1040,20 @@
       "audio": "https://static.memrise.com/uploads/things/audio/100663788_160330_0451_18.mp3"
     },
     {
+      "en": "pear",
+      "tone": "agas",
+      "he": "אַגָס",
+      "audio": "https://milog.co.il/tts/sound/misc/%D7%90%D6%B7%D7%92%D6%BC%D6%B8%D7%A1.mp3"
+    },
+    {
+      "en": "prickly pear",
+      "tone": "tzabar",
+      "he": "צָבָּר",
+      "audio": "https://milog.co.il/tts/sound/misc/%D7%A6%D6%B7%D7%91%D6%BC%D6%B8%D7%A8.mp3"
+    },
+    {
       "en": "peach",
-      "tone": "afar'sek",
+      "tone": "afarsek",
       "he": "אֲפַרְסֵק",
       "audio": "https://static.memrise.com/uploads/things/audio/61983432_1435762437892.mp3"
     },
@@ -1085,7 +1097,7 @@
       "en": "pomegranate",
       "tone": "rimon",
       "he": "רִמוֹן",
-      "audio": ""
+      "audio": "https://milog.co.il/tts/sound/misc/%D7%A8%D6%B4%D7%9E%D6%BC%D7%95%D6%B9%D7%9F.mp3"
     },
     {
       "en": "cherry",
@@ -1113,7 +1125,7 @@
     },
     {
       "en": "grape",
-      "tone": "ainav",
+      "tone": "enav",
       "he": "עַנָב",
       "audio": "https://static.memrise.com/uploads/things/audio/101104309_160403_0649_32.mp3"
     },
@@ -1202,7 +1214,7 @@
     },
     {
       "en": "tomato",
-      "tone": "ag'vaniya",
+      "tone": "agvania",
       "he": "עַגְבָנִיָּה",
       "audio": "https://static.memrise.com/uploads/things/audio/100663722_160330_0450_31.mp3"
     },
@@ -1211,6 +1223,12 @@
       "tone": "salat",
       "he": "סָלָט",
       "audio": "https://static.memrise.com/uploads/things/audio/100663776_160330_0451_07.mp3"
+    },
+    {
+      "en": "spinach",
+      "tone": "tered",
+      "he": "תֶרֶד",
+      "audio": "https://milog.co.il/tts/sound/misc/%D7%AA%D6%BC%D6%B6%D7%A8%D6%B6%D7%93.mp3"
     },
     {
       "en": "mushroom",
@@ -1253,6 +1271,12 @@
       "tone": "selek",
       "he": "סֶלֶק",
       "audio": "https://static.memrise.com/uploads/things/audio/61984791_1435763142593.mp3"
+    },
+    {
+      "en": "dill",
+      "tone": "shamir",
+      "he": "שָׁמִיר",
+      "audio": "https://milog.co.il/tts/sound/misc/%D7%A9%D7%9E%D6%B4%D7%99%D7%A8.mp3"
     },
     {
       "en": "mint",
