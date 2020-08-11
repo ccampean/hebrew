@@ -15,3 +15,11 @@
 ### Miscellaneous
 
 - https://hebrew.yale.edu/resources
+- What are the six species of fruits and vegetables specific to Israel?
+  - prickly pear
+  - pomegranate
+  - date
+  - fig
+  - grape
+  - wheat
+  - oat
