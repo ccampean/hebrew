@@ -1,6 +1,7 @@
 ### Books
 
 - [Complete Modern Hebrew - Shula Gilboa](https://library.teachyourself.com/id004325151)
+- [Modern Hebrew: An Essential Grammar - Lewis Glinert, 3rd edition](http://alexalejandre.com/language/Hebrew%20-%20Essential%20Grammar.pdf)
 
 ### Vocabulary
 
