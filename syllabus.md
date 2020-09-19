@@ -3,6 +3,10 @@
 - [Complete Modern Hebrew - Shula Gilboa](https://library.teachyourself.com/id004325151)
 - [Modern Hebrew: An Essential Grammar - Lewis Glinert, 3rd edition](http://alexalejandre.com/language/Hebrew%20-%20Essential%20Grammar.pdf)
 
+### Dialects
+
+- http://alexalejandre.com/language/yiddish
+
 ### Vocabulary
 
 - https://en.wikipedia.org/wiki/List_of_English_words_of_Yiddish_origin
