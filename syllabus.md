@@ -17,6 +17,7 @@
 - https://milog.co.il
 - https://forvo.com
 - https://pollylingu.al/he/en
+- https://www.doitinhebrew.com
 
 ### Miscellaneous
 
