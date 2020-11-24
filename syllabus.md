@@ -1,7 +1,8 @@
 ### Books
 
-- [Complete Modern Hebrew - Shula Gilboa](https://library.teachyourself.com/id004325151)
-- [Modern Hebrew: An Essential Grammar - Lewis Glinert, 3rd edition](http://alexalejandre.com/language/Hebrew%20-%20Essential%20Grammar.pdf)
+- [Complete Modern Hebrew ~ Shula Gilboa](https://library.teachyourself.com/id004325151)
+- [Modern Hebrew: An Essential Grammar ~ Lewis Glinert, 3rd edition](http://alexalejandre.com/language/Hebrew%20-%20Essential%20Grammar.pdf)
+- [Limba ebraică ~ Vasile Romulus GANEA](https://www.scribd.com/doc/44445832/ebraica-e-usoara)
 
 ### Dialects
 
@@ -18,6 +19,7 @@
 - https://forvo.com
 - https://pollylingu.al/he/en
 - https://www.doitinhebrew.com
+- [Română - ebraică pentru începători](https://www.goethe-verlag.com/book2/RO/ROHE/ROHE002.HTM)
 
 ### Miscellaneous
 
