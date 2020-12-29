@@ -33,3 +33,12 @@
   - grape
   - wheat
   - oat
+
+
+### Podcasts
+
+- https://www.israelstory.org/episodes
+- https://www.stitcher.com/show/hayot-kiss
+- https://podcasts.apple.com/us/podcast/haaretz-weekly/id1440719849
+- https://play.google.com/store/apps/details?id=de.danoeh.antennapod_mh + https://podcasts.apple.com/us/podcast/%D7%A2%D7%95%D7%A9%D7%99%D7%9D-%D7%94%D7%99%D7%A1%D7%98%D7%95%D7%A8%D7%99%D7%94-%D7%A2%D7%9D-%D7%A8%D7%9F-%D7%9C%D7%95%D7%99-osim-historia-with-ran-levi/id900613182
+- https://www.stitcher.com/show/one-song
